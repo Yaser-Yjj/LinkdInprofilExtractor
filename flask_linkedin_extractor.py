@@ -38,8 +38,6 @@ extraction_status = {
 }
 
 HTML_DIR = "linkedin_pages"
-OUTPUT_DIR = "parsed_profiles"
-os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 
 @app.route('/')
@@ -213,12 +211,25 @@ def run_extraction_process():
             profiles_data.append(data)
             time.sleep(random.randint(5, 10))
 
-        with open("linkedin_profiles.json", "w", encoding="utf-8") as f:
+        base_name = "linkedin_profiles_"
+        output_dir = "profilsExtractor"
+
+        os.makedirs(output_dir, exist_ok=True)
+
+        i = 1
+        while True:
+            filename = os.path.join(output_dir, f"{base_name}{i}.json")
+            if not os.path.exists(filename):
+                break
+            i += 1
+
+        with open(filename, "w", encoding="utf-8") as f:
             json.dump(profiles_data, f, ensure_ascii=False, indent=4)
 
         print(f"✅ {len(profiles_data)} profiles saved to linkedin_profiles.json")
 
-
+        extractor.driver.quit()
+        
         extraction_status.update({
             'profiles_found': len(extractor.profiles),
             'latest_file': json_file,

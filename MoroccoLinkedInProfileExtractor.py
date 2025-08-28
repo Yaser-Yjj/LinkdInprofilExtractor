@@ -53,9 +53,11 @@ class MoroccoLinkedInProfileExtractor:
         try:
             actions.login(self.driver, self.email, self.password)
             return True
-        except:
-            self.driver.quit()
-            return False
+        except Exception as e:
+            print("⚠️ Captcha or login issue detected:", e)
+            print("👉 Please solve the captcha manually in the opened browser...")
+            input("Press ENTER after solving the captcha...")
+            return True
 
     def extract_keywords(self, description):
         stop_words = set(stopwords.words('english'))
@@ -142,12 +144,24 @@ class MoroccoLinkedInProfileExtractor:
 
     def save_to_json(self):
         script_dir = os.path.dirname(os.path.abspath(__file__))
-        filename = f"linkedin_urls_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
-        filepath = os.path.join(script_dir, filename)
+        folder_name = "urlsExtractor"
+        folder_path = os.path.join(script_dir, folder_name)
+
+        os.makedirs(folder_path, exist_ok=True)
+
+        base_name = "linkedin_urls_"
+        i = 1
+        while True:
+            filename = f"{base_name}{i}.json"
+            filepath = os.path.join(folder_path, filename)
+            if not os.path.exists(filepath):
+                break
+            i += 1
+
         urls = [p['profile_url'] for p in self.profiles]
         try:
             with open(filepath, 'w', encoding='utf-8') as f:
-                json.dump(urls, f, indent=2)
+                json.dump(urls, f, ensure_ascii=False, indent=4)
             return filepath
         except:
             return None

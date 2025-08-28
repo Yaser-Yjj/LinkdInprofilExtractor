@@ -5,7 +5,7 @@ Simple Configuration for LinkedIn Profile Extractor
 # Extraction Settings
 import os
 
-MAX_PROFILES = 10
+MAX_PROFILES = 4
 OUTPUT_FILE = "linkedin_profiles.json"
 
 # Browser Settings

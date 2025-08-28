@@ -1,0 +1,262 @@
+[
+    {
+        "url": "https://www.linkedin.com/in/itsachrafmansari",
+        "profile": {
+            "name": "Achraf Mansari",
+            "location": "Casablanca, Casablanca-Settat, Morocco",
+            "about": "I’m a 2nd year Master’s student in Data Science at ENSA Khouribga, actively seeking an end-of-studies internship (Stage PFE) starting from February 2026 in projects related to AI & ML, Data Science or software engineering.\n\nI develop and deploy full-stack applications, integrate machine learning models, and work with structured/unstructured data to create practical, maintainable solutions.\n\nMy skills include :\n- AI & Data Science: Python (Pandas, NumPy, Scikit-learn, Matplotlib), Data Cleaning, Statistical Analysis, Predictive Modeling, Dashboards.\n- Web Development: ReactJS, Django, Flask, REST APIs, API optimization.\n- Deployment & Cloud: Docker, AWS, Heroku, Railway, Vercel.\n- Databases: PostgreSQL, MySQL.\n\nIf your team is working on innovative AI or ML projects and needs a motivated, adaptable intern ready to contribute from day one, let’s talk!",
+            "open_to_work": "N/A"
+        },
+        "experiences": [
+            {
+                "title": "Intern",
+                "company": "EXPERIO · Internship",
+                "from": "Jul 2025",
+                "to": "Present",
+                "description": "Automated LinkedIn lead generation with AI and WhatsApp integration\n\n\nDeveloped a full-stack (Django + React) chatbot-like platform for LinkedIn lead generation with an automated pipeline (Apache Airflow) to transform prompts into filters (via Gemini), run profile searches (SerpAPI), enrich results (ScrapingDog), and store them in a database, and currently working on WhatsApp Business integration for automated outreach and replies.\nAutomated LinkedIn lead generation with AI and WhatsApp integration Developed a full-stack (Django + React) chatbot-like platform for LinkedIn lead generation with an automated pipeline (Apache Airflow) to transform prompts into filters (via Gemini), run profile searches (SerpAPI), enrich results (ScrapingDog), and store them in a database, and currently working on WhatsApp Business integration for automated outreach and replies.\nSkills: Apache Airflow · Agent-based Modeling · Multi-agent Systems · Artificial Intelligence (AI) · docker · Google Gemini · Web Scraping · REST APIs\nApache Airflow · Agent-based Modeling · Multi-agent Systems · Artificial Intelligence (AI) · docker · Google Gemini · Web Scraping · REST APIs"
+            },
+            {
+                "title": "Software Development Intern",
+                "company": "OCP Group · Internship",
+                "from": "Jul 2024",
+                "to": "Jul 2024",
+                "description": "Built a Django/ReactJS website to track the process of requesting and distributing retirees' badges.\nBuilt a Django/ReactJS website to track the process of requesting and distributing retirees' badges.\nSkills: Python (Programming Language) · Django · React.js\nPython (Programming Language) · Django · React.js"
+            },
+            {
+                "title": "Web Development Intern",
+                "company": "1337 Coding School · Internship",
+                "from": "Jun 2024",
+                "to": "Jun 2024",
+                "description": "Developed a Django and ReactJS powered website for 1337 School to automate the internship application and management process, aiming to reduce in-person document submissions.\nDeveloped a Django and ReactJS powered website for 1337 School to automate the internship application and management process, aiming to reduce in-person document submissions.\nSkills: Python (Programming Language) · Django · Django REST Framework · Node.js · React.js · Back-End Web Development · Front-End Development · Web Development · Python\nPython (Programming Language) · Django · Django REST Framework · Node.js · React.js · Back-End Web Development · Front-End Development · Web Development · Python"
+            },
+            {
+                "title": "Technical Support Intern",
+                "company": "Commune of Oued Zem · Internship",
+                "from": "Jul 2023",
+                "to": "Sep 2023",
+                "description": "Developed a PHP/MySQL powered, user-friendly local website for the 1er annexe of the city commune, eliminating the reliance on thousands of Excel files to manage and print provisional birth certificates.\nDeveloped a PHP/MySQL powered, user-friendly local website for the 1er annexe of the city commune, eliminating the reliance on thousands of Excel files to manage and print provisional birth certificates.\nSkills: Server Side · HTML · Tailwind CSS · Cascading Style Sheets (CSS) · MySQL · PHP\nServer Side · HTML · Tailwind CSS · Cascading Style Sheets (CSS) · MySQL · PHP"
+            }
+        ],
+        "educations": [
+            {
+                "institution": "Ecole Nationale des Sciences Appliquées de Khouribga",
+                "degree": "Master's degree, Computer Science and Mathematics for Data Science",
+                "from": "2024",
+                "to": "2026",
+                "description": "N/A"
+            },
+            {
+                "institution": "Ecole Nationale des Sciences Appliquées de Khouribga",
+                "degree": "Master's degree, Computer Science and Mathematics for Data Science",
+                "from": "2024",
+                "to": "2026",
+                "description": "N/A"
+            }
+        ],
+        "interests": [],
+        "accomplishments": [],
+        "contacts": []
+    },
+    {
+        "url": "https://www.linkedin.com/in/salah-eddine-diouri-a67402277",
+        "profile": {
+            "name": "SALAH EDDINE DIOURI",
+            "location": "Fez, Fès-Meknès, Morocco",
+            "about": "Hi there 🖐! I'm Salah Eddine , \nPassionate about designing and building high-performance applications, I specialize in full-stack development using JavaScript, TypeScript, and modern frameworks like React, Vue, and NestJS. My expertise extends across backend architecture, database optimization, and DevOps, ensuring scalable, efficient, and maintainable solutions.\n\nWith a methodical approach to software engineering, I emphasize clean code, structured logging, microservices design, and SOLID principles. Whether refining UI/UX experiences, optimizing queries for PostgreSQL and MongoDB, or mentoring developers, I thrive in dynamic environments that push technical boundaries.\n\n💡 Dedicated to advancing technology through SaaS platforms, AI-driven applications, and cloud-native solutions. Let’s connect and discuss building scalable systems, mastering TypeScript, and creating impactful software!\n…see more",
+            "open_to_work": "N/A"
+        },
+        "experiences": [
+            {
+                "title": "Technical Instructor – Full-Stack Development",
+                "company": " HEITC · Freelance",
+                "from": "Jun 2025",
+                "to": "Aug 2025",
+                "description": "- Delivered comprehensive training in front-end and back-end development, covering HTML, CSS, JavaScript, TypeScript, and Python.\n\n- Taught modern frameworks and libraries including React.js, Angular, and PHP, preparing students for real-world full-stack roles.\n\n- Instructed on backend development with SQL and NoSQL databases (MySQL, MongoDB), and guided students through RESTful API design.\n\n- Led sessions on algorithms, data structures, and software engineering principles such as TDD, SOLID, and clean code practices.\n\n- Mentored aspiring developers through hands-on projects, code reviews, and technical challenges, fostering job-ready skills.\n- Delivered comprehensive training in front-end and back-end development, covering HTML, CSS, JavaScript, TypeScript, and Python. - Taught modern frameworks and libraries including React.js, Angular, and PHP, preparing students for real-world full-stack roles. - Instructed on backend development with SQL and NoSQL databases (MySQL, MongoDB), and guided students through RESTful API design. - Led sessions on algorithms, data structures, and software engineering principles such as TDD, SOLID, and clean code practices. - Mentored aspiring developers through hands-on projects, code reviews, and technical challenges, fostering job-ready skills.\nSkills: Développement full-stack · JavaScript · Python · Node.js · API REST\nDéveloppement full-stack · JavaScript · Python · Node.js · API REST"
+            },
+            {
+                "title": "Senior Full-Stack Developer MERN & PERN ",
+                "company": "LIADTech · Full-time",
+                "from": "May 2025",
+                "to": "Jul 2025",
+                "description": "Passionate about building scalable and modular applications, I specialize in full-stack development using the MERN (MongoDB, Express.js, React, Node.js) and PERN (PostgreSQL, Express.js, React, Node.js) stacks. With a strong foundation in TypeScript, I craft robust, maintainable solutions that enhance application performance and developer experience.\n- 🏗 Architecting scalable backend systems with structured logging, modular services, and optimized database schemas.\n- 🚀 Developing dynamic frontend experiences with React, fine-tuning CSS and PostCSS configurations for efficient styling.\n- 🔍 Debugging and refining production systems, from resolving architecture compatibility issues to optimizing API performance.\n- 🎯 Driving best practices in backend development, ensuring consistency with abstract classes, controllers, and efficient Prisma/MongoDB integration.\nCommitted to iterative refinement and problem-solving, I thrive in delivering high-quality, maintainable software that scales with business needs. Let's build something great together! 🚀\nPassionate about building scalable and modular applications, I specialize in full-stack development using the MERN (MongoDB, Express.js, React, Node.js) and PERN (PostgreSQL, Express.js, React, Node.js) stacks. With a strong foundation in TypeScript, I craft robust, maintainable solutions that enhance application performance and developer experience. - 🏗 Architecting scalable backend systems with structured logging, modular services, and optimized database schemas. - 🚀 Developing dynamic frontend experiences with React, fine-tuning CSS and PostCSS configurations for efficient styling. - 🔍 Debugging and refining production systems, from resolving architecture compatibility issues to optimizing API performance. - 🎯 Driving best practices in backend development, ensuring consistency with abstract classes, controllers, and efficient Prisma/MongoDB integration. Committed to iterative refinement and problem-solving, I thrive in delivering high-quality, maintainable software that scales with business needs. Let's build something great together! 🚀\nSkills: JavaScript · TypeScript · API REST · React.js · Express.js · NestJS · MongoDB · Prisma · PostgreSQL · Méthodologies Agile et Waterfall · Tailwind CSS · Principes SOLID · Testing · Git · Tdd · Node.js\nJavaScript · TypeScript · API REST · React.js · Express.js · NestJS · MongoDB · Prisma · PostgreSQL · Méthodologies Agile et Waterfall · Tailwind CSS · Principes SOLID · Testing · Git · Tdd · Node.js"
+            },
+            {
+                "title": "Lead Instructor - Full-Stack Software Development",
+                "company": "Institut des Techniques Economiques et Informatiques Privé (ITEIP) · Part-time",
+                "from": "Sep 2024",
+                "to": "Mar 2025",
+                "description": "Skills: Développement de logiciels · Développement web · Développement full-stack · Python · API REST · NoSQL · React.js · Bootstrap · HTML5 · Feuilles de style en cascade (CSS) · Angular · Git · GitHub · Laravel\nDéveloppement de logiciels · Développement web · Développement full-stack · Python · API REST · NoSQL · React.js · Bootstrap · HTML5 · Feuilles de style en cascade (CSS) · Angular · Git · GitHub · Laravel"
+            },
+            {
+                "title": "Software Developer",
+                "company": "Alkhawarizmi Services · Freelance",
+                "from": "Nov 2024",
+                "to": "Dec 2024",
+                "description": " helped me get this job\nLinkedIn helped me get this job\nSkills: Développement front-end · Tdd · Angular · JavaScript · TypeScript · Docker · Méthodes agiles\nDéveloppement front-end · Tdd · Angular · JavaScript · TypeScript · Docker · Méthodes agiles"
+            },
+            {
+                "title": "Software Developer",
+                "company": "Business Partners SAS · Full-time",
+                "from": "Jul 2023",
+                "to": "Jun 2024",
+                "description": "Skills: Test Driven Development · GitLab · Scrum · Méthodologies Agile et Waterfall · Automatisation des tests · Spring Boot · API REST · JIRA · API Swagger · PostgreSQL · Amazon Web Services · Ci/CD · Docker · TypeScript · React.js · NestJS\nTest Driven Development · GitLab · Scrum · Méthodologies Agile et Waterfall · Automatisation des tests · Spring Boot · API REST · JIRA · API Swagger · PostgreSQL · Amazon Web Services · Ci/CD · Docker · TypeScript · React.js · NestJS"
+            },
+            {
+                "title": "Full-stack Developer",
+                "company": "Le Carré Digital · Part-time",
+                "from": "Apr 2023",
+                "to": "Jun 2023",
+                "description": "WordPress theme creator\n•Frontend web development\n•Backend API management\nWordPress theme creator •Frontend web development •Backend API management\nSkills: React.js · WordPress · Vue.js\nReact.js · WordPress · Vue.js"
+            },
+            {
+                "title": "Full-stack Developer",
+                "company": "Technopek - Agence Marketing Digital à Agadir · Full-time",
+                "from": "Sep 2022",
+                "to": "Mar 2023",
+                "description": "•Front-end template creator\n•Theme website designer\n•Shopify application developer\n•React & Laravel application developer\n•Front-end template creator •Theme website designer •Shopify application developer •React & Laravel application developer\nSkills: PHP · Shopify · Tailwind CSS · Figma (logiciel) · React.js · Laravel · HTML\nPHP · Shopify · Tailwind CSS · Figma (logiciel) · React.js · Laravel · HTML"
+            },
+            {
+                "title": "Developer",
+                "company": "SmartFlouss! · Full-time",
+                "from": "Feb 2019",
+                "to": "Nov 2021",
+                "description": "• Manage the administrative aspect of the activity\n• Developing a management desktop application.\n• Automate day tasks\n• Manage the administrative aspect of the activity • Developing a management desktop application. • Automate day tasks\nSkills: Import-export · Tkinter · NumPy · CSV · pandas · Python\nImport-export · Tkinter · NumPy · CSV · pandas · Python"
+            }
+        ],
+        "educations": [
+            {
+                "institution": "Faculté des Sciences de Fès",
+                "degree": "Licence, Mathématiques et informatique",
+                "from": "2021",
+                "to": "2022",
+                "description": "Skills: Programmation orientée objet (POO) · C++ · PHP · Java · PL/SQL\nProgrammation orientée objet (POO) · C++ · PHP · Java · PL/SQL"
+            }
+        ],
+        "interests": [],
+        "accomplishments": [],
+        "contacts": []
+    },
+    {
+        "url": "https://www.linkedin.com/in/hamza-oukhouya-b20b361b3",
+        "profile": {
+            "name": "Hamza OUKHOUYA",
+            "location": "Rabat, Rabat-Salé-Kénitra, Morocco",
+            "about": "N/A",
+            "open_to_work": "N/A"
+        },
+        "experiences": [
+            {
+                "title": "Full Stack Engineer",
+                "company": "2CA BUSINESS · Internship",
+                "from": "Jun 2025",
+                "to": "Jul 2025",
+                "description": "laravel vueJS/ReactJs developper\nlaravel vueJS/ReactJs developper\nSkills: API Development · Laravel · PHP · MySQL · PHP Frameworks · React.js · Vue.js · Docker\nAPI Development · Laravel · PHP · MySQL · PHP Frameworks · React.js · Vue.js · Docker"
+            },
+            {
+                "title": "Full Stack Engineer",
+                "company": "SKYLARK SERVICES · Internship",
+                "from": "Oct 2024",
+                "to": "Mar 2025",
+                "description": "Skills: React.js · Spring Boot · Docker · REST APIs · Web Services API · API Development\nReact.js · Spring Boot · Docker · REST APIs · Web Services API · API Development"
+            },
+            {
+                "title": "Microsoft Intune Support Engineer ( B2B )",
+                "company": "Microsoft · Full-time",
+                "from": "Jul 2024",
+                "to": "Oct 2024",
+                "description": "Skills: Cloud Computing · Microsoft Azure · Azure DevOps Server · Azure DevOps Services · Azure Cosmos DB · Amazon Web Services (AWS) · Docker Products · Infrastructure · VMware Infrastructure · Infrastructure as a Service (IaaS) · Platform as a Service (PAAS) · Software as a Service (SaaS) · Microsoft Intune · Active Directory · Microsoft Entra ID\nCloud Computing · Microsoft Azure · Azure DevOps Server · Azure DevOps Services · Azure Cosmos DB · Amazon Web Services (AWS) · Docker Products · Infrastructure · VMware Infrastructure · Infrastructure as a Service (IaaS) · Platform as a Service (PAAS) · Software as a Service (SaaS) · Microsoft Intune · Active Directory · Microsoft Entra ID"
+            },
+            {
+                "title": "Full-stack Developer",
+                "company": "DXC Technology Morocco · Internship",
+                "from": "Feb 2024",
+                "to": "Jul 2024",
+                "description": "Skills: Angular · Scrum · SQL · Bootstrap (Framework) · Spring Boot · Tomcat 5\nAngular · Scrum · SQL · Bootstrap (Framework) · Spring Boot · Tomcat 5"
+            },
+            {
+                "title": "Project Development Manager",
+                "company": "Modcod · Internship",
+                "from": "Aug 2023",
+                "to": "Oct 2023",
+                "description": "Skills: SQL · Redmine\nSQL · Redmine"
+            }
+        ],
+        "educations": [
+            {
+                "institution": "Ecole Marocaine des Sciences de l'ingénieur",
+                "degree": "2019 - 2023",
+                "from": "N/A",
+                "to": "N/A",
+                "description": "Skills: Big Data · C (Programming Language) · PL/SQL · DevOps · Oracle Database · Java · C++ · SQL · Data Analysis\nBig Data · C (Programming Language) · PL/SQL · DevOps · Oracle Database · Java · C++ · SQL · Data Analysis"
+            },
+            {
+                "institution": "Ecole Marocaine des Sciences de l'ingénieur",
+                "degree": "2019 - 2023",
+                "from": "N/A",
+                "to": "N/A",
+                "description": "Skills: Big Data · C (Programming Language) · PL/SQL · DevOps · Oracle Database · Java · C++ · SQL · Data Analysis\nBig Data · C (Programming Language) · PL/SQL · DevOps · Oracle Database · Java · C++ · SQL · Data Analysis"
+            }
+        ],
+        "interests": [],
+        "accomplishments": [],
+        "contacts": []
+    },
+    {
+        "url": "https://www.linkedin.com/in/mtouaamourad",
+        "profile": {
+            "name": "Mourad MTOUAA",
+            "location": "Casablanca, Casablanca-Settat, Morocco",
+            "about": "As a passionate DevOps Engineer, I specialize in bridging development and operations to deliver efficient, reliable solutions. With hands-on experience in cloud-native architectures, CI/CD pipelines, and infrastructure-as-code, I thrive on optimizing workflows and empowering teams to achieve technical excellence.\nAs a passionate DevOps Engineer, I specialize in bridging development and operations to deliver efficient, reliable solutions. With hands-on experience in cloud-native architectures, CI/CD pipelines, and infrastructure-as-code, I thrive on optimizing workflows and empowering teams to achieve technical excellence.",
+            "open_to_work": "N/A"
+        },
+        "experiences": [
+            {
+                "title": "N/A",
+                "company": "Oracle",
+                "from": "N/A",
+                "to": "N/A",
+                "description": "Member of Technical Staff\nMember of Technical Staff\nFull-time\nFull-time\nSep 2022 - Mar 2025 · 2 yrs 7 mos\nSep 2022 to Mar 2025 · 2 yrs 7 mos\nAt Oracle Labs, I’ve led end-to-end DevOps and SRE efforts across critical products like Data Studio, AutoMLx, and Compass, driving innovation in build systems, test automation, and infrastructure reliability.\n\n🚀 Build, Release & CI/CD Excellence\n\nOrchestrated fast, reliable, and fully automated build & release pipelines using Jenkins, Docker, and Bitbucket—cutting deployment time from hours to minutes.\n\nLed architecture-agnostic builds (ARM & x86), and enforced structured release processes across cloud-native environments.\n\nStreamlined legacy test frameworks to run natively in Kubernetes using dynamic pod provisioning—cutting flaky test rates by 40% and boosting reliability.\n\n☁️ Kubernetes & Cloud Operations\n\nManaged multiple zero-downtime upgrades of Oracle Kubernetes Engine (OKE) clusters.\n\nFully migrated the CI/test/staging platform to a hardened OKE setup—boosting performance and aligning with internal security standards.\n\nEnabled observability and performance tracking through custom dashboards, SonarQube, and monitoring hooks.\n\n🔐 Security-First Automation\n\nIntegrated tools like Grype and Anchore in CI workflows for early CVE detection and container scanning.\n\nEnforced DevSecOps practices across pipelines, improving system hardening and policy compliance.\n\n🤝 Team Enablement & Collaboration\n\nMentored junior engineers and interns, providing onboarding, code reviews, and knowledge-sharing sessions.\n\nActively collaborated with developers, architects, and QA engineers to ship scalable, secure, and production-ready features on Oracle Cloud Infrastructure (OCI).\nAt Oracle Labs, I’ve led end-to-end DevOps and SRE efforts across critical products like Data Studio, AutoMLx, and Compass, driving innovation in build systems, test automation, and infrastructure reliability. 🚀 Build, Release & CI/CD Excellence Orchestrated fast, reliable, and fully automated build & release pipelines using Jenkins, Docker, and Bitbucket—cutting deployment time from hours to minutes. Led architecture-agnostic builds (ARM & x86), and enforced structured release processes across cloud-native environments. Streamlined legacy test frameworks to run natively in Kubernetes using dynamic pod provisioning—cutting flaky test rates by 40% and boosting reliability. ☁️ Kubernetes & Cloud Operations Managed multiple zero-downtime upgrades of Oracle Kubernetes Engine (OKE) clusters. Fully migrated the CI/test/staging platform to a hardened OKE setup—boosting performance and aligning with internal security standards. Enabled observability and performance tracking through custom dashboards, SonarQube, and monitoring hooks. 🔐 Security-First Automation Integrated tools like Grype and Anchore in CI workflows for early CVE detection and container scanning. Enforced DevSecOps practices across pipelines, improving system hardening and policy compliance. 🤝 Team Enablement & Collaboration Mentored junior engineers and interns, providing onboarding, code reviews, and knowledge-sharing sessions. Actively collaborated with developers, architects, and QA engineers to ship scalable, secure, and production-ready features on Oracle Cloud Infrastructure (OCI).\nSkills: Programming · Git · JUnit · Jenkins · Software Development · Kubernetes · Release Management · Automation · CI · DevOps · Spring Framework · Maven · Java · Gradle · Docker Products · Continuous Integration and Continuous Delivery (CI/CD) · Groovy · Test Automation · Oracle Database · Engineering · Agile Methodologies · Oracle Cloud · Continuous Integration (CI) · Spring Boot\nProgramming · Git · JUnit · Jenkins · Software Development · Kubernetes · Release Management · Automation · CI · DevOps · Spring Framework · Maven · Java · Gradle · Docker Products · Continuous Integration and Continuous Delivery (CI/CD) · Groovy · Test Automation · Oracle Database · Engineering · Agile Methodologies · Oracle Cloud · Continuous Integration (CI) · Spring Boot\nJunior Member Of Technical Staff\nJunior Member Of Technical Staff\nFull-time\nFull-time\nAug 2021 - Sep 2022 · 1 yr 2 mos\nAug 2021 to Sep 2022 · 1 yr 2 mos\nSkills: Programming · Git · JUnit · Jenkins · Software Development · Kubernetes · Release Management · Automation · CI · DevOps · Spring Framework · Maven · Gradle · Docker Products · Continuous Integration and Continuous Delivery (CI/CD) · Groovy · Test Automation · Engineering · Agile Methodologies · Oracle Cloud · Continuous Integration (CI) · Spring Boot\nProgramming · Git · JUnit · Jenkins · Software Development · Kubernetes · Release Management · Automation · CI · DevOps · Spring Framework · Maven · Gradle · Docker Products · Continuous Integration and Continuous Delivery (CI/CD) · Groovy · Test Automation · Engineering · Agile Methodologies · Oracle Cloud · Continuous Integration (CI) · Spring Boot\nResearch Assistant\nResearch Assistant\nInternship\nInternship\nFeb 2021 - Aug 2021 · 7 mos\nFeb 2021 to Aug 2021 · 7 mos\nSkills: Programming · Git · Jenkins · Kubernetes · Automation · Spring Framework · Maven · Gradle · Docker Products · Test Automation · Agile Methodologies · Oracle Cloud · Continuous Integration (CI) · Spring Boot\nProgramming · Git · Jenkins · Kubernetes · Automation · Spring Framework · Maven · Gradle · Docker Products · Test Automation · Agile Methodologies · Oracle Cloud · Continuous Integration (CI) · Spring Boot"
+            },
+            {
+                "title": "Full Stack Developer",
+                "company": "RifTech · Internship",
+                "from": "Jul 2020",
+                "to": "Oct 2020",
+                "description": "Building a cloud-based healthcare management system to centralize Moroccan medical data and provide easy access to all parties including doctors, pharmacists, and patients.\nBuilding a cloud-based healthcare management system to centralize Moroccan medical data and provide easy access to all parties including doctors, pharmacists, and patients.\nSkills: Programming · Git · Django · Software Development · Docker Products · Python (Programming Language)\nProgramming · Git · Django · Software Development · Docker Products · Python (Programming Language)"
+            },
+            {
+                "title": "Summer Intern",
+                "company": "Novelis Co · Internship",
+                "from": "Jul 2020",
+                "to": "Aug 2020",
+                "description": "Realization of a REST API microservice of interceptions of emails, forwarding to the corresponding receivers, and logging using Spring Boot & ReactJS - Mailing System\n» Spring Boot , Spring JPA , Spring Data , Spring Security , Hibernate , Maven , JWT Athentication\nRealization of a REST API microservice of interceptions of emails, forwarding to the corresponding receivers, and logging using Spring Boot & ReactJS - Mailing System » Spring Boot , Spring JPA , Spring Data , Spring Security , Hibernate , Maven , JWT Athentication\nSkills: Programming · Git · Software Development · Spring Framework · Spring Boot\nProgramming · Git · Software Development · Spring Framework · Spring Boot"
+            },
+            {
+                "title": "Summer Intern",
+                "company": "Centre Hospitalier Universitaire Hassan II · Internship",
+                "from": "Jul 2019",
+                "to": "Aug 2019",
+                "description": "Conception and development of Medical Consultation web platform using PHP, MYSQL, AJAX, Bootstrap, and a micro MVC framework to handle routing,\nConception and development of Medical Consultation web platform using PHP, MYSQL, AJAX, Bootstrap, and a micro MVC framework to handle routing,\nSkills: Git · Software Development\nGit · Software Development"
+            }
+        ],
+        "educations": [
+            {
+                "institution": "National School of Applied Sciences of Fez",
+                "degree": "Engineer's degree, Computer Engineering",
+                "from": "2016",
+                "to": "2021",
+                "description": "Skills: Django\nDjango"
+            },
+            {
+                "institution": "National School of Applied Sciences of Fez",
+                "degree": "Engineer's degree, Computer Engineering",
+                "from": "2016",
+                "to": "2021",
+                "description": "Skills: Django\nDjango"
+            }
+        ],
+        "interests": [],
+        "accomplishments": [],
+        "contacts": []
+    }
+]
