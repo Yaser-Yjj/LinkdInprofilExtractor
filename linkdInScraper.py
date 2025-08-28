@@ -6,6 +6,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 import json
 import time
 import random
+from MoroccoLinkedInProfileExtractor import MoroccoLinkedInProfileExtractor
 
 chrome_options = Options()
 # chrome_options.add_argument("--headless")  # uncomment = run without UI
@@ -26,19 +27,18 @@ except Exception as e:
     driver.quit()
     exit()
 
-linkedin_urls = [
-    "https://www.linkedin.com/in/yasser-yjjou",
-    "https://www.linkedin.com/in/aya-el-jamali-7286812b0",
-    "https://www.linkedin.com/in/fatima-ezzahra-bounhar-53b6a7335",
-]
+extractor = MoroccoLinkedInProfileExtractor()
+extractor.run()
+json_file = extractor.save_to_json()
 
+with open(json_file, 'r', encoding='utf-8') as f:
+    linkedin_urls = json.load(f)
 
 def safe_get(obj, attr, default="N/A"):
     try:
         return getattr(obj, attr) if getattr(obj, attr, None) else default
     except Exception:
         return default
-
 
 profiles_data = []
 
@@ -100,7 +100,6 @@ for url in linkedin_urls:
         })
 
     profiles_data.append(data)
-
     time.sleep(random.randint(5, 10))
 
 with open("linkedin_profiles.json", "w", encoding="utf-8") as f:

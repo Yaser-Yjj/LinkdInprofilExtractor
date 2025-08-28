@@ -1,56 +1,105 @@
 [
     {
-        "url": "https://www.linkedin.com/in/yasser-yjjou",
+        "url": "https://www.linkedin.com/in/oumayma-boumaaza",
         "profile": {
-            "name": "Yasser Yjjou",
-            "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
-            "about": "Compétences principales\nCompétences principales\nKotlin • Object-Oriented Programming (OOP)\nKotlin • Object-Oriented Programming (OOP)",
+            "name": "Oumayma Boumaaza",
+            "location": "Tanger-Tétouan-Al Hoceïma, Maroc",
+            "about": "💻 Hi, I'm Oumayma — a frontend-focused full-stack developer with 2+ years of experience crafting scalable, high-performance applications. I specialize in building modern UIs with React.js, TypeScript, and Tailwind CSS, while also working comfortably across backend technologies like Node.js, TRPC, Prisma, and Electron. I’m passionate about clean code, great user experience, and continuous learning. As a certified Scrum Master, I also help teams stay organized and deliver with agility. Whether it's a responsive web interface, an internal tool, or a desktop app, I bring both autonomy and precision to every project.\n…voir plus",
             "open_to_work": "N/A"
         },
         "experiences": [
             {
-                "title": "Mobile Application Developer",
-                "company": "Benbar Ingénierie et Conseil · Contrat en alternance",
-                "from": "juil. 2025",
-                "to": "aujourd’hui",
-                "description": "Compétences : Flutter · Kotlin · Swift (Programming Language)\nCompétences :Flutter · Kotlin · Swift (Programming Language)"
+                "title": "N/A",
+                "company": "ADSGLORY",
+                "from": "Temps plein",
+                "to": "N/A",
+                "description": "Project Manager Scrum Master\nProject Manager Scrum Master\njanv. 2024 - aujourd’hui · 1 an 8 mois\nDe janv. 2024 à aujourd’hui · 1 an 8 mois\nTangier, Tanger-Tetouan-Al Hoceima, Morocco\nTangier, Tanger-Tetouan-Al Hoceima, Morocco\nProficient in utilizing JIRA for effective project\nmanagement and team coordination.\nSkilled in facilitating Agile ceremonies, resolving impediments, and\nfostering continuous improvement within development teams.\nProficient in utilizing JIRA for effective project management and team coordination. Skilled in facilitating Agile ceremonies, resolving impediments, and fostering continuous improvement within development teams.\nCompétences : Documentation · Project Management · Jira · Scrum · Agile Methodologies · Meeting Planning · Organizing Meetings\nCompétences :Documentation · Project Management · Jira · Scrum · Agile Methodologies · Meeting Planning · Organizing Meetings\nFrontend-First Full-Stack Developer\nFrontend-First Full-Stack Developer\nmai 2023 - aujourd’hui · 2 ans 4 mois\nDe mai 2023 à aujourd’hui · 2 ans 4 mois\nTanger-Tetouan-Al Hoceima, Morocco\nTanger-Tetouan-Al Hoceima, Morocco\nFocused on architecting advanced frontend interfaces using React.js, TypeScript Ant Design, and custom component libraries.\n\nBuilt and maintained complex internal tools, including:\n\nEnterprise Ticket Management Platform with secure, hierarchical access and customizable UI layouts across multiple portals.\n\nHigh-Volume Data System with optimized frontend for managing and visualizing large datasets.\n\nCross-Platform Desktop App using Electron Forge, with React-based UI integrated into a desktop shell.\n\nDelivered backend features using Node.js, TRPC, REST APIs, Prisma, Mongoose, and TypeORM, supporting seamless UI integration.\n\nSketched user interfaces and flows in Figma, led design-to-dev handoffs, and ensured UX best practices.\nFocused on architecting advanced frontend interfaces using React.js, TypeScript Ant Design, and custom component libraries. Built and maintained complex internal tools, including: Enterprise Ticket Management Platform with secure, hierarchical access and customizable UI layouts across multiple portals. High-Volume Data System with optimized frontend for managing and visualizing large datasets. Cross-Platform Desktop App using Electron Forge, with React-based UI integrated into a desktop shell. Delivered backend features using Node.js, TRPC, REST APIs, Prisma, Mongoose, and TypeORM, supporting seamless UI integration. Sketched user interfaces and flows in Figma, led design-to-dev handoffs, and ensured UX best practices.\nCompétences : Node.js · TypeScript · React.js\nCompétences :Node.js · TypeScript · React.js"
             },
             {
-                "title": "Mobile Application Developer",
-                "company": "Cités des Métiers et des Compétences · Contrat en alternance",
-                "from": "juin 2023",
-                "to": "juil. 2025",
-                "description": "Compétences : Mobile Application Development · Kotlin · Flutter · Soft Skills · Administration\nCompétences :Mobile Application Development · Kotlin · Flutter · Soft Skills · Administration\nCmC.jpg\nCmC.jpg\nDEVOAM202.jpg\nDEVOAM202.jpg\nSoutnance.jpg\nSoutnance.jpg"
+                "title": "Management Team Member",
+                "company": "AIESEC",
+                "from": "mars 2023",
+                "to": "août 2023",
+                "description": "Manager at the Outgoing Global Volunteer department in AIESEC Fes\nManager at the Outgoing Global Volunteer department in AIESEC Fes\nCompétences : Leadership · Youth Development · English\nCompétences :Leadership · Youth Development · English"
             },
             {
-                "title": "Mobile Application Developer",
-                "company": "Ministère de la Justice - وزارة العدل · Stage",
-                "from": "mars 2025",
-                "to": "mai 2025",
-                "description": "Compétences : Mobile Application Development · Team Leadership · Time Management · Flutter\nCompétences :Mobile Application Development · Team Leadership · Time Management · Flutter"
+                "title": "Chinese student",
+                "company": "Hanban Confucius Institute",
+                "from": "oct. 2022",
+                "to": "mai 2023",
+                "description": "N/A"
+            },
+            {
+                "title": "Junior Mobile Developer",
+                "company": "Parlement, Chambre des Représentants, Maroc · Stage",
+                "from": "oct. 2022",
+                "to": "déc. 2022",
+                "description": "Parliament of Morocco (house of representatives) in their IT departement\nis specified in developing services in web environments, integrating\nASP.net technologies and solutions.\n-Working in a team of Full stack developers to provide integrated IT\nsolutions .\n-Developing a mobile application with Flutter Framework and Asp.net\nCore APIs for user's task management.\nParliament of Morocco (house of representatives) in their IT departement is specified in developing services in web environments, integrating ASP.net technologies and solutions. -Working in a team of Full stack developers to provide integrated IT solutions . -Developing a mobile application with Flutter Framework and Asp.net Core APIs for user's task management.\nCompétences : ASP.NET · Dart · JSON Web Token (JWT) · entity framework core · Design Patterns · SQL · Flutter · Model-View-Controller (MVC) · entity framework · Front-End Development · Dependency Injection\nCompétences :ASP.NET · Dart · JSON Web Token (JWT) · entity framework core · Design Patterns · SQL · Flutter · Model-View-Controller (MVC) · entity framework · Front-End Development · Dependency Injection"
+            },
+            {
+                "title": "Graduate Student",
+                "company": "École Nationale des Sciences Appliquées de Fès",
+                "from": "oct. 2021",
+                "to": "juil. 2022",
+                "description": "Bachelor in Software\nEngineering\nBachelor in Software Engineering\nCompétences : Web Development · Databases · Entrepreneurship · SI · English · Java · Front-End Development · C++\nCompétences :Web Development · Databases · Entrepreneurship · SI · English · Java · Front-End Development · C++"
+            },
+            {
+                "title": "Graduate Student",
+                "company": "Hanban Confucius Institute",
+                "from": "oct. 2021",
+                "to": "juil. 2022",
+                "description": "Hanyu Shuiping Kaoshi (HSK1)\nHanyu Shuiping Kaoshi (HSK1)"
+            },
+            {
+                "title": "Graduate Student",
+                "company": "Ecole Superieure de Technologie - Fès · Temps plein",
+                "from": "oct. 2019",
+                "to": "août 2021",
+                "description": "DUT in Computer Engineering\nDUT in Computer Engineering\nCompétences : Front-End Development\nCompétences :Front-End Development"
+            },
+            {
+                "title": "Junior Angular Developer",
+                "company": "Office National des Chemins de Fer (ONCF) · Stage",
+                "from": "mai 2021",
+                "to": "juil. 2021",
+                "description": "The National Office of Railways is a Moroccan public institution\nresponsible for operating the country's railway network in the form of a\npublic company.\n-Developing a conversational chat-Bot for oncf railway employees.\n-The Chabot is realized with the Google Dialog Flow platform which\nbased on Natural language Processing.\n-Implemented in an Angular Application With Authentication part\n-Frontend with(Html,Css,TypeScript,Material Design) Backend\nwith(Nest Js ,MVC archi,Jwt,ORM )and Connected with MySql Db.\nThe National Office of Railways is a Moroccan public institution responsible for operating the country's railway network in the form of a public company. -Developing a conversational chat-Bot for oncf railway employees. -The Chabot is realized with the Google Dialog Flow platform which based on Natural language Processing. -Implemented in an Angular Application With Authentication part -Frontend with(Html,Css,TypeScript,Material Design) Backend with(Nest Js ,MVC archi,Jwt,ORM )and Connected with MySql Db.\nCompétences : Natural Language Processing (NLP) · MySQL · HTML · JSON Web Token (JWT) · Cascading Style Sheets (CSS) · TypeScript · NestJS · Google Material Design · AngularJS · Dialogflow · Object-Relational Mapping (ORM) · Model-View-Controller (MVC) · Front-End Development\nCompétences :Natural Language Processing (NLP) · MySQL · HTML · JSON Web Token (JWT) · Cascading Style Sheets (CSS) · TypeScript · NestJS · Google Material Design · AngularJS · Dialogflow · Object-Relational Mapping (ORM) · Model-View-Controller (MVC) · Front-End Development\nONCF CHATBOT\nONCF CHATBOT\nONCF CHATBOT\nONCF CHATBOT\nONCF CHATBOT\nONCF CHATBOT"
+            },
+            {
+                "title": "Junior Developer Artificial Intelligence",
+                "company": "EST · Contrat en alternance",
+                "from": "mars 2021",
+                "to": "mai 2021",
+                "description": "End-of-study project for DUT's degree In The Superior School of\nTechnology with my three colleagues.\nimplementing a new AMAZIGH character recognition system based on\ndeep convolutional neural networks (CNN) based on the VGG16\narchitecture and an enriched version of the AMHCD database has\nused.\nOur model achieved the best recognition accuracy (99.78%) against\nstate-of-the-art results.\nThe resulting model was deployed as a web application using the\nlibrary TensorFlow.\nEnd-of-study project for DUT's degree In The Superior School of Technology with my three colleagues. implementing a new AMAZIGH character recognition system based on deep convolutional neural networks (CNN) based on the VGG16 architecture and an enriched version of the AMHCD database has used. Our model achieved the best recognition accuracy (99.78%) against state-of-the-art results. The resulting model was deployed as a web application using the library TensorFlow.\nCompétences : deep convolutional neural networks · TensorFlow · VGG16\nCompétences :deep convolutional neural networks · TensorFlow · VGG16"
             }
         ],
         "educations": [
             {
-                "institution": "Cités des Métiers et des compétences Rabat",
-                "degree": "TS en développement digital Option mobile",
-                "from": "juin",
-                "to": "2023",
-                "description": "Compétences : Flask · Android Development · Kotlin · Android · Ktor · Android SDK · Flutter · Development · Software Development\nCompétences :Flask · Android Development · Kotlin · Android · Ktor · Android SDK · Flutter · Development · Software Development"
+                "institution": "École Nationale des Sciences Appliquées de Fès",
+                "degree": "Bachelor's degree, Computer Software Engineering",
+                "from": "2021",
+                "to": "2022",
+                "description": "software engineering\nsoftware engineering"
             },
             {
-                "institution": "Cités des Métiers et des compétences Rabat",
-                "degree": "TS en développement digital Option mobile",
-                "from": "juin",
-                "to": "2023",
-                "description": "Compétences : Flask · Android Development · Kotlin · Android · Ktor · Android SDK · Flutter · Development · Software Development\nCompétences :Flask · Android Development · Kotlin · Android · Ktor · Android SDK · Flutter · Development · Software Development"
+                "institution": "École Nationale des Sciences Appliquées de Fès",
+                "degree": "Bachelor's degree, Computer Software Engineering",
+                "from": "2021",
+                "to": "2022",
+                "description": "software engineering\nsoftware engineering"
             },
             {
-                "institution": "Cités des Métiers et des compétences Rabat",
-                "degree": "TS en développement digital Option mobile",
-                "from": "juin",
-                "to": "2023",
-                "description": "Compétences : Flask · Android Development · Kotlin · Android · Ktor · Android SDK · Flutter · Development · Software Development\nCompétences :Flask · Android Development · Kotlin · Android · Ktor · Android SDK · Flutter · Development · Software Development"
+                "institution": "École Nationale des Sciences Appliquées de Fès",
+                "degree": "Bachelor's degree, Computer Software Engineering",
+                "from": "2021",
+                "to": "2022",
+                "description": "software engineering\nsoftware engineering"
+            },
+            {
+                "institution": "École Nationale des Sciences Appliquées de Fès",
+                "degree": "Bachelor's degree, Computer Software Engineering",
+                "from": "2021",
+                "to": "2022",
+                "description": "software engineering\nsoftware engineering"
             }
         ],
         "interests": [],
@@ -58,210 +107,604 @@
         "contacts": []
     },
     {
-        "url": "https://www.linkedin.com/in/billgates",
+        "url": "https://www.linkedin.com/in/azizmobarak",
         "profile": {
-            "name": "N/A",
-            "location": "N/A",
+            "name": "Aziz Mobarak",
+            "location": "Tanger-Tétouan-Al Hoceïma, Maroc",
+            "about": "With a strong foundation in mathematics and computer science my analytical skills have been key in resolving complex web issues and aiding in ERP development.\n\nPassionate about javascript frameworks and the architecture of applications, my role expanded beyond coding to include strategizing and problem-solving. The collaborative efforts have honed my ability to work within multifaceted teams to create impactful, user-centric software.\n\nhttps://aziz-portfolio-rust.vercel.app\n…voir plus",
+            "open_to_work": "N/A"
+        },
+        "experiences": [
+            {
+                "title": "Software Engineer",
+                "company": "ICareWellbeing · Temps plein",
+                "from": "mars 2025",
+                "to": "aujourd’hui",
+                "description": "Compétences : Software Design · Solution Architecture · Full-Stack Development · Software Infrastructure\nCompétences :Software Design · Solution Architecture · Full-Stack Development · Software Infrastructure"
+            },
+            {
+                "title": "Self Employed",
+                "company": "Self-Employed · Freelance",
+                "from": "avr. 2024",
+                "to": "aujourd’hui",
+                "description": "Collaborated with various companies on freelance and part-time projects, applying diverse technical skills to achieve business objectives. Experienced in building software solutions from scratch as well as contributing to and improving existing codebases. Effectively managed workflows using Agile methodologies, regularly engaging in discussions with clients and development teams to ensure alignment and successful project delivery.\n\nsome companies worked with:\n -Selego \n -iCareWellBeing\n -AcademyLink\n -Trans Al-Fan\nCollaborated with various companies on freelance and part-time projects, applying diverse technical skills to achieve business objectives. Experienced in building software solutions from scratch as well as contributing to and improving existing codebases. Effectively managed workflows using Agile methodologies, regularly engaging in discussions with clients and development teams to ensure alignment and successful project delivery. some companies worked with: -Selego -iCareWellBeing -AcademyLink -Trans Al-Fan\nCompétences : React Native · MongoDB · Node.js · Next.js · Software Design · TypeScript · Python (Programming Language) · React.js · PHP · fastify · Laravel\nCompétences :React Native · MongoDB · Node.js · Next.js · Software Design · TypeScript · Python (Programming Language) · React.js · PHP · fastify · Laravel"
+            },
+            {
+                "title": "Software Developer",
+                "company": "TT-Technologies s.a.r.l. · Freelance",
+                "from": "avr. 2023",
+                "to": "févr. 2024",
+                "description": "Angular, NextJs, Fastify, React Native,MongoDB\nAngular, NextJs, Fastify, React Native,MongoDB\nCompétences : JavaScript · React Native · TypeScript · Redux tool kit\nCompétences :JavaScript · React Native · TypeScript · Redux tool kit"
+            },
+            {
+                "title": "React Native Developer",
+                "company": "TT-Technologies s.a.r.l. · Temps plein",
+                "from": "sept. 2021",
+                "to": "févr. 2023",
+                "description": "React-Native mobile engineer\nReact-Native mobile engineer\nCompétences : JavaScript · Android · Jira · React Native · Unit Testing · Object-Oriented Programming (OOP) · Git · Software Development · GraphQL · Mobile Application Development · Android Development · SQLite · Typescript · Front-End Development · TypeScript · Mobile Applications · Redux.js · iOS Development · reactjs · iOS · RxJS\nCompétences :JavaScript · Android · Jira · React Native · Unit Testing · Object-Oriented Programming (OOP) · Git · Software Development · GraphQL · Mobile Application Development · Android Development · SQLite · Typescript · Front-End Development · TypeScript · Mobile Applications · Redux.js · iOS Development · reactjs · iOS · RxJS"
+            },
+            {
+                "title": "Mobile Engineer",
+                "company": "CareXS | Connected Health Solutions B.V. · Temps plein",
+                "from": "sept. 2021",
+                "to": "févr. 2023",
+                "description": "Compétences : JavaScript · Android · Jira · React Native · Unit Testing · Object-Oriented Programming (OOP) · Git · Software Development · GraphQL · Mobile Application Development · Android Development · SQLite · Typescript · Front-End Development · TypeScript · Mobile Applications · Redux.js · iOS Development · reactjs · iOS · RxJS\nCompétences :JavaScript · Android · Jira · React Native · Unit Testing · Object-Oriented Programming (OOP) · Git · Software Development · GraphQL · Mobile Application Development · Android Development · SQLite · Typescript · Front-End Development · TypeScript · Mobile Applications · Redux.js · iOS Development · reactjs · iOS · RxJS"
+            },
+            {
+                "title": "Full-stack Developer",
+                "company": "STG Maroc · Temps plein",
+                "from": "avr. 2021",
+                "to": "sept. 2021",
+                "description": "front-end developer using Angular and react native\nfront-end developer using Angular and react native\nCompétences : JavaScript · Android · Jira · React Native · Angular · Object-Oriented Programming (OOP) · Git · Software Development · Bootstrap · Mobile Application Development · Firebase · Android Development · SQLite · Front-End Development · HTML5 · Mobile Applications · iOS Development · AngularJS · Cascading Style Sheets (CSS) · iOS · HTML\nCompétences :JavaScript · Android · Jira · React Native · Angular · Object-Oriented Programming (OOP) · Git · Software Development · Bootstrap · Mobile Application Development · Firebase · Android Development · SQLite · Front-End Development · HTML5 · Mobile Applications · iOS Development · AngularJS · Cascading Style Sheets (CSS) · iOS · HTML"
+            },
+            {
+                "title": "MERN Stack Developer",
+                "company": "YOUPEL · Freelance",
+                "from": "déc. 2019",
+                "to": "févr. 2021",
+                "description": "Full stack developer using many technologies to build and deploy web and mobile applications\nFull stack developer using many technologies to build and deploy web and mobile applications\nCompétences : Web Services · JavaScript · Android · nodejs · SQL · Git · MongoDB · PostgreSQL · Software Development · Nginx · Bootstrap · Databases · Mobile Application Development · Amazon Web Services (AWS) · Docker Products · Firebase · SASS · Express.js · Linux · Android Development · SQLite · Front-End Development · mongodb · HTML5 · Mobile Applications · Redux.js · iOS Development · MySQL · Cascading Style Sheets (CSS) · reactjs · iOS · HTML\nCompétences :Web Services · JavaScript · Android · nodejs · SQL · Git · MongoDB · PostgreSQL · Software Development · Nginx · Bootstrap · Databases · Mobile Application Development · Amazon Web Services (AWS) · Docker Products · Firebase · SASS · Express.js · Linux · Android Development · SQLite · Front-End Development · mongodb · HTML5 · Mobile Applications · Redux.js · iOS Development · MySQL · Cascading Style Sheets (CSS) · reactjs · iOS · HTML"
+            },
+            {
+                "title": ".NET developer ",
+                "company": "Ministère de la préparation et du transport · Stage",
+                "from": "avr. 2019",
+                "to": "avr. 2019",
+                "description": "- desktop application for market management using Windows Form (.NET) in C#\n- desktop application for market management using Windows Form (.NET) in C#\nCompétences : Git\nCompétences :Git"
+            }
+        ],
+        "educations": [
+            {
+                "institution": "ISTA NTIC Agadir / Guelmime",
+                "degree": "DTS, Développement informatique",
+                "from": "2017",
+                "to": "2019",
+                "description": "Compétences : Android · JavaScript · Software Development · SQL · Databases · UML · Merise\nCompétences :Android · JavaScript · Software Development · SQL · Databases · UML · Merise"
+            },
+            {
+                "institution": "ISTA NTIC Agadir / Guelmime",
+                "degree": "DTS, Développement informatique",
+                "from": "2017",
+                "to": "2019",
+                "description": "Compétences : Android · JavaScript · Software Development · SQL · Databases · UML · Merise\nCompétences :Android · JavaScript · Software Development · SQL · Databases · UML · Merise"
+            },
+            {
+                "institution": "ISTA NTIC Agadir / Guelmime",
+                "degree": "DTS, Développement informatique",
+                "from": "2017",
+                "to": "2019",
+                "description": "Compétences : Android · JavaScript · Software Development · SQL · Databases · UML · Merise\nCompétences :Android · JavaScript · Software Development · SQL · Databases · UML · Merise"
+            }
+        ],
+        "interests": [],
+        "accomplishments": [],
+        "contacts": []
+    },
+    {
+        "url": "https://www.linkedin.com/in/mehdi-erraji",
+        "profile": {
+            "name": "EL MEHDI ER.RAJI",
+            "location": "Agadir, Souss-Massa, Maroc",
+            "about": "I'm a passionate and results-driven Full Stack Developer with hands-on experience in building robust, scalable web applications using modern technologies. My backend expertise lies in Java (Spring Boot), PHP (Laravel), and RESTful API development, while on the frontend, I craft dynamic interfaces using Angular, React, and Tailwind CSS.\n\nThrough real-world projects like Guidely (a ticket management system with real-time notifications and email queueing via RabbitMQ) and Hunter’s League (a competition management platform handling 112M+ rows), I've gained deep experience in DevOps practices including CI/CD pipelines (Jenkins), Docker, SonarQube, and database management with PostgreSQL and MySQL.\n\nAs a certified full-stack developer trained at YouCode – UM6P, I thrive in Agile and Scrum environments, contributing effectively to cross-functional teams. I'm also a freelance project manager, bridging client needs with technical solutions from ideation to deployment.\n\nLet’s build something impactful together.",
+            "open_to_work": "N/A"
+        },
+        "experiences": [
+            {
+                "title": "N/A",
+                "company": "IT Road Consulting",
+                "from": "6 mois",
+                "to": "N/A",
+                "description": " Full Stack Developer\nFull Stack Developer\nTemps plein\nTemps plein\nmars 2025 - aujourd’hui · 6 mois\nDe mars 2025 à aujourd’hui · 6 mois\nSur site\nSur site\nCompétences : java · Spring Boot · React.js · JEE · Angular · VPs\nCompétences :java · Spring Boot · React.js · JEE · Angular · VPs\nFull-stack Developer Project DHOC (Backoffice for the Royal Navy DHOC). \nFull-stack Developer Project DHOC (Backoffice for the Royal Navy DHOC).\nmars 2025 - aujourd’hui · 6 mois\nDe mars 2025 à aujourd’hui · 6 mois\nÀ distance\nÀ distance\n○ Improvement and update of business applications for Royal Moroccan Navy (DHOC)\n○ Participated in Linux-based VPS hosting setup, including application deployment, environment \n configuration, and basic server management.\n○ Managed team coordination, including sprint planning, task allocation, and progress tracking using \n Agile/Scrum methodology.\n○ Improvement and update of business applications for Royal Moroccan Navy (DHOC) ○ Participated in Linux-based VPS hosting setup, including application deployment, environment configuration, and basic server management. ○ Managed team coordination, including sprint planning, task allocation, and progress tracking using Agile/Scrum methodology.\nCompétences : java · Linux System Administration · Liferay · Virtual Private Server (VPS) · Scrum · React.js\nCompétences :java · Linux System Administration · Liferay · Virtual Private Server (VPS) · Scrum · React.js\nTechnical Consultant from project FM6 (Mohammed VI Foundation)\nTechnical Consultant from project FM6 (Mohammed VI Foundation)\nmars 2025 - aujourd’hui · 6 mois\nDe mars 2025 à aujourd’hui · 6 mois\nÀ distance\nÀ distance\n○ Improvement and update of business applications for Mohammed VI Education Foundation (FM6)\n○ Developed and enhanced backend services using Java, Spring Boot, and PostgreSQL, ensuring \n performance, security, and maintainability.\n○ Managed team coordination, including sprint planning, task allocation, and progress tracking using \n Agile/Scrum methodology.\n○ Improvement and update of business applications for Mohammed VI Education Foundation (FM6) ○ Developed and enhanced backend services using Java, Spring Boot, and PostgreSQL, ensuring performance, security, and maintainability. ○ Managed team coordination, including sprint planning, task allocation, and progress tracking using Agile/Scrum methodology.\nCompétences : java · Spring Boot · React.js · Python (Programming Language) · Angular\nCompétences :java · Spring Boot · React.js · Python (Programming Language) · Angular"
+            },
+            {
+                "title": "Web Developer",
+                "company": "Freelance",
+                "from": "août 2021",
+                "to": "aujourd’hui",
+                "description": "Gestionnaire de Projet Freelance\nRôle : En tant que gestionnaire de projet freelance, j'assurais la gestion complète, \n de la compréhension des besoins clients à la coordination des freelances.\nTâches : - Identification et compréhension des besoins clients.\n - Définition claire des spécifications du projet.\n - Sélection et coordination de freelances pour satisfaction client.\nGestionnaire de Projet Freelance Rôle : En tant que gestionnaire de projet freelance, j'assurais la gestion complète, de la compréhension des besoins clients à la coordination des freelances. Tâches : - Identification et compréhension des besoins clients. - Définition claire des spécifications du projet. - Sélection et coordination de freelances pour satisfaction client.\nCompétences : AJAX · Information Technology Infrastructure · PHP · E-Commerce · Spring Framework · WordPress · Search Engine Optimization (SEO) · Laravel · Scrum · User Experience (UX)\nCompétences :AJAX · Information Technology Infrastructure · PHP · E-Commerce · Spring Framework · WordPress · Search Engine Optimization (SEO) · Laravel · Scrum · User Experience (UX)"
+            },
+            {
+                "title": "Full Stack Laravel React Developer",
+                "company": "Appolo Web Services · Stage",
+                "from": "mai 2024",
+                "to": "août 2024",
+                "description": "I'm currently working on an exciting project to build a CRM system for e-commerce businesses. This comprehensive platform will feature invoicing, payments, notifications, and a store builder. Utilizing Laravel for backend development and React for the frontend, I am integrating robust functionalities to streamline business operations.\n\nKey aspects of my role include:\n\n - Invoicing & Payments: Developing seamless invoicing and payment processing features.\n - Notifications: Creating a dynamic notification system for real-time updates.\n - Store Builder: Building an intuitive store builder tool to empower businesses.\n - CI/CD Pipelines: Leveraging GitHub Actions for efficient CI/CD workflows.\n\nThis internship is providing me with hands-on experience in full stack development, CI/CD services, enhancing my skills in building scalable and efficient web applications.\nI'm currently working on an exciting project to build a CRM system for e-commerce businesses. This comprehensive platform will feature invoicing, payments, notifications, and a store builder. Utilizing Laravel for backend development and React for the frontend, I am integrating robust functionalities to streamline business operations. Key aspects of my role include: - Invoicing & Payments: Developing seamless invoicing and payment processing features. - Notifications: Creating a dynamic notification system for real-time updates. - Store Builder: Building an intuitive store builder tool to empower businesses. - CI/CD Pipelines: Leveraging GitHub Actions for efficient CI/CD workflows. This internship is providing me with hands-on experience in full stack development, CI/CD services, enhancing my skills in building scalable and efficient web applications.\nCompétences : AJAX · Linux System Administration · Amazon Web Services (AWS) · REST APIs · docker · Laravel · Scrum\nCompétences :AJAX · Linux System Administration · Amazon Web Services (AWS) · REST APIs · docker · Laravel · Scrum"
+            },
+            {
+                "title": " Information Technology Specialist",
+                "company": "Office national de l'electricité et de l'eau potable - Branche d'eau · Stage",
+                "from": "avr. 2022",
+                "to": "oct. 2022",
+                "description": "Créer une application Web qui gère le processus d'exploration des centres de cette entreprise à travers le pays.\nCréer une application Web qui gère le processus d'exploration des centres de cette entreprise à travers le pays.\nCompétences : PHP · Unified Modeling Language (UML) · Teamwork · SQL · PhpMyAdmin · Scrum\nCompétences :PHP · Unified Modeling Language (UML) · Teamwork · SQL · PhpMyAdmin · Scrum"
+            },
+            {
+                "title": "Information Technology Service Desk",
+                "company": "Fantasia-Emballage · Stage",
+                "from": "juin 2021",
+                "to": "août 2021",
+                "description": "Compétences : Technical Support · Cascading Style Sheets (CSS) · HTML · Help Desk Support · Scrum\nCompétences :Technical Support · Cascading Style Sheets (CSS) · HTML · Help Desk Support · Scrum"
+            }
+        ],
+        "educations": [
+            {
+                "institution": "YouCode - UM6P",
+                "degree": "Première année de développement full stack, Computer and Information Sciences, General",
+                "from": "sept.",
+                "to": "2023",
+                "description": "Youcode-UM6P (Une institution inclusive qui favorise la collaboration et met l'accent sur l'apprentissage du code, couvrant une gamme étendue de compétences, de la création de sites web aux algorithmes et applications. )\nYoucode-UM6P (Une institution inclusive qui favorise la collaboration et met l'accent sur l'apprentissage du code, couvrant une gamme étendue de compétences, de la création de sites web aux algorithmes et applications. )\nCompétences : Laravel · Bootstrap (Framework) · Scrum · Agile Methodologies · Jakarta EE · MySQL · Git · Docker Products · Unified Modeling Language (UML) · React.js · Figma (Software) · Tailwind CSS · PHP · Spring Framework · Jira\nCompétences :Laravel · Bootstrap (Framework) · Scrum · Agile Methodologies · Jakarta EE · MySQL · Git · Docker Products · Unified Modeling Language (UML) · React.js · Figma (Software) · Tailwind CSS · PHP · Spring Framework · Jira"
+            },
+            {
+                "institution": "YouCode - UM6P",
+                "degree": "Première année de développement full stack, Computer and Information Sciences, General",
+                "from": "sept.",
+                "to": "2023",
+                "description": "Youcode-UM6P (Une institution inclusive qui favorise la collaboration et met l'accent sur l'apprentissage du code, couvrant une gamme étendue de compétences, de la création de sites web aux algorithmes et applications. )\nYoucode-UM6P (Une institution inclusive qui favorise la collaboration et met l'accent sur l'apprentissage du code, couvrant une gamme étendue de compétences, de la création de sites web aux algorithmes et applications. )\nCompétences : Laravel · Bootstrap (Framework) · Scrum · Agile Methodologies · Jakarta EE · MySQL · Git · Docker Products · Unified Modeling Language (UML) · React.js · Figma (Software) · Tailwind CSS · PHP · Spring Framework · Jira\nCompétences :Laravel · Bootstrap (Framework) · Scrum · Agile Methodologies · Jakarta EE · MySQL · Git · Docker Products · Unified Modeling Language (UML) · React.js · Figma (Software) · Tailwind CSS · PHP · Spring Framework · Jira"
+            },
+            {
+                "institution": "YouCode - UM6P",
+                "degree": "Première année de développement full stack, Computer and Information Sciences, General",
+                "from": "sept.",
+                "to": "2023",
+                "description": "Youcode-UM6P (Une institution inclusive qui favorise la collaboration et met l'accent sur l'apprentissage du code, couvrant une gamme étendue de compétences, de la création de sites web aux algorithmes et applications. )\nYoucode-UM6P (Une institution inclusive qui favorise la collaboration et met l'accent sur l'apprentissage du code, couvrant une gamme étendue de compétences, de la création de sites web aux algorithmes et applications. )\nCompétences : Laravel · Bootstrap (Framework) · Scrum · Agile Methodologies · Jakarta EE · MySQL · Git · Docker Products · Unified Modeling Language (UML) · React.js · Figma (Software) · Tailwind CSS · PHP · Spring Framework · Jira\nCompétences :Laravel · Bootstrap (Framework) · Scrum · Agile Methodologies · Jakarta EE · MySQL · Git · Docker Products · Unified Modeling Language (UML) · React.js · Figma (Software) · Tailwind CSS · PHP · Spring Framework · Jira"
+            },
+            {
+                "institution": "YouCode - UM6P",
+                "degree": "Première année de développement full stack, Computer and Information Sciences, General",
+                "from": "sept.",
+                "to": "2023",
+                "description": "Youcode-UM6P (Une institution inclusive qui favorise la collaboration et met l'accent sur l'apprentissage du code, couvrant une gamme étendue de compétences, de la création de sites web aux algorithmes et applications. )\nYoucode-UM6P (Une institution inclusive qui favorise la collaboration et met l'accent sur l'apprentissage du code, couvrant une gamme étendue de compétences, de la création de sites web aux algorithmes et applications. )\nCompétences : Laravel · Bootstrap (Framework) · Scrum · Agile Methodologies · Jakarta EE · MySQL · Git · Docker Products · Unified Modeling Language (UML) · React.js · Figma (Software) · Tailwind CSS · PHP · Spring Framework · Jira\nCompétences :Laravel · Bootstrap (Framework) · Scrum · Agile Methodologies · Jakarta EE · MySQL · Git · Docker Products · Unified Modeling Language (UML) · React.js · Figma (Software) · Tailwind CSS · PHP · Spring Framework · Jira"
+            },
+            {
+                "institution": "YouCode - UM6P",
+                "degree": "Première année de développement full stack, Computer and Information Sciences, General",
+                "from": "sept.",
+                "to": "2023",
+                "description": "Youcode-UM6P (Une institution inclusive qui favorise la collaboration et met l'accent sur l'apprentissage du code, couvrant une gamme étendue de compétences, de la création de sites web aux algorithmes et applications. )\nYoucode-UM6P (Une institution inclusive qui favorise la collaboration et met l'accent sur l'apprentissage du code, couvrant une gamme étendue de compétences, de la création de sites web aux algorithmes et applications. )\nCompétences : Laravel · Bootstrap (Framework) · Scrum · Agile Methodologies · Jakarta EE · MySQL · Git · Docker Products · Unified Modeling Language (UML) · React.js · Figma (Software) · Tailwind CSS · PHP · Spring Framework · Jira\nCompétences :Laravel · Bootstrap (Framework) · Scrum · Agile Methodologies · Jakarta EE · MySQL · Git · Docker Products · Unified Modeling Language (UML) · React.js · Figma (Software) · Tailwind CSS · PHP · Spring Framework · Jira"
+            }
+        ],
+        "interests": [],
+        "accomplishments": [],
+        "contacts": []
+    },
+    {
+        "url": "https://www.linkedin.com/in/mohammed-el-kouch",
+        "profile": {
+            "name": "Mohammed EL KOUCH",
+            "location": "Casablanca, Casablanca-Settat, Maroc",
+            "about": "🚀 Mohammed EL KOUCH - Full Stack Developer 🚀\n\n🌟 About Me 🌟\n\nHello, I'm Mohammed EL KOUCH, a passionate Full Stack Developer with a relentless drive to create exceptional digital experiences. With almost 4 years of hands-on experience in the ever-evolving world of web development, I bring a potent blend of technical expertise, creativity, and a strong problem-solving mindset to the table.\n\n🛠️ Technical Proficiency 🛠️\n\nFront-End:\n🌐 HTML5, CSS3, JavaScript (ES6+)\n🚀 Angular, Next\n🧪 Testing (Jest, Jasmine)\n\nBack-End:\n🌐 Node.js, Nest.js\n🔐 Authentication & Authorization (OAuth, JWT)\n🐍 Python, FastApi, Django\n🌐 RESTful and WebSockets\n\nDatabases:\n🔍 SQL (MySQL, PostgreSQL)\n🔢 NoSQL (MongoDB, Redis)\n📊 ORM / ODM (Prisma, Mongoose)\n\nDevOps & Tools:\n🛠️ Git, Docker, Kubernetes, AWS(EC2 +CloudWatch + CloudFront + route53\nACM SSL, IAM)\n🧪 Continuous Integration/Continuous Deployment (CI/CD)\n🔒 Security Best Practices\n📊 Performance Optimization\n\n🎨 Design & UI/UX 🎨\n\nI believe that great code deserves a great interface. My front-end skills extend to crafting visually stunning and user-friendly interfaces that ensure a seamless and delightful user experience. I collaborate closely with designers to bring concepts to life and create responsive, pixel-perfect web applications.\n\n🚀 What Sets Me Apart 🚀\n\n🔍 Problem Solver: I thrive on challenges and excel in finding innovative solutions to complex technical problems.\n\n🤝 Team Player: I'm a strong advocate for teamwork, fostering open communication and collaboration to deliver outstanding results.\n\n📈 Growth Mindset: In the ever-evolving tech landscape, I stay on the cutting edge by continuously learning and adapting to emerging technologies and best practices.\n\n💼 Let's Connect 💼\n\nI'm excited about the opportunity to contribute my skills and expertise to your organization's success. If you're looking for a Full Stack Developer who can turn your ideas into reality, let's connect! Feel free to reach out to me at mohammed.elkouch1998@gmail.com.\n\nLet's build the future together, one line of code at a time! 🚀💻\n…voir plus",
+            "open_to_work": "N/A"
+        },
+        "experiences": [
+            {
+                "title": "Node.js Developer",
+                "company": "Inetum · Temps plein",
+                "from": "avr. 2025",
+                "to": "aujourd’hui",
+                "description": " m’a permis de trouver cet emploi\nLinkedIn m’a permis de trouver cet emploi\nCompétences : CAP SAP · Node.js · React.js · Cloud Foundry\nCompétences :CAP SAP · Node.js · React.js · Cloud Foundry"
+            },
+            {
+                "title": "Elham | إلهام",
+                "company": "Temps plein · 1 an 2 mois",
+                "from": "À distance",
+                "to": "N/A",
+                "description": "Frontend Developer\nFrontend Developer\nfévr. 2024 - mars 2025 · 1 an 2 mois\nDu févr. 2024 au mars 2025 · 1 an 2 mois\nRiyadh, Saudi Arabia\nRiyadh, Saudi Arabia\nProject: Elham – Educational System Web Tool\n\nElham is a learning experience platform (LXP) designed to boost and support continuous learning in organizations by creating, managing, and tracking training programs easily. Here's a glimpse of my contributions and responsibilities throughout the project:\n\n-Collaborated with backend developers to integrate RESTful APIs, ensuring efficient data retrieval and manipulation.\n\n-Implemented lazy loading and modularization to optimize application performance and load times.\n\n-Refactored legacy code to align with modern React architecture, improving code readability and maintainability.\n\n-Conducted unit and integration testing to verify the functionality and reliability of migrated components.\nProject: Elham – Educational System Web Tool Elham is a learning experience platform (LXP) designed to boost and support continuous learning in organizations by creating, managing, and tracking training programs easily. Here's a glimpse of my contributions and responsibilities throughout the project: -Collaborated with backend developers to integrate RESTful APIs, ensuring efficient data retrieval and manipulation. -Implemented lazy loading and modularization to optimize application performance and load times. -Refactored legacy code to align with modern React architecture, improving code readability and maintainability. -Conducted unit and integration testing to verify the functionality and reliability of migrated components.\nCompétences : Tailwind · SSO · Lokalize · React.js\nCompétences :Tailwind · SSO · Lokalize · React.js\nمنصة إلهام للتعليم التفاعلي\nمنصة إلهام للتعليم التفاعلي\nFull Stack Developer\nFull Stack Developer\nfévr. 2024 - août 2024 · 7 mois\nDu févr. 2024 au août 2024 · 7 mois\nSaudi Arabia\nSaudi Arabia\nProject: Maher – Training Management Platform\n\nMaher is an intelligent assistant designed to streamline training and development operations within organizations. It automates processes systematically and employs smart technology at every step to make tasks more organized, better processed, more accurately evaluated, and faster in feedback. Here's a glimpse of my contributions and responsibilities throughout the project:\n\n- Developed the backend architecture using NestJS, implementing RESTful APIs for seamless data exchange.\n\n- Designed and managed the PostgreSQL database schema, ensuring data integrity and efficient querying.\n\n- Utilized PrismaORM for database interactions, streamlining data modeling and migrations.\n\n- Created dynamic and responsive user interfaces with Angular 18, enhancing user engagement.\n\n- Integrated Keycloak to implement authentication and authorization mechanisms, securing the platform.\n\n- Conducted comprehensive testing and debugging to maintain high-quality code standards.\n\n- Generated comprehensive API documentation using OpenAPI (Swagger) with NestJS, facilitating clear communication and ease of use for developers.\nProject: Maher – Training Management Platform Maher is an intelligent assistant designed to streamline training and development operations within organizations. It automates processes systematically and employs smart technology at every step to make tasks more organized, better processed, more accurately evaluated, and faster in feedback. Here's a glimpse of my contributions and responsibilities throughout the project: - Developed the backend architecture using NestJS, implementing RESTful APIs for seamless data exchange. - Designed and managed the PostgreSQL database schema, ensuring data integrity and efficient querying. - Utilized PrismaORM for database interactions, streamlining data modeling and migrations. - Created dynamic and responsive user interfaces with Angular 18, enhancing user engagement. - Integrated Keycloak to implement authentication and authorization mechanisms, securing the platform. - Conducted comprehensive testing and debugging to maintain high-quality code standards. - Generated comprehensive API documentation using OpenAPI (Swagger) with NestJS, facilitating clear communication and ease of use for developers.\nCompétences : NgRx · NestJS · Angular · API Swagger · Keycloak · Redis · TypeScript · Amazon S3 · Amazon EC2 · AWS Identity and Access Management (AWS IAM)\nCompétences :NgRx · NestJS · Angular · API Swagger · Keycloak · Redis · TypeScript · Amazon S3 · Amazon EC2 · AWS Identity and Access Management (AWS IAM)\nمرحبا 👋 ، أنا مساعدك الذكي لإدارة عمليات التدريب والتطوير داخل منظمتك\nمرحبا 👋 ، أنا مساعدك الذكي لإدارة عمليات التدريب والتطوير داخل منظمتك"
+            },
+            {
+                "title": "Full Stack Developer",
+                "company": "ABA Technology · Temps plein",
+                "from": "janv. 2022",
+                "to": "janv. 2024",
+                "description": " m’a permis de trouver cet emploi\nLinkedIn m’a permis de trouver cet emploi\nE-services is a digital platform that streamlines the evaluation of registration files and quality control for various health products, including medicines. This initiative enhances transparency, efficiency, and accessibility for stakeholders in the pharmaceutical sector. Here's a glimpse of my contributions and responsibilities throughout the project:\n\n-Collaborated with cross-functional teams to understand the project's scope and objectives.\n \n-Assessed existing software programs, identifying areas for improvement and optimization.\n\n-Conducted thorough market research and competitor analysis to stay updated with industry trends and best practices.\n\n-Wrote clean, efficient, and scalable code to create the core components of the E-services platform.\n\n-Debugged and resolved issues promptly to maintain seamless functionality.\n\n-Actively recommended and executed application improvements based on user feedback and emerging technologies.\n\n-Worked closely with the team to implement updates and enhancements, enhancing the platform's user experience.\n\n-Provided timely support to resolve any technical issues or challenges encountered by users.\n\n-Implemented microservices architecture principles to ensure efficient communication and flexibility within the system.\nE-services is a digital platform that streamlines the evaluation of registration files and quality control for various health products, including medicines. This initiative enhances transparency, efficiency, and accessibility for stakeholders in the pharmaceutical sector. Here's a glimpse of my contributions and responsibilities throughout the project: -Collaborated with cross-functional teams to understand the project's scope and objectives. -Assessed existing software programs, identifying areas for improvement and optimization. -Conducted thorough market research and competitor analysis to stay updated with industry trends and best practices. -Wrote clean, efficient, and scalable code to create the core components of the E-services platform. -Debugged and resolved issues promptly to maintain seamless functionality. -Actively recommended and executed application improvements based on user feedback and emerging technologies. -Worked closely with the team to implement updates and enhancements, enhancing the platform's user experience. -Provided timely support to resolve any technical issues or challenges encountered by users. -Implemented microservices architecture principles to ensure efficient communication and flexibility within the system.\nCompétences : Nx · NgRx · NestJS · Angular · API Swagger · Keycloak · GitHub · WebSocket · Redis · TypeScript · Kubernetes · ArgoCD · Continuous Integration and Continuous Delivery (CI/CD)\nCompétences :Nx · NgRx · NestJS · Angular · API Swagger · Keycloak · GitHub · WebSocket · Redis · TypeScript · Kubernetes · ArgoCD · Continuous Integration and Continuous Delivery (CI/CD)\nE-Services | DMP\nE-Services | DMP"
+            },
+            {
+                "title": "Full-stack Developer",
+                "company": "Novaxys · Temps plein",
+                "from": "juin 2021",
+                "to": "déc. 2021",
+                "description": " m’a permis de trouver cet emploi\nLinkedIn m’a permis de trouver cet emploi\nNovaxys is a consulting and IT solutions company, specializing in digital transformation. One of their notable projects is the development of a loyalty application similar to Kenz'up, designed to enhance customer engagement and retention for financial institutions. Here's a glimpse of my contributions and responsibilities throughout the project:\n\n- Seamless integration with partner stores, allowing users to earn and redeem loyalty points effortlessly.\n- Secure payment options enabling users to pay using their credit cards directly through the app, utilizing tools such as Stripe and PayPal for secure transactions.\n- Real-time tracking of earned and redeemed points, providing transparency and encouraging user engagement.\nNovaxys is a consulting and IT solutions company, specializing in digital transformation. One of their notable projects is the development of a loyalty application similar to Kenz'up, designed to enhance customer engagement and retention for financial institutions. Here's a glimpse of my contributions and responsibilities throughout the project: - Seamless integration with partner stores, allowing users to earn and redeem loyalty points effortlessly. - Secure payment options enabling users to pay using their credit cards directly through the app, utilizing tools such as Stripe and PayPal for secure transactions. - Real-time tracking of earned and redeemed points, providing transparency and encouraging user engagement.\nCompétences : Python · Node.js · GitHub · FastAPI · React.js\nCompétences :Python · Node.js · GitHub · FastAPI · React.js"
+            }
+        ],
+        "educations": [
+            {
+                "institution": "Ecole Nationale des Sciences Appliquées - Kénitra",
+                "degree": "Master degree in Systems and Products Management, Engineering/Industrial Management",
+                "from": "2019",
+                "to": "2021",
+                "description": "Niveau : Master Degree\nNiveau : Master Degree\nCompétences : Python\nCompétences :Python"
+            }
+        ],
+        "interests": [],
+        "accomplishments": [],
+        "contacts": []
+    },
+    {
+        "url": "https://www.linkedin.com/in/yahyasghayron",
+        "profile": {
+            "name": "yahya sghayron",
+            "location": "Settat, Casablanca-Settat, Maroc",
+            "about": "I am a Full Stack developer with Freelance experience building websites and web applications. I specialize in laravel and Vue Js and have professional experience working with Angular. I also have experience working with React, Django, and Go. Take a look at my work or get in touch.\n\nGitHub: https://github.com/yahyasghayron\n…voir plus",
+            "open_to_work": "N/A"
+        },
+        "experiences": [
+            {
+                "title": "Node js developer",
+                "company": "Inetum · Temps plein",
+                "from": "avr. 2025",
+                "to": "aujourd’hui",
+                "description": "Compétences : sap cap · sap btp · Node.js · OData · Cloud Foundry · react\nCompétences :sap cap · sap btp · Node.js · OData · Cloud Foundry · react"
+            },
+            {
+                "title": "Full-stack Developer",
+                "company": "ECA Assurances · Temps plein",
+                "from": "nov. 2022",
+                "to": "mai 2025",
+                "description": "As a Full Stack Developer at ECA Assurances, I develop, maintain, and optimize key web-based projects, including our CRM system and OCR solutions. I work with Laravel, Vue.js, Python, Go, and Flask to deliver efficient and scalable applications, pushing updates and managing production deployments. \n\nA significant achievement in my role was stabilizing the CRM project and reducing database costs by 50% through strategic refactoring. I also implemented a materialized design pattern to optimize hierarchical data retrieval, which significantly improved performance. Additionally, I integrated Grafana and Prometheus into our projects to detect bottlenecks and monitor application behavior in production. \n\nWhile officially a developer, I provide technical guidance across teams, helping to debug issues and propose solutions that enhance project efficiency.\nAs a Full Stack Developer at ECA Assurances, I develop, maintain, and optimize key web-based projects, including our CRM system and OCR solutions. I work with Laravel, Vue.js, Python, Go, and Flask to deliver efficient and scalable applications, pushing updates and managing production deployments. A significant achievement in my role was stabilizing the CRM project and reducing database costs by 50% through strategic refactoring. I also implemented a materialized design pattern to optimize hierarchical data retrieval, which significantly improved performance. Additionally, I integrated Grafana and Prometheus into our projects to detect bottlenecks and monitor application behavior in production. While officially a developer, I provide technical guidance across teams, helping to debug issues and propose solutions that enhance project efficiency.\nCompétences : Front-End Development · Design Patterns · REST APIs · Teamwork · Vue.js · Back-End Web Development · Full-Stack Development · JavaScript · Web Services · Programming · Node.js · PHP · Computer Science · RESTful architecture · Jira · Gitlab · Laravel · Git · MySQL · Cascading Style Sheets (CSS) · SQL · Responsive Web Design · Docker · Flask · Django · OpenAI API · Nuxt.js · Symfony Framework · CI · Grafana · Prometheus.io\nCompétences :Front-End Development · Design Patterns · REST APIs · Teamwork · Vue.js · Back-End Web Development · Full-Stack Development · JavaScript · Web Services · Programming · Node.js · PHP · Computer Science · RESTful architecture · Jira · Gitlab · Laravel · Git · MySQL · Cascading Style Sheets (CSS) · SQL · Responsive Web Design · Docker · Flask · Django · OpenAI API · Nuxt.js · Symfony Framework · CI · Grafana · Prometheus.io"
+            },
+            {
+                "title": "Développeur web",
+                "company": "Université Abdelmalek Essaâdi Tétouan · Stage",
+                "from": "juin 2022",
+                "to": "juin 2022",
+                "description": "Compétences : Vue.js · Back-End Web Development · HTML5 · PHP · Computer Science · Laravel · Feuilles de style en cascade (CSS) · Front-End Development · Teamwork · Full-Stack Development · Bootstrap · JavaScript · Programming · Node.js · RESTful architecture · Français · Git · Responsive Web Design\nCompétences :Vue.js · Back-End Web Development · HTML5 · PHP · Computer Science · Laravel · Feuilles de style en cascade (CSS) · Front-End Development · Teamwork · Full-Stack Development · Bootstrap · JavaScript · Programming · Node.js · RESTful architecture · Français · Git · Responsive Web Design"
+            },
+            {
+                "title": "Développeur web",
+                "company": "Backoffice IT, Inc. · Stage",
+                "from": "août 2021",
+                "to": "sept. 2021",
+                "description": "Compétences : Vue.js · Back-End Web Development · Architecture MVC · Computer Science · Laravel · Feuilles de style en cascade (CSS) · Front-End Development · Full-Stack Development · Programming · Node.js · RESTful architecture · Français · Git · Responsive Web Design · HTML\nCompétences :Vue.js · Back-End Web Development · Architecture MVC · Computer Science · Laravel · Feuilles de style en cascade (CSS) · Front-End Development · Full-Stack Development · Programming · Node.js · RESTful architecture · Français · Git · Responsive Web Design · HTML"
+            },
+            {
+                "title": "Développeur web fullstack",
+                "company": "BEWEB Maroc · Stage",
+                "from": "sept. 2020",
+                "to": "nov. 2020",
+                "description": "Compétences : Angular · Back-End Web Development · Computer Science · Laravel · AngularJS · Feuilles de style en cascade (CSS) · JIRA · Front-End Development · Teamwork · Programming · API REST · Node.js · RESTful architecture · Français · Git · SQL · Responsive Web Design · HTML\nCompétences :Angular · Back-End Web Development · Computer Science · Laravel · AngularJS · Feuilles de style en cascade (CSS) · JIRA · Front-End Development · Teamwork · Programming · API REST · Node.js · RESTful architecture · Français · Git · SQL · Responsive Web Design · HTML"
+            },
+            {
+                "title": "Développeur web",
+                "company": "ANAPEC · Stage",
+                "from": "oct. 2019",
+                "to": "oct. 2019",
+                "description": "Compétences : Computer Science · Feuilles de style en cascade (CSS) · Bootstrap · Programming · Français · HTML\nCompétences :Computer Science · Feuilles de style en cascade (CSS) · Bootstrap · Programming · Français · HTML"
+            }
+        ],
+        "educations": [
+            {
+                "institution": "SUPEMIR",
+                "degree": "Master's degree, Génie Logiciel et Web Applications",
+                "from": "2023",
+                "to": "2024",
+                "description": "Compétences : Project Management · Java · Spring Boot · Angular · Python (Programming Language) · Django · Java EE\nCompétences :Project Management · Java · Spring Boot · Angular · Python (Programming Language) · Django · Java EE"
+            },
+            {
+                "institution": "SUPEMIR",
+                "degree": "Master's degree, Génie Logiciel et Web Applications",
+                "from": "2023",
+                "to": "2024",
+                "description": "Compétences : Project Management · Java · Spring Boot · Angular · Python (Programming Language) · Django · Java EE\nCompétences :Project Management · Java · Spring Boot · Angular · Python (Programming Language) · Django · Java EE"
+            },
+            {
+                "institution": "SUPEMIR",
+                "degree": "Master's degree, Génie Logiciel et Web Applications",
+                "from": "2023",
+                "to": "2024",
+                "description": "Compétences : Project Management · Java · Spring Boot · Angular · Python (Programming Language) · Django · Java EE\nCompétences :Project Management · Java · Spring Boot · Angular · Python (Programming Language) · Django · Java EE"
+            },
+            {
+                "institution": "SUPEMIR",
+                "degree": "Master's degree, Génie Logiciel et Web Applications",
+                "from": "2023",
+                "to": "2024",
+                "description": "Compétences : Project Management · Java · Spring Boot · Angular · Python (Programming Language) · Django · Java EE\nCompétences :Project Management · Java · Spring Boot · Angular · Python (Programming Language) · Django · Java EE"
+            }
+        ],
+        "interests": [],
+        "accomplishments": [],
+        "contacts": []
+    },
+    {
+        "url": "https://www.linkedin.com/in/abdelaziz-karoum-15183427a",
+        "profile": {
+            "name": "Abdelaziz Karoum",
+            "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
+            "about": "Passionate MERN/MEVN Stack Developer | Tech Enthusiast | 3+ Years of Experience\n\nWith over 3 years of expertise in Web Development, I've successfully delivered 30+ projects, aiding businesses in establishing a robust online presence. My commitment extends beyond mere development; I offer end-to-end services encompassing SEO, marketing, A/B testing, brand building, eCommerce solutions, and conversion rate optimization.\n\nWhat Sets Me Apart:\nCrafting top-notch website designs that elevate brands.\nExpertise in Web Development, Responsive Design, and Client Side Architecture.\nSeamless Third-Party API Integrations for enhanced functionality.\nSEO Consultant driving visibility and ranking on search engines.\n\nSkills :\nWeb Development | Web Design | SEO Consultation\nUI/UX Design | Responsive Design | Bootstrap | Tailwind CSS | MUI\nMERN/MEVN Stack | HTML5 | CSS | JavaScript | TypeScript | Reactjs | Nextjs | Node.js | Nest.js | Express.js\nGit | MySQL | SQL Server | Oracle Database | SQL\nGraphic Design | Social Media Marketing | Adobe Creative Suite\n\nI thrive on staying at the forefront of current and emerging web development and design trends, enabling rapid prototyping and practical application. As a seasoned freelancer, I'm here to address your queries and project requirements. Let's build something extraordinary together!\n\nFeel free to reach out for inquiries or project collaborations!\n…voir plus",
+            "open_to_work": "N/A"
+        },
+        "experiences": [
+            {
+                "title": "Full Stack JavaScript Developer",
+                "company": "Confidential · Temps plein",
+                "from": "mars 2021",
+                "to": "aujourd’hui",
+                "description": "Compétences : React.js · nextjs · Vue.js · TypeScript · Keycloak · Next.js · Git · NestJS · Docker\nCompétences :React.js · nextjs · Vue.js · TypeScript · Keycloak · Next.js · Git · NestJS · Docker"
+            },
+            {
+                "title": "Full-stack Developer",
+                "company": "Freelance (Self employed) · Freelance",
+                "from": "août 2020",
+                "to": "aujourd’hui",
+                "description": "Working as Freelancer on different missions\nWorking as Freelancer on different missions\nCompétences : React.js · nextjs · TypeScript · Next.js · Express.js · React Native · NestJS · Graphic Design\nCompétences :React.js · nextjs · TypeScript · Next.js · Express.js · React Native · NestJS · Graphic Design"
+            },
+            {
+                "title": "Social Media Marketing Manager",
+                "company": "Self Employed · Temps partiel",
+                "from": "2020 -",
+                "to": "N/A",
+                "description": "Compétences : Copywriting · Social Media Strategy · Facebook Ads · Search Engine Optimization (SEO) · Product Design · Google Ads · Web Development · WordPress · Online Media Management · Logo Design · Google Maps\nCompétences :Copywriting · Social Media Strategy · Facebook Ads · Search Engine Optimization (SEO) · Product Design · Google Ads · Web Development · WordPress · Online Media Management · Logo Design · Google Maps"
+            }
+        ],
+        "educations": [
+            {
+                "institution": "Université Ibn Zohr",
+                "degree": "License Professionnel, Ginie Logiciel ",
+                "from": "2020",
+                "to": "2021",
+                "description": "N/A"
+            },
+            {
+                "institution": "Université Ibn Zohr",
+                "degree": "License Professionnel, Ginie Logiciel ",
+                "from": "2020",
+                "to": "2021",
+                "description": "N/A"
+            }
+        ],
+        "interests": [],
+        "accomplishments": [],
+        "contacts": []
+    },
+    {
+        "url": "https://www.linkedin.com/in/youneshimmi",
+        "profile": {
+            "name": "Younes Himmi",
+            "location": "Tanger, Tanger-Tétouan-Al Hoceïma, Maroc",
+            "about": "En tant que développeur web full stack avec 5 ans d'expérience, je possède une diversité de compétences techniques, notamment la maîtrise de PHP, JavaScript, Laravel, Symfony, VueJS, ReactJS et de nombreuses autres technologies. Cependant, ce qui me distingue vraiment, c'est ma capacité à stimuler un environnement de travail collaboratif et innovant, et ma curiosité à rester à jour avec les dernières tendances et les bonnes pratiques du secteur.\n\nGrâce à ma grande expérience de la conception et du développement d'applications Web à travers plusieurs API, intégrations tierces et bases de données, je m'engage à fournir des résultats de la plus haute qualité et à garantir la satisfaction des clients à tout moment.\n\nSi vous recherchez un professionnel compétent et dévoué pour vous aider à développer votre projet, n'hésitez pas à me contacter.\n…voir plus",
+            "open_to_work": "N/A"
+        },
+        "experiences": [
+            {
+                "title": "Développeur PHP et JavaScript Full Stack",
+                "company": "MintMe.com · Temps plein",
+                "from": "août 2022",
+                "to": "aujourd’hui",
+                "description": " m’a permis de trouver cet emploi\nLinkedIn m’a permis de trouver cet emploi\nEn tant que développeur full-stack chez MintMe, je mets à profit mes compétences en PHP, Symfony Framework, Vue.js, JavaScript, TypeScript et diverses autres technologies pour offrir des résultats pertinents et contribuer au succès de l'entreprise.\n\nContributions clés:\n\n● J'ai développé de nouvelles fonctionnalités qui ont amélioré l'expérience des utilisateurs\n● J'ai corrigé des erreurs et des bogues, garantissant la stabilité et la fiabilité de la plateforme\n● J'ai signalé et résolu de nouveaux problèmes, maintenant les standards élevés de la plateforme\n● J'ai collaboré efficacement avec les membres de l'équipe, promouvant ainsi des processus de développement fluides\n\nAvec ma passion pour la technologie et mon aptitude à travailler en équipe, j'ai été en mesure de générer des résultats et d'avoir un impact positif chez MintMe.\nEn tant que développeur full-stack chez MintMe, je mets à profit mes compétences en PHP, Symfony Framework, Vue.js, JavaScript, TypeScript et diverses autres technologies pour offrir des résultats pertinents et contribuer au succès de l'entreprise. Contributions clés: ● J'ai développé de nouvelles fonctionnalités qui ont amélioré l'expérience des utilisateurs ● J'ai corrigé des erreurs et des bogues, garantissant la stabilité et la fiabilité de la plateforme ● J'ai signalé et résolu de nouveaux problèmes, maintenant les standards élevés de la plateforme ● J'ai collaboré efficacement avec les membres de l'équipe, promouvant ainsi des processus de développement fluides Avec ma passion pour la technologie et mon aptitude à travailler en équipe, j'ai été en mesure de générer des résultats et d'avoir un impact positif chez MintMe.\nCompétences : Vuex · JavaScript · Vuetify · Continuous Integration and Continuous Delivery (CI/CD) · Unit Testing · ChatGPT · Redis · PHPUnit · Cypress · Symfony Framework · Gitlab · SASS · Material-UI · Virtual Private Server (VPS) · MariaDB · PHP · JSON · Git · Node.js · Vue.js · docker · HTML · Jest · Secure Shell (SSH) · TypeScript · Cascading Style Sheets (CSS) · SQL · REST APIs\nCompétences :Vuex · JavaScript · Vuetify · Continuous Integration and Continuous Delivery (CI/CD) · Unit Testing · ChatGPT · Redis · PHPUnit · Cypress · Symfony Framework · Gitlab · SASS · Material-UI · Virtual Private Server (VPS) · MariaDB · PHP · JSON · Git · Node.js · Vue.js · docker · HTML · Jest · Secure Shell (SSH) · TypeScript · Cascading Style Sheets (CSS) · SQL · REST APIs\nmintMe | create your own token, monetize yourself!\nmintMe | create your own token, monetize yourself!"
+            },
+            {
+                "title": "Professeur d'informatique du cycle secondaire",
+                "company": "Ministère de l'Education Nationale, Maroc · CDD",
+                "from": "sept. 2021",
+                "to": "aujourd’hui",
+                "description": "● Instruire les étudiants sur Javascript et quelques autres technologies pertinentes. \n● Instruire les étudiants sur le fonctionnement des ordinateurs, y compris les sciences et les mathématiques de base qui sous-tendent leur fonctionnement, ainsi que le matériel et les logiciels construits sur ces bases. \n● Enseigner comment écrire des programmes informatiques et des algorithmes.\n● Instruire les étudiants sur Javascript et quelques autres technologies pertinentes. ● Instruire les étudiants sur le fonctionnement des ordinateurs, y compris les sciences et les mathématiques de base qui sous-tendent leur fonctionnement, ainsi que le matériel et les logiciels construits sur ces bases. ● Enseigner comment écrire des programmes informatiques et des algorithmes.\nCompétences : JavaScript · C (Programming Language) · Microsoft Excel · Scratch · xlogo\nCompétences :JavaScript · C (Programming Language) · Microsoft Excel · Scratch · xlogo"
+            },
+            {
+                "title": "Développeur Full Stack",
+                "company": "Rabe7.ma · Temps plein",
+                "from": "oct. 2020",
+                "to": "juil. 2022",
+                "description": "En tant que développeur Full Stack chez Rabe7, j'ai mis à profit mon expertise en PHP, Laravel, Vue.js, MySQL, JavaScript et d'autres technologies pertinentes pour créer des solutions logicielles évolutives et faciles à maintenir, adaptées aux besoins spécifiques de l'entreprise et de ses clients.\n\nContributions principales :\n\n● Développé et mis en œuvre de nouvelles fonctionnalités, notamment celles liées aux paiements et aux abonnements, en plus d'améliorer les fonctionnalités existantes et de résoudre les erreurs à la fois sur le frontend et le backend.\n● Hébergé et entretenu le site Web, en garantissant des performances et une sécurité optimales par le biais de mises à jour et de contrôles réguliers.\n● Configuré des pipelines CI/CD à l'aide des actions de GitHub et de la syntaxe YAML pour rationaliser le processus de développement et faciliter l'intégration transparente de nouvelles fonctionnalités.\n\nDans ce rôle, je me suis engagé à fournir des solutions de haute qualité répondant aux besoins uniques de Rabe7 et de ses clients. En collaborant avec mes collègues pour identifier les domaines à améliorer, j'ai pu contribuer au succès de l'entreprise et faire en sorte que son site Web reste un outil puissant et efficace pour l'e-commerce de gros.\nEn tant que développeur Full Stack chez Rabe7, j'ai mis à profit mon expertise en PHP, Laravel, Vue.js, MySQL, JavaScript et d'autres technologies pertinentes pour créer des solutions logicielles évolutives et faciles à maintenir, adaptées aux besoins spécifiques de l'entreprise et de ses clients. Contributions principales : ● Développé et mis en œuvre de nouvelles fonctionnalités, notamment celles liées aux paiements et aux abonnements, en plus d'améliorer les fonctionnalités existantes et de résoudre les erreurs à la fois sur le frontend et le backend. ● Hébergé et entretenu le site Web, en garantissant des performances et une sécurité optimales par le biais de mises à jour et de contrôles réguliers. ● Configuré des pipelines CI/CD à l'aide des actions de GitHub et de la syntaxe YAML pour rationaliser le processus de développement et faciliter l'intégration transparente de nouvelles fonctionnalités. Dans ce rôle, je me suis engagé à fournir des solutions de haute qualité répondant aux besoins uniques de Rabe7 et de ses clients. En collaborant avec mes collègues pour identifier les domaines à améliorer, j'ai pu contribuer au succès de l'entreprise et faire en sorte que son site Web reste un outil puissant et efficace pour l'e-commerce de gros.\nCompétences : JavaScript · MySQL · GitHub · Continuous Integration and Continuous Delivery (CI/CD) · Bootstrap · Stripe Connect · Web Hosting · PHP · Git · Vue.js · Laravel · Version Control · HTML · YAML · Cascading Style Sheets (CSS) · SQL · REST APIs · E-Commerce\nCompétences :JavaScript · MySQL · GitHub · Continuous Integration and Continuous Delivery (CI/CD) · Bootstrap · Stripe Connect · Web Hosting · PHP · Git · Vue.js · Laravel · Version Control · HTML · YAML · Cascading Style Sheets (CSS) · SQL · REST APIs · E-Commerce\nPlatform for retail and wholesale sellers\nPlatform for retail and wholesale sellers\nThis platform offers modern and innovative solutions to the major problems of retail and wholesale sellers\nThis platform offers modern and innovative solutions to the major problems of retail and wholesale sellers"
+            },
+            {
+                "title": "Développeur PHP",
+                "company": "Médiathèque de Beni Makada · Stage",
+                "from": "févr. 2020",
+                "to": "sept. 2020",
+                "description": "En tant que développeur PHP à la médiathèque Beni Makada, j'ai dirigé le développement d'une application web innovante qui a révolutionné la façon dont les clients interagissent avec la bibliothèque. À l'aide d'une gamme variée de technologies, j'ai conçu et réalisé le back-end et le front-end de l'application afin de garantir une expérience utilisateur transparente et intuitive.\n\nPrincipales contributions :\n\n● Développement d'une interface client conviviale permettant aux clients de la bibliothèque de gérer leurs comptes, de demander de nouvelles cartes de bibliothèque et de vérifier la disponibilité des livres en temps réel.\n● Conçu et mis en œuvre une interface d'administration qui rationalisait les opérations de la bibliothèque, permettant une gestion efficace de l'inventaire des livres, des cartes de bibliothèque et d'autres tâches essentielles.\n● Utilisé mon expertise en PHP, Laravel et SQL pour construire le back-end de l'application, assurant une communication transparente entre le client et le serveur.\n● Exploité mes connaissances des technologies frontales telles que JavaScript, HTML, SASS, CSS, Bootstrap et jQuery pour créer une interface utilisateur intuitive et réactive.\n● Employé le langage de modélisation unifié (UML) pour créer des diagrammes de conception détaillés qui ont permis d'optimiser l'architecture et les fonctionnalités de l'application.\n● Géré la base de données de l'application à l'aide de PhpMyAdmin, en assurant l'intégrité et la sécurité des données.\n● Utilisé Git pour le contrôle de version, permettant un développement collaboratif et une gestion efficace du code.\n\nJe suis très fier de l'impact positif que mon expertise technique, mon leadership et mes compétences en communication ont eu sur la livraison réussie de cette application web.\nEn tant que développeur PHP à la médiathèque Beni Makada, j'ai dirigé le développement d'une application web innovante qui a révolutionné la façon dont les clients interagissent avec la bibliothèque. À l'aide d'une gamme variée de technologies, j'ai conçu et réalisé le back-end et le front-end de l'application afin de garantir une expérience utilisateur transparente et intuitive. Principales contributions : ● Développement d'une interface client conviviale permettant aux clients de la bibliothèque de gérer leurs comptes, de demander de nouvelles cartes de bibliothèque et de vérifier la disponibilité des livres en temps réel. ● Conçu et mis en œuvre une interface d'administration qui rationalisait les opérations de la bibliothèque, permettant une gestion efficace de l'inventaire des livres, des cartes de bibliothèque et d'autres tâches essentielles. ● Utilisé mon expertise en PHP, Laravel et SQL pour construire le back-end de l'application, assurant une communication transparente entre le client et le serveur. ● Exploité mes connaissances des technologies frontales telles que JavaScript, HTML, SASS, CSS, Bootstrap et jQuery pour créer une interface utilisateur intuitive et réactive. ● Employé le langage de modélisation unifié (UML) pour créer des diagrammes de conception détaillés qui ont permis d'optimiser l'architecture et les fonctionnalités de l'application. ● Géré la base de données de l'application à l'aide de PhpMyAdmin, en assurant l'intégrité et la sécurité des données. ● Utilisé Git pour le contrôle de version, permettant un développement collaboratif et une gestion efficace du code. Je suis très fier de l'impact positif que mon expertise technique, mon leadership et mes compétences en communication ont eu sur la livraison réussie de cette application web.\nCompétences : JavaScript · Unified Modeling Language (UML) · Bootstrap · SASS · PHP · Git · PhpMyAdmin · Laravel · jQuery · HTML · Cascading Style Sheets (CSS) · SQL\nCompétences :JavaScript · Unified Modeling Language (UML) · Bootstrap · SASS · PHP · Git · PhpMyAdmin · Laravel · jQuery · HTML · Cascading Style Sheets (CSS) · SQL\nwebsite presentation video\nwebsite presentation video"
+            }
+        ],
+        "educations": [
+            {
+                "institution": "Faculté des Sciences et Techniques de Tanger",
+                "degree": "Licence génie informatique, Informatique",
+                "from": "N/A",
+                "to": "N/A",
+                "description": "Je suis titulaire d'une licence génie informatique avec une solide expérience en développement web. Au cours de mes études, j'ai acquis une expérience pratique en utilisant PHP, Laravel, JavaScript, HTML, CSS et jQuery. J'ai travaillé sur plusieurs projets qui ont affiné mes compétences dans ces technologies et m'ont permis de développer des applications web dynamiques et interactives. Ma passion pour la programmation et la résolution de problèmes m'a poussé à continuer à améliorer mes compétences et à être à jour avec les dernières technologies et tendances du secteur. Je suis impatient de mettre mes compétences à la disposition d'une organisation dynamique et de poursuivre ma croissance professionnelle.\nJe suis titulaire d'une licence génie informatique avec une solide expérience en développement web. Au cours de mes études, j'ai acquis une expérience pratique en utilisant PHP, Laravel, JavaScript, HTML, CSS et jQuery. J'ai travaillé sur plusieurs projets qui ont affiné mes compétences dans ces technologies et m'ont permis de développer des applications web dynamiques et interactives. Ma passion pour la programmation et la résolution de problèmes m'a poussé à continuer à améliorer mes compétences et à être à jour avec les dernières technologies et tendances du secteur. Je suis impatient de mettre mes compétences à la disposition d'une organisation dynamique et de poursuivre ma croissance professionnelle.\nCompétences : Cascading Style Sheets (CSS) · SQL · PHP · Laravel · JavaScript · jQuery\nCompétences :Cascading Style Sheets (CSS) · SQL · PHP · Laravel · JavaScript · jQuery"
+            }
+        ],
+        "interests": [],
+        "accomplishments": [],
+        "contacts": []
+    },
+    {
+        "url": "https://www.linkedin.com/in/jamal-el-mellahi",
+        "profile": {
+            "name": "Mohamed Jamal El Mellahi",
+            "location": "Tétouan, Tanger-Tétouan-Al Hoceïma, Maroc",
             "about": "N/A",
             "open_to_work": "N/A"
         },
-        "experiences": [],
-        "educations": [],
+        "experiences": [
+            {
+                "title": "SVB DEV",
+                "company": "6 mois",
+                "from": "Casablanca, Casablanca-Settat,",
+                "to": "N/A",
+                "description": "Full Stack .Net/React Developer\nFull Stack .Net/React Developer\nTemps plein\nTemps plein\njuil. 2025 - aujourd’hui · 2 mois\nDe juil. 2025 à aujourd’hui · 2 mois\nCompétences : Entity Framework (EF) Core · Visual Basic .NET (VB.NET) · ASP.NET · ASP.NET Core · ASP.NET Web API · Git · React.js · ASP.NET MVC · C#\nCompétences :Entity Framework (EF) Core · Visual Basic .NET (VB.NET) · ASP.NET · ASP.NET Core · ASP.NET Web API · Git · React.js · ASP.NET MVC · C#\nFull Stack .Net/React Developer\nFull Stack .Net/React Developer\nStage\nStage\nmars 2025 - juin 2025 · 4 mois\nDu mars 2025 au juin 2025 · 4 mois\nCompétences : .NET Framework · C# · Entity Framework (EF) Core · React.js · TypeScript\nCompétences :.NET Framework · C# · Entity Framework (EF) Core · React.js · TypeScript"
+            },
+            {
+                "title": "Full Stack .NET/React Developer",
+                "company": "GMD METAL TANGER · Stage",
+                "from": "sept. 2024",
+                "to": "févr. 2025",
+                "description": "Compétences : ASP.NET Web API · .NET Framework · C# · Entity Framework (EF) Core · React.js · Microsoft SQL Server\nCompétences :ASP.NET Web API · .NET Framework · C# · Entity Framework (EF) Core · React.js · Microsoft SQL Server"
+            },
+            {
+                "title": "Full Stack Developer",
+                "company": "YAFA Technologies · Stage",
+                "from": "nov. 2023",
+                "to": "janv. 2024",
+                "description": "Compétences : Web Development · Software Development\nCompétences :Web Development · Software Development"
+            },
+            {
+                "title": "SAP Technical Consultant",
+                "company": "LafargeHolcim Maroc · Stage",
+                "from": "oct. 2023",
+                "to": "nov. 2023",
+                "description": "N/A"
+            }
+        ],
+        "educations": [
+            {
+                "institution": "École nationale des sciences appliquées de Tétouan",
+                "degree": "Licence Professionnelle, Génie Logiciel et Développement Web",
+                "from": "2023",
+                "to": "2024",
+                "description": "Compétences : Web Development · Spring Boot · Database Optimization · Software Development · Cascading Style Sheets (CSS) · JavaScript · SQL · Databases · Database Administration · PHP · Java · HTML5 · MySQL\nCompétences :Web Development · Spring Boot · Database Optimization · Software Development · Cascading Style Sheets (CSS) · JavaScript · SQL · Databases · Database Administration · PHP · Java · HTML5 · MySQL"
+            },
+            {
+                "institution": "École nationale des sciences appliquées de Tétouan",
+                "degree": "Licence Professionnelle, Génie Logiciel et Développement Web",
+                "from": "2023",
+                "to": "2024",
+                "description": "Compétences : Web Development · Spring Boot · Database Optimization · Software Development · Cascading Style Sheets (CSS) · JavaScript · SQL · Databases · Database Administration · PHP · Java · HTML5 · MySQL\nCompétences :Web Development · Spring Boot · Database Optimization · Software Development · Cascading Style Sheets (CSS) · JavaScript · SQL · Databases · Database Administration · PHP · Java · HTML5 · MySQL"
+            }
+        ],
         "interests": [],
         "accomplishments": [],
         "contacts": []
     },
     {
-        "url": "https://www.linkedin.com/in/reidhoffman",
+        "url": "https://www.linkedin.com/in/ayoub-houjaj-4766971a3",
         "profile": {
-            "name": "Reid Hoffman",
-            "location": "États-Unis",
-            "about": "My current priority is investing in and building with AI to benefit humanity.\n\nI am active in all facets of the consumer internet and software industries. My focus spans product development, innovation, business strategy, and finance. My expertise also extends to general management, operations, business development, talent management, and marketing. I have experience with seed-stage to massive scale companies such as PayPal, LinkedIn, Airbnb, OpenAI, Facebook, Mozilla, and Zynga, as well as world-scale companies like Microsoft.\n\nMy specialties include general management, product development, strategy, negotiation, financing, deal structuring, international business, marketing, brand development and management, business development, public relations, press strategy, payments infrastructure, financial services, mergers and acquisitions, startups, software development, operations centers, board management, and investing.",
+            "name": "Ayoub Houjaj",
+            "location": "Préfecture de Fès, Fès-Meknès, Maroc",
+            "about": "As a junior software engineer, I am passionate about coding and have a strong foundation in software development. I am dedicated to continuous learning and staying up-to-date with the latest technologies. With a solid understanding of programming languages such as (NodeJS, Angular, Vue, java spring boot, git, Agile methodology, etc.) , I thrive in collaborative environments and enjoy taking on complex challenges. I have a proven track record of delivering high-quality solutions, demonstrating strong problem-solving skills, and quickly adapting to new technologies. My effective communication skills and ability to work well within teams make me a valuable contributor to software engineering projects. I am committed to personal growth and strive for excellence. I am eager to contribute my skills and learn from experienced professionals in a dynamic and innovative organization",
             "open_to_work": "N/A"
         },
         "experiences": [
             {
-                "title": "Co-Founder, Board Chair",
-                "company": "Manas AI · Temps partiel",
-                "from": "janv. 2025",
-                "to": "aujourd’hui",
-                "description": "Manas AI leverages proprietary AI, generative computational chemistry, and best in class biology to cut the timeline and costs of traditional therapeutic discovery and transform the treatment of cancer and rare disease.\n\nWhile we're still in the early stages of contemporary AI development, initiatives like Manas AI show how close we already are to advances that can profoundly change the world. Success in our quest will give thousands of oncologists around the world new therapeutics to combat diseases that have shaped human existence since before recorded history, constraining human possibilities and causing immense suffering and loss. The future of medicine has never held more promise.\nManas AI leverages proprietary AI, generative computational chemistry, and best in class biology to cut the timeline and costs of traditional therapeutic discovery and transform the treatment of cancer and rare disease. While we're still in the early stages of contemporary AI development, initiatives like Manas AI show how close we already are to advances that can profoundly change the world. Success in our quest will give thousands of oncologists around the world new therapeutics to combat diseases that have shaped human existence since before recorded history, constraining human possibilities and causing immense suffering and loss. The future of medicine has never held more promise."
+                "title": "N/A",
+                "company": "Giantlink ",
+                "from": "N/A",
+                "to": "N/A",
+                "description": "Software Engineer\nSoftware Engineer\nTemps plein\nTemps plein\nnov. 2021 - aujourd’hui · 3 ans 10 mois\nDe nov. 2021 à aujourd’hui · 3 ans 10 mois\nFès, Fès-Meknès, Maroc\nFès, Fès-Meknès, Maroc\nCompétences : Unit Testing · Computer Engineering · Java · Front-End Development · Scrum · MySQL · Spring Boot · Angular · Problem Solving · JavaScript Frameworks · JavaScript · Back-End Web Development · Jira · Server Side · PhpMyAdmin · Vue.js · PostgreSQL · HTML5 · Node.js · Agile Development · TypeScript · Cascading Style Sheets (CSS) · Gitlab · Web Applications · Responsive Web Design · REST APIs · SQL · Web Components\nCompétences :Unit Testing · Computer Engineering · Java · Front-End Development · Scrum · MySQL · Spring Boot · Angular · Problem Solving · JavaScript Frameworks · JavaScript · Back-End Web Development · Jira · Server Side · PhpMyAdmin · Vue.js · PostgreSQL · HTML5 · Node.js · Agile Development · TypeScript · Cascading Style Sheets (CSS) · Gitlab · Web Applications · Responsive Web Design · REST APIs · SQL · Web Components\nDéveloppeur JavaScript\nDéveloppeur JavaScript\nStage\nStage\navr. 2021 - oct. 2021 · 7 mois\nDu avr. 2021 au oct. 2021 · 7 mois\nFès-Meknès, Maroc\nFès-Meknès, Maroc\nStage PFE chez Giantlink\nStage PFE chez Giantlink\nCompétences : Front-End Development · Scrum · Problem Solving · JavaScript · Node.js · Agile Development · Cascading Style Sheets (CSS) · Web Applications · Responsive Web Design · Web Components\nCompétences :Front-End Development · Scrum · Problem Solving · JavaScript · Node.js · Agile Development · Cascading Style Sheets (CSS) · Web Applications · Responsive Web Design · Web Components"
             },
             {
-                "title": "Co-Founder, Board Member",
-                "company": "Inflection AI · Temps partiel",
-                "from": "mars 2022",
-                "to": "aujourd’hui",
-                "description": "Inflection AI is a public benefit corporation leveraging our world-class large language model to build the first AI platform focused on the needs of the enterprise. \n\nI helped start Inflection AI to further a vision where artificial intelligence empowers individuals and amplifies human capabilities. In March 2024, an expanded team of kind, innovative, and collaborative individuals grew Inflection’s scope to focus on building enterprise AI solutions.\nInflection AI is a public benefit corporation leveraging our world-class large language model to build the first AI platform focused on the needs of the enterprise. I helped start Inflection AI to further a vision where artificial intelligence empowers individuals and amplifies human capabilities. In March 2024, an expanded team of kind, innovative, and collaborative individuals grew Inflection’s scope to focus on building enterprise AI solutions."
+                "title": "Projet stage étudiant",
+                "company": "Ministère de l’équipement , du transport de la logistique et de l'eau · Stage",
+                "from": "août 2019",
+                "to": "sept. 2019",
+                "description": "Compétences : JavaScript · React.js · Cascading Style Sheets (CSS)\nCompétences :JavaScript · React.js · Cascading Style Sheets (CSS)"
             },
             {
-                "title": "Partner",
-                "company": "Greylock · Temps plein",
-                "from": "nov. 2009",
-                "to": "aujourd’hui",
-                "description": "Greylock partners with entrepreneurs to build market-transforming companies. Notable Greylock portfolio companies include Linkedin, Airbnb, Facebook, Workday, Roblox, Palo Alto Networks, Dropbox, Pure Storage, Instagram and Discord. I represent Greylock on the boards of Aurora, Entrepreneur First, ManasAI, Tome, and Nauto.\n\nMy primary focus is world-class entrepreneurs with bold new ideas with the possibility of massive scale. I also focus on companies in domains where my product and entrepreneurial experience applies strongly: consumer internet, enterprise 2.0, mobile, social gaming, online marketplaces, payments, SAAS, and social networks.\nGreylock partners with entrepreneurs to build market-transforming companies. Notable Greylock portfolio companies include Linkedin, Airbnb, Facebook, Workday, Roblox, Palo Alto Networks, Dropbox, Pure Storage, Instagram and Discord. I represent Greylock on the boards of Aurora, Entrepreneur First, ManasAI, Tome, and Nauto. My primary focus is world-class entrepreneurs with bold new ideas with the possibility of massive scale. I also focus on companies in domains where my product and entrepreneurial experience applies strongly: consumer internet, enterprise 2.0, mobile, social gaming, online marketplaces, payments, SAAS, and social networks."
-            },
-            {
-                "title": "Chairperson",
-                "company": "Village Global · Temps partiel",
-                "from": "août 2017",
-                "to": "aujourd’hui",
-                "description": "Village Global is a network-native VC firm backed by tech industry luminaries. When you join a Village, seed capital is just the beginning. Village helps you go faster with an incredible founder community, expert advice, and game-changing introductions.\n\nAs the Chairman of Village since 2017, I have supported the community as we’ve built a network of experienced founders and advisors who are democratizing access to startup wisdom.\nVillage Global is a network-native VC firm backed by tech industry luminaries. When you join a Village, seed capital is just the beginning. Village helps you go faster with an incredible founder community, expert advice, and game-changing introductions. As the Chairman of Village since 2017, I have supported the community as we’ve built a network of experienced founders and advisors who are democratizing access to startup wisdom."
-            },
-            {
-                "title": "Board Member",
-                "company": "Microsoft · Temps partiel",
-                "from": "mars 2017",
-                "to": "aujourd’hui",
-                "description": "Microsoft's mission is to empower every person and every organization on the planet to achieve more.\n\nI believe in technology's power to empower people and transform industries. Microsoft exemplifies this mission at a global scale. Joining the board allowed me to contribute to a company that is using AI and cloud computing to amplify human potential and enhance productivity and creativity for billions.\nMicrosoft's mission is to empower every person and every organization on the planet to achieve more. I believe in technology's power to empower people and transform industries. Microsoft exemplifies this mission at a global scale. Joining the board allowed me to contribute to a company that is using AI and cloud computing to amplify human potential and enhance productivity and creativity for billions."
-            },
-            {
-                "title": "Board Member",
-                "company": "Aurora · Temps partiel",
-                "from": "janv. 2018",
-                "to": "aujourd’hui",
-                "description": "Aurora is a leading autonomous vehicle technology company, focused on self-driving solutions for freight, delivery, and passenger transport. The Aurora Driver platform integrates hardware, software, and data services to enable safe and efficient transportation.\nAurora is a bet on the transformative potential of autonomous technology to revolutionize logistics and mobility while addressing pressing challenges like safety and efficiency in transportation.\nAurora is a leading autonomous vehicle technology company, focused on self-driving solutions for freight, delivery, and passenger transport. The Aurora Driver platform integrates hardware, software, and data services to enable safe and efficient transportation. Aurora is a bet on the transformative potential of autonomous technology to revolutionize logistics and mobility while addressing pressing challenges like safety and efficiency in transportation."
-            },
-            {
-                "title": "Board Member",
-                "company": "NAUTO · Temps partiel",
-                "from": "août 2017",
-                "to": "aujourd’hui",
-                "description": "Nauto develops AI-powered driver and fleet safety systems to reduce collisions and improve driving behavior. By leveraging real-time insights, it enhances operational efficiency for businesses and supports safer roads for all.\n\nBacking Nauto is an opportunity to leverage AI to make the roads safer while driving value for thousands of businesses.\nNauto develops AI-powered driver and fleet safety systems to reduce collisions and improve driving behavior. By leveraging real-time insights, it enhances operational efficiency for businesses and supports safer roads for all. Backing Nauto is an opportunity to leverage AI to make the roads safer while driving value for thousands of businesses."
-            },
-            {
-                "title": "Board Member",
-                "company": "Entrepreneur First",
-                "from": "sept. 2017",
-                "to": "aujourd’hui",
-                "description": "Entrepreneur First identifies founders with extraordinary futures before anyone else, embedding them in a community of ambitious peers and giving them the tools they need to succeed, fast. We back them before they have a company, a team, even before they have an idea, based purely on talent.\n\nServing on Entrepreneur First’s board has allowed me to play a small role in fostering entrepreneurship by investing in individuals and giving more exceptional leaders access to capital.\nEntrepreneur First identifies founders with extraordinary futures before anyone else, embedding them in a community of ambitious peers and giving them the tools they need to succeed, fast. We back them before they have a company, a team, even before they have an idea, based purely on talent. Serving on Entrepreneur First’s board has allowed me to play a small role in fostering entrepreneurship by investing in individuals and giving more exceptional leaders access to capital."
-            },
-            {
-                "title": "Honorary Fellow",
-                "company": "Wolfson College, Oxford",
-                "from": "oct. 2016",
-                "to": "aujourd’hui",
-                "description": "I first attended Wolfson College at the University of Oxford as a Marshall Scholar, earning an MSt in Philosophy in 1993. It was a privilege to be awarded an Honorary Fellowship by my alma mater in 2016.\nI first attended Wolfson College at the University of Oxford as a Marshall Scholar, earning an MSt in Philosophy in 1993. It was a privilege to be awarded an Honorary Fellowship by my alma mater in 2016."
-            },
-            {
-                "title": "Dean's Senior Fellow",
-                "company": "Cambridge Judge Business School · Temps partiel",
-                "from": "juin 2025",
-                "to": "aujourd’hui",
-                "description": "N/A"
-            },
-            {
-                "title": "Visiting Senior Fellow",
-                "company": "The London School of Economics and Political Science (LSE) · Temps partiel",
-                "from": "févr. 2025",
-                "to": "aujourd’hui",
-                "description": "Appointed as a Visiting Senior Fellow at LSE’s Data Science Institute (DSI).\n\nI will interact with LSE students and faculty and participate in events including discussions and workshops during my visits to London. In the role, I will draw on my experience in technological entrepreneurship and the impacts of new technologies on society, the function of education and the university, and geopolitics of technology.\nAppointed as a Visiting Senior Fellow at LSE’s Data Science Institute (DSI). I will interact with LSE students and faculty and participate in events including discussions and workshops during my visits to London. In the role, I will draw on my experience in technological entrepreneurship and the impacts of new technologies on society, the function of education and the university, and geopolitics of technology."
-            },
-            {
-                "title": "Distinguished Fellow",
-                "company": "Columbia University · Temps partiel",
-                "from": "oct. 2024",
-                "to": "aujourd’hui",
-                "description": "Institute of Global Politics\nInstitute of Global Politics"
-            },
-            {
-                "title": "Advisory Member",
-                "company": "Reinvent Capital · Temps partiel",
-                "from": "août 2018",
-                "to": "aujourd’hui",
-                "description": "Reinvent partners with bold leaders of category-defining companies to help them grow and innovate at scale.\nReinvent partners with bold leaders of category-defining companies to help them grow and innovate at scale."
-            },
-            {
-                "title": "Board Member",
-                "company": "Coda · Temps partiel",
-                "from": "oct. 2014",
-                "to": "déc. 2024",
-                "description": "Coda is a collaboration platform that combines the power of spreadsheets and databases into a flexible, dynamic workspace. Their technology makes it so everyone can work together, in their own way, off a single source of truth.\n\nI was honored to serve on Coda’s board from 2014 until December 2024, when Coda was acquired by Grammarly.\nCoda is a collaboration platform that combines the power of spreadsheets and databases into a flexible, dynamic workspace. Their technology makes it so everyone can work together, in their own way, off a single source of truth. I was honored to serve on Coda’s board from 2014 until December 2024, when Coda was acquired by Grammarly."
-            },
-            {
-                "title": "Board Member",
-                "company": "Blockstream",
-                "from": "nov. 2014",
-                "to": "sept. 2024",
-                "description": "Blockstream is a leader in Bitcoin and blockchain technology, offering solutions for scaling, security, and decentralized financial systems. Its products include the Liquid Network and Bitcoin mining services.\n\n\nSince 2015, I have been writing about the power of Blockchain technology to redefine finance and ownership online. Serving on Blockstream’s board allowed me to support that vision and a dedicated team of builders.\nBlockstream is a leader in Bitcoin and blockchain technology, offering solutions for scaling, security, and decentralized financial systems. Its products include the Liquid Network and Bitcoin mining services. Since 2015, I have been writing about the power of Blockchain technology to redefine finance and ownership online. Serving on Blockstream’s board allowed me to support that vision and a dedicated team of builders."
-            },
-            {
-                "title": "Board Member",
-                "company": "Joby Aviation · Temps partiel",
-                "from": "août 2021",
-                "to": "juin 2024",
-                "description": "Joby Aviation is an electric vertical takeoff and landing (eVTOL) aircraft company aiming to redefine urban transportation. Its aircraft promise zero-emission, quiet, and efficient air travel.\n\nJoby is a pioneer in the future of sustainable, urban transportation.\nJoby Aviation is an electric vertical takeoff and landing (eVTOL) aircraft company aiming to redefine urban transportation. Its aircraft promise zero-emission, quiet, and efficient air travel. Joby is a pioneer in the future of sustainable, urban transportation."
-            },
-            {
-                "title": "Board Member",
-                "company": "Convoy Inc",
-                "from": "janv. 2016",
-                "to": "oct. 2023",
-                "description": "Convoy is a digital freight network that uses technology to optimize trucking logistics, reducing costs and environmental impact. It connects shippers with carriers through a seamless platform.\n\nI served on Convoy’s board until 2023, when the company transitioned to become a part of Flexport.\nConvoy is a digital freight network that uses technology to optimize trucking logistics, reducing costs and environmental impact. It connects shippers with carriers through a seamless platform. I served on Convoy’s board until 2023, when the company transitioned to become a part of Flexport."
-            },
-            {
-                "title": "Board Member",
-                "company": "Neeva · Temps partiel",
-                "from": "janv. 2019",
-                "to": "mai 2023",
-                "description": "Neeva is search re-imagined. Always ad-free, private, and personal. Co-founded by Sridhar Ramaswamy (ex-SVP of Ads at Google) and Vivek Raghunathan (ex-VP of Monetization at YouTube).\n\nI served on Neeva’s board until their acquisition by Snowflake in 2023\nNeeva is search re-imagined. Always ad-free, private, and personal. Co-founded by Sridhar Ramaswamy (ex-SVP of Ads at Google) and Vivek Raghunathan (ex-VP of Monetization at YouTube). I served on Neeva’s board until their acquisition by Snowflake in 2023"
-            },
-            {
-                "title": "Board Member",
-                "company": "OpenAI · Temps partiel",
-                "from": "mars 2019",
-                "to": "févr. 2023",
-                "description": "OpenAI is creating Beneficial Artificial Intelligence for society, humanity, and industries. OpenAI's mission is to ensure that artificial general intelligence (AGI) benefits all of humanity. \nIn 2015, I was honored to be the earliest investor in OpenAI, and serving on the company’s board during the launch of Chat GPT – which kickstarted the broad AI revolution. In 2023 I stepped down from the company’s board to avoid conflicts of interest, though I still remain dedicated to OpenAI’s growth, and the larger mission to use AI to benefit humanity.\nOpenAI is creating Beneficial Artificial Intelligence for society, humanity, and industries. OpenAI's mission is to ensure that artificial general intelligence (AGI) benefits all of humanity. In 2015, I was honored to be the earliest investor in OpenAI, and serving on the company’s board during the launch of Chat GPT – which kickstarted the broad AI revolution. In 2023 I stepped down from the company’s board to avoid conflicts of interest, though I still remain dedicated to OpenAI’s growth, and the larger mission to use AI to benefit humanity."
-            },
-            {
-                "title": "Board Observer",
-                "company": "Xapo Bank",
-                "from": "juil. 2014",
-                "to": "oct. 2021",
-                "description": "Xapo combines the convenience of an everyday bitcoin wallet with the security of a deep cold storage vault. By bringing together convenience that bitcoin users want everyday with the security they require for saving, Xapo is the most secure, reliable, and easy way to manage and store your bitcoin.\nXapo combines the convenience of an everyday bitcoin wallet with the security of a deep cold storage vault. By bringing together convenience that bitcoin users want everyday with the security they require for saving, Xapo is the most secure, reliable, and easy way to manage and store your bitcoin."
+                "title": "Étudiant stagiaire",
+                "company": "Faculté de Médecine et de Pharmacie Fès · Stage",
+                "from": "sept. 2018",
+                "to": "oct. 2018",
+                "description": "Compétences : Cascading Style Sheets (CSS)\nCompétences :Cascading Style Sheets (CSS)"
             }
         ],
         "educations": [
             {
-                "institution": "Università degli Studi di Perugia",
-                "degree": "Honorary Doctorate, Human Sciences",
-                "from": "2024",
-                "to": "2024",
-                "description": "N/A"
+                "institution": "Université Bretagne Sud",
+                "degree": "Master, master en informatique, ingénierie informatique",
+                "from": "2020",
+                "to": "2021",
+                "description": "Compétences : MySQL · JavaScript · Cascading Style Sheets (CSS)\nCompétences :MySQL · JavaScript · Cascading Style Sheets (CSS)"
             },
             {
-                "institution": "Università degli Studi di Perugia",
-                "degree": "Honorary Doctorate, Human Sciences",
-                "from": "2024",
-                "to": "2024",
-                "description": "N/A"
+                "institution": "Université Bretagne Sud",
+                "degree": "Master, master en informatique, ingénierie informatique",
+                "from": "2020",
+                "to": "2021",
+                "description": "Compétences : MySQL · JavaScript · Cascading Style Sheets (CSS)\nCompétences :MySQL · JavaScript · Cascading Style Sheets (CSS)"
             },
             {
-                "institution": "Università degli Studi di Perugia",
-                "degree": "Honorary Doctorate, Human Sciences",
-                "from": "2024",
-                "to": "2024",
-                "description": "N/A"
+                "institution": "Université Bretagne Sud",
+                "degree": "Master, master en informatique, ingénierie informatique",
+                "from": "2020",
+                "to": "2021",
+                "description": "Compétences : MySQL · JavaScript · Cascading Style Sheets (CSS)\nCompétences :MySQL · JavaScript · Cascading Style Sheets (CSS)"
             },
             {
-                "institution": "Università degli Studi di Perugia",
-                "degree": "Honorary Doctorate, Human Sciences",
-                "from": "2024",
-                "to": "2024",
-                "description": "N/A"
+                "institution": "Université Bretagne Sud",
+                "degree": "Master, master en informatique, ingénierie informatique",
+                "from": "2020",
+                "to": "2021",
+                "description": "Compétences : MySQL · JavaScript · Cascading Style Sheets (CSS)\nCompétences :MySQL · JavaScript · Cascading Style Sheets (CSS)"
+            }
+        ],
+        "interests": [],
+        "accomplishments": [],
+        "contacts": []
+    },
+    {
+        "url": "https://www.linkedin.com/in/zakaria-errafiqi",
+        "profile": {
+            "name": "Zakaria Errafiqi",
+            "location": "Casablanca-Settat, Maroc",
+            "about": "Passionate about clean code, scalable architectures, and continuous improvement, I am a results-driven Computer Engineer with over 6 years of experience in full-stack development and technical leadership. Specializing in .NET Core/Framework, Angular, and microservices architecture, I thrive in agile environments, translating functional requirements into robust technical solutions.\n\nAlways eager to learn new technologies and refine development practices, I have hands-on experience in Azure DevOps, CI/CD pipelines, and database optimization. I enjoy mentoring teams, fostering best practices, and ensuring that projects are both efficient and maintainable.\n\nI am excited to bring my expertise to an innovative team, where I can contribute to building high-quality software solutions while continuously evolving as a developer.",
+            "open_to_work": "N/A"
+        },
+        "experiences": [
+            {
+                "title": "Senior Consultant",
+                "company": "Devoteam Creative Tech · Temps plein",
+                "from": "avr. 2024",
+                "to": "aujourd’hui",
+                "description": "Working under management at Wafacash (Attijariwafa Bank subsidiary), a leader in financial services. I specialize in developing and maintaining microservices and applications using .NET Core/Framework and Entity Framework while ensuring high performance and scalability.\n\n- Led code reviews and pull request validations to enforce best practices.\n- Implemented CI/CD pipelines and ensured continuous delivery in Azure DevOps.\n- Optimized application performance and handled bug fixes & client requests in QA & production.\nWorking under management at Wafacash (Attijariwafa Bank subsidiary), a leader in financial services. I specialize in developing and maintaining microservices and applications using .NET Core/Framework and Entity Framework while ensuring high performance and scalability. - Led code reviews and pull request validations to enforce best practices. - Implemented CI/CD pipelines and ensured continuous delivery in Azure DevOps. - Optimized application performance and handled bug fixes & client requests in QA & production.\nCompétences : ASP.NET Framework MVC · ASP.NET Core WEB API · Développement WPF · Microsoft SQL Server · Transact-SQL (T-SQL) · AZURE DevOps · angular · Entity Framework (EF) Core · ddd · Microservices · XAML · UML\nCompétences :ASP.NET Framework MVC · ASP.NET Core WEB API · Développement WPF · Microsoft SQL Server · Transact-SQL (T-SQL) · AZURE DevOps · angular · Entity Framework (EF) Core · ddd · Microservices · XAML · UML"
             },
             {
-                "institution": "Università degli Studi di Perugia",
-                "degree": "Honorary Doctorate, Human Sciences",
-                "from": "2024",
-                "to": "2024",
-                "description": "N/A"
+                "title": "Tech Lead Full-stack Developer (Freelance)",
+                "company": "EVIDENCE WAY · Freelance",
+                "from": "juil. 2022",
+                "to": "janv. 2024",
+                "description": "- Led the technical development, architecture, and hands-on development for Facturi (a SaaS invoicing app for SMEs) and UMAR (a religious social network).\n- Developed core features and ensured the implementation of scalable and maintainable solutions.\n- Managed the entire software lifecycle, from requirement analysis to deployment.\n- Designed class diagrams and technical specifications to align with business needs.\n- Led development teams, conducted code reviews, and provided technical mentoring.\n- Coordinated client follow-ups, project management, and successful deployments.\n- Led the technical development, architecture, and hands-on development for Facturi (a SaaS invoicing app for SMEs) and UMAR (a religious social network). - Developed core features and ensured the implementation of scalable and maintainable solutions. - Managed the entire software lifecycle, from requirement analysis to deployment. - Designed class diagrams and technical specifications to align with business needs. - Led development teams, conducted code reviews, and provided technical mentoring. - Coordinated client follow-ups, project management, and successful deployments.\nCompétences : ASP.NET Core WEB API · ASP Boilerplate Framework · angular · React.js · React Native · .net 6 · Transact-SQL (T-SQL) · Microsoft SQL Server · AZURE DevOps · UML · Merise · ddd · ci/cd · Entity Framework Core\nCompétences :ASP.NET Core WEB API · ASP Boilerplate Framework · angular · React.js · React Native · .net 6 · Transact-SQL (T-SQL) · Microsoft SQL Server · AZURE DevOps · UML · Merise · ddd · ci/cd · Entity Framework Core"
             },
             {
-                "institution": "Università degli Studi di Perugia",
-                "degree": "Honorary Doctorate, Human Sciences",
-                "from": "2024",
-                "to": "2024",
+                "title": ".NET/Angular Full-Stack Developer (Freelance)",
+                "company": "SQLI · Freelance",
+                "from": "janv. 2022",
+                "to": "juin 2022",
+                "description": "Worked under management at SGS S.A. (Switzerland) on D-Tect, a web application used for compliance and inspections.\n\n- Developed and modified application modules, ensuring smooth functionality.\n- Managed bug fixes, feature implementation, and performance optimizations.\n- Led code reviews & CI/CD integration to streamline development.\nWorked under management at SGS S.A. (Switzerland) on D-Tect, a web application used for compliance and inspections. - Developed and modified application modules, ensuring smooth functionality. - Managed bug fixes, feature implementation, and performance optimizations. - Led code reviews & CI/CD integration to streamline development.\nCompétences : AngularJS · ASP.NET Core WEB API · angular · Entity Framework Core · Microsoft SQL Server · Entity Framework · ASP.NET Framework MVC · AZURE DevOps · Développement full-stack · Transact-SQL (T-SQL) · ddd\nCompétences :AngularJS · ASP.NET Core WEB API · angular · Entity Framework Core · Microsoft SQL Server · Entity Framework · ASP.NET Framework MVC · AZURE DevOps · Développement full-stack · Transact-SQL (T-SQL) · ddd"
+            },
+            {
+                "title": "Technical Leader",
+                "company": "Akka Technologies · Temps plein",
+                "from": "févr. 2021",
+                "to": "nov. 2021",
+                "description": "Worked under management at Cdiscount (e-commerce leader in France), focusing on microservices architecture & performance tuning.\n\n- Developed and configured high-performance microservices.\n- Led code reviews & CI/CD pipelines to ensure deployment efficiency.\n- Created KPIs & monitoring dashboards on Grafana to track system health.\n- Facilitated SCRUM meetings, ensuring agile collaboration.\nWorked under management at Cdiscount (e-commerce leader in France), focusing on microservices architecture & performance tuning. - Developed and configured high-performance microservices. - Led code reviews & CI/CD pipelines to ensure deployment efficiency. - Created KPIs & monitoring dashboards on Grafana to track system health. - Facilitated SCRUM meetings, ensuring agile collaboration.\nCompétences : ASP.NET Core WEB API · ASP.NET Framework MVC · java je · AZURE DevOps · Apache Kafka · Apache Solr · MongoDB · Team Foundation Server (TFS) · Cassandra · Microsoft SQL Server · Grafana · Kubernetes · PostgreSQL · n-tier · ddd\nCompétences :ASP.NET Core WEB API · ASP.NET Framework MVC · java je · AZURE DevOps · Apache Kafka · Apache Solr · MongoDB · Team Foundation Server (TFS) · Cassandra · Microsoft SQL Server · Grafana · Kubernetes · PostgreSQL · n-tier · ddd"
+            },
+            {
+                "title": "N/A",
+                "company": "INVOLYS",
+                "from": "Temps plein",
+                "to": "N/A",
+                "description": "Technical Leader\nTechnical Leader\nsept. 2019 - déc. 2020 · 1 an 4 mois\nDu sept. 2019 au déc. 2020 · 1 an 4 mois\nCasablanca-Settat, Maroc\nCasablanca-Settat, Maroc\nDesigned, developed, and led two web applications (Asset Management & HR Management) using ASP.NET Core & Angular.\n- Trained and supported the team in architecture and development tools.\n- Collected functional requirements and translated them into use case diagrams.\n- Created class diagrams, database views, and EF Core migrations.\n- Planned, estimated, and managed task execution and progress tracking.\n- Developed web services for integration with external systems.\n- Managed branching, automated builds, code reviews, and merge validations in Azure DevOps.\n- Led SCRUM meetings, wrote User Stories, and monitored the Sprint Board.\nResearch & AI Exploration\n- Explored AI applications, machine learning, and deep learning.\n- Developed a basic HR assistant chatbot using Deep Learning, NLP & NLU.\n- Supervised graduate internships in AI, assisting with research, design, and planning.\n- Worked on Automated Machine Learning (AutoML) and document analysis.\nDesigned, developed, and led two web applications (Asset Management & HR Management) using ASP.NET Core & Angular. - Trained and supported the team in architecture and development tools. - Collected functional requirements and translated them into use case diagrams. - Created class diagrams, database views, and EF Core migrations. - Planned, estimated, and managed task execution and progress tracking. - Developed web services for integration with external systems. - Managed branching, automated builds, code reviews, and merge validations in Azure DevOps. - Led SCRUM meetings, wrote User Stories, and monitored the Sprint Board. Research & AI Exploration - Explored AI applications, machine learning, and deep learning. - Developed a basic HR assistant chatbot using Deep Learning, NLP & NLU. - Supervised graduate internships in AI, assisting with research, design, and planning. - Worked on Automated Machine Learning (AutoML) and document analysis.\nCompétences : ASP.NET Core WEB API · angular · ASP.NET Zero Framework · AZURE DevOps · UML · Merise · Entity Framework (EF) Core · C# · Scrum · Deep learning · AutoML · nlp · nlu\nCompétences :ASP.NET Core WEB API · angular · ASP.NET Zero Framework · AZURE DevOps · UML · Merise · Entity Framework (EF) Core · C# · Scrum · Deep learning · AutoML · nlp · nlu\nR&D Engineer\nR&D Engineer\naoût 2018 - sept. 2019 · 1 an 2 mois\nDu août 2018 au sept. 2019 · 1 an 2 mois\nSidi Maarouf, Grand Casablanca, Morocco\nSidi Maarouf, Grand Casablanca, Morocco\n- Improved system performance and optimized components (hierarchical lists, dropdowns, search grids, client-server communication, SQL queries).\n- Manipulated Crystal Reports at runtime and converted reports into XML files for version control in TFS.\nIntegration & Benchmarks\nI- ntegrated and benchmarked frameworks: Telerik, DevExpress, Infragistics for ASP.NET WebForms.\n- Worked with ASP.NET Core MVC architectures (ASP.NET Zero, ASP Boilerplate).\n- Evaluated workflow management tools (Workflow Engine, Wexflow).\nSupport & Documentation\n- Handled client requests, bug fixes, and R&D-developed tools.\n- Conducted on-site client missions.\n- Wrote technical specifications and documentation.\nTraining & Knowledge Sharing\n- Trained new hires and team members on development architectures, tools, and new technologies.\n- Improved system performance and optimized components (hierarchical lists, dropdowns, search grids, client-server communication, SQL queries). - Manipulated Crystal Reports at runtime and converted reports into XML files for version control in TFS. Integration & Benchmarks I- ntegrated and benchmarked frameworks: Telerik, DevExpress, Infragistics for ASP.NET WebForms. - Worked with ASP.NET Core MVC architectures (ASP.NET Zero, ASP Boilerplate). - Evaluated workflow management tools (Workflow Engine, Wexflow). Support & Documentation - Handled client requests, bug fixes, and R&D-developed tools. - Conducted on-site client missions. - Wrote technical specifications and documentation. Training & Knowledge Sharing - Trained new hires and team members on development architectures, tools, and new technologies.\nCompétences : ASP.NET Core WebForms · Team Foundation Server (TFS) · Visual Basic .NET (VB.NET) · C# · Crystal Reports · Telerik · DevExpress · ASP.NET Zero Framework · ASP Boilerplate Framework\nCompétences :ASP.NET Core WebForms · Team Foundation Server (TFS) · Visual Basic .NET (VB.NET) · C# · Crystal Reports · Telerik · DevExpress · ASP.NET Zero Framework · ASP Boilerplate Framework\nWeb Developer\nWeb Developer\nfévr. 2018 - juil. 2018 · 6 mois\nDu févr. 2018 au juil. 2018 · 6 mois\nMaroc, casablanca, CASA NEARSHORE\nMaroc, casablanca, CASA NEARSHORE\nDeveloped a web application for managing EULA licenses, used to unlock the company’s software products.\n\nApplication Components\n- Informational website showcasing the product.\n- Web platform for clients to request, download, activate, and deactivate licenses, with a back-office for request processing and an admin portal.\n- License generation API using IntelliLock libraries for license creation and management.\nDeveloped a web application for managing EULA licenses, used to unlock the company’s software products. Application Components - Informational website showcasing the product. - Web platform for clients to request, download, activate, and deactivate licenses, with a back-office for request processing and an admin portal. - License generation API using IntelliLock libraries for license creation and management.\nCompétences : ASP.NET Core MVC · ASP.NET Core WEB API · jQuery · Twitter Bootstrap · JavaScript · CSS · HTML · C# · Transact-SQL (T-SQL) · Microsoft SQL Server\nCompétences :ASP.NET Core MVC · ASP.NET Core WEB API · jQuery · Twitter Bootstrap · JavaScript · CSS · HTML · C# · Transact-SQL (T-SQL) · Microsoft SQL Server"
+            },
+            {
+                "title": "Web Development Intern (Java EE)",
+                "company": "LISI AEROSPACE",
+                "from": "juil. 2017",
+                "to": "sept. 2017",
+                "description": "N/A"
+            }
+        ],
+        "educations": [
+            {
+                "institution": "National School of Applied Sciences Morocco, Tetouan (École Nationale des Sciences Appliquées Maroc, Tétouan)",
+                "degree": "Computer Engineering Degree (Diplôme d'Ingénieur d'état en Informatique), Information Systems and Decision Support (Systèmes d'Information et Aide à la Décision)",
+                "from": "2013",
+                "to": "2018",
                 "description": "N/A"
             }
         ],
