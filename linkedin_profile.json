@@ -1,0 +1,57 @@
+{
+    "profile": {
+        "name": "Yasser Yjjou",
+        "location": "Rabat, Rabat-Salé-Kénitra, Maroc",
+        "about": "Compétences principales\nCompétences principales\nKotlin • Object-Oriented Programming (OOP)\nKotlin • Object-Oriented Programming (OOP)",
+        "open_to_work": "N/A"
+    },
+    "experiences": [
+        {
+            "title": "Mobile Application Developer",
+            "company": "Benbar Ingénierie et Conseil · Contrat en alternance",
+            "from": "juil. 2025",
+            "to": "aujourd’hui",
+            "description": "Compétences : Flutter · Kotlin · Swift (Programming Language)\nCompétences :Flutter · Kotlin · Swift (Programming Language)"
+        },
+        {
+            "title": "Mobile Application Developer",
+            "company": "Cités des Métiers et des Compétences · Contrat en alternance",
+            "from": "juin 2023",
+            "to": "juil. 2025",
+            "description": "Compétences : Mobile Application Development · Kotlin · Flutter · Soft Skills · Administration\nCompétences :Mobile Application Development · Kotlin · Flutter · Soft Skills · Administration\nCmC.jpg\nCmC.jpg\nDEVOAM202.jpg\nDEVOAM202.jpg\nSoutnance.jpg\nSoutnance.jpg"
+        },
+        {
+            "title": "Mobile Application Developer",
+            "company": "Ministère de la Justice - وزارة العدل · Stage",
+            "from": "mars 2025",
+            "to": "mai 2025",
+            "description": "Compétences : Mobile Application Development · Team Leadership · Time Management · Flutter\nCompétences :Mobile Application Development · Team Leadership · Time Management · Flutter"
+        }
+    ],
+    "educations": [
+        {
+            "institution": "Cités des Métiers et des compétences Rabat",
+            "degree": "TS en développement digital Option mobile",
+            "from": "juin",
+            "to": "2023",
+            "description": "Compétences : Flask · Android Development · Kotlin · Android · Ktor · Android SDK · Flutter · Development · Software Development\nCompétences :Flask · Android Development · Kotlin · Android · Ktor · Android SDK · Flutter · Development · Software Development"
+        },
+        {
+            "institution": "Cités des Métiers et des compétences Rabat",
+            "degree": "TS en développement digital Option mobile",
+            "from": "juin",
+            "to": "2023",
+            "description": "Compétences : Flask · Android Development · Kotlin · Android · Ktor · Android SDK · Flutter · Development · Software Development\nCompétences :Flask · Android Development · Kotlin · Android · Ktor · Android SDK · Flutter · Development · Software Development"
+        },
+        {
+            "institution": "Cités des Métiers et des compétences Rabat",
+            "degree": "TS en développement digital Option mobile",
+            "from": "juin",
+            "to": "2023",
+            "description": "Compétences : Flask · Android Development · Kotlin · Android · Ktor · Android SDK · Flutter · Development · Software Development\nCompétences :Flask · Android Development · Kotlin · Android · Ktor · Android SDK · Flutter · Development · Software Development"
+        }
+    ],
+    "interests": [],
+    "accomplishments": [],
+    "contacts": []
+}
