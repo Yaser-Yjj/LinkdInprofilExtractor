@@ -1,0 +1,290 @@
+[
+    {
+        "url": "https://www.linkedin.com/in/imane-azzaoui-103037286",
+        "profile": {
+            "name": "imane azzaoui",
+            "location": "Rabat, Rabat-Salé-Kénitra, Morocco",
+            "about": "As a Software Engineer\n\n💻 My professional journey equips me with the expertise to design and implement robust and efficient software solutions.\n\n🔧 I’m deeply engaged in optimizing software development processes and enhancing operational efficiency, ensuring seamless integration and functionality.\n…see more",
+            "open_to_work": "N/A"
+        },
+        "experiences": [
+            {
+                "title": "Software Engineer",
+                "company": "4D · Full-time",
+                "from": "Aug 2024",
+                "to": "Present",
+                "description": "N/A"
+            },
+            {
+                "title": "Cloud Dev Intern",
+                "company": "4D · Internship",
+                "from": "Feb 2024",
+                "to": "Jun 2024",
+                "description": "Development of a Web Application for IT Asset Management using the Qodly Cloud Platform.\nModules of the Application :\n- IT Asset Management: Overseeing and tracking hardware and software assets.\n- License Management: Managing software licenses and compliance.\n- Software Management: Tracking and maintaining software inventory.\n- Incident Management: Handling and resolving IT-related incidents.\n- User Management : User registration and authentication, role-based access control (Admin, IT Manager, Employee), and user profile management.\nDevelopment of a Web Application for IT Asset Management using the Qodly Cloud Platform. Modules of the Application : - IT Asset Management: Overseeing and tracking hardware and software assets. - License Management: Managing software licenses and compliance. - Software Management: Tracking and maintaining software inventory. - Incident Management: Handling and resolving IT-related incidents. - User Management : User registration and authentication, role-based access control (Admin, IT Manager, Employee), and user profile management.\nSkills: TypeScript · Cypress · React · Cloud Computing\nTypeScript · Cypress · React · Cloud Computing"
+            },
+            {
+                "title": "Web Development Intern",
+                "company": "ADD_Officiel · Internship",
+                "from": "Jul 2023",
+                "to": "Aug 2023",
+                "description": "Development of a web application for managing and tracking work performed by service providers and consultants . \nKey strengths of the training :\n- Refining web development skills, becoming familiar with technologies like Spring Boot, React.js, and PostgreSQL databases.\n- Putting Scrum methodology into practice developping skills in collaborative work and project management.\n- Introduction to the world of DevOps by getting acquainted with its principles and practices.\nDevelopment of a web application for managing and tracking work performed by service providers and consultants . Key strengths of the training : - Refining web development skills, becoming familiar with technologies like Spring Boot, React.js, and PostgreSQL databases. - Putting Scrum methodology into practice developping skills in collaborative work and project management. - Introduction to the world of DevOps by getting acquainted with its principles and practices.\nSkills: React.js · Docker · Tailwind CSS · PostgreSQL · Liquibase · Git · Gitlab · Spring Boot · Scrum\nReact.js · Docker · Tailwind CSS · PostgreSQL · Liquibase · Git · Gitlab · Spring Boot · Scrum"
+            },
+            {
+                "title": "Digital Transformation Intern",
+                "company": "Ministère de la Transition Numérique et de la Réforme de l'Administration · Internship",
+                "from": "Jul 2022",
+                "to": "Jul 2022",
+                "description": "Contribution to the measurement of the GEMS indicator in Morocco\nContribution to the measurement of the GEMS indicator in Morocco"
+            }
+        ],
+        "educations": [
+            {
+                "institution": "Ecole des sciences de l'information [ESI]",
+                "degree": "Engineer's degree, Information System And Digital Transition",
+                "from": "2021",
+                "to": "2024",
+                "description": "Software Development ( Java - Microservices - Soap APIs - Rest APIs )\nWeb Development ( Node.js - Spring Boot - Express.js - JEE )\nDesktop Apps Development ( Java - JavaFX )\nMobile Apps Development ( Flutter )\nUI / UX Design\nDatabase ( PL/SQL - MySql )\nDevOps and Tools ( Git - Jenkins - Maven )\nCloud Computing ( Microsoft Azure )\nSoftware Development ( Java - Microservices - Soap APIs - Rest APIs ) Web Development ( Node.js - Spring Boot - Express.js - JEE ) Desktop Apps Development ( Java - JavaFX ) Mobile Apps Development ( Flutter ) UI / UX Design Database ( PL/SQL - MySql ) DevOps and Tools ( Git - Jenkins - Maven ) Cloud Computing ( Microsoft Azure )\nSkills: Microsoft Power BI · API REST\nMicrosoft Power BI · API REST\nAbout the School\nAbout the School"
+            },
+            {
+                "institution": "Ecole des sciences de l'information [ESI]",
+                "degree": "Engineer's degree, Information System And Digital Transition",
+                "from": "2021",
+                "to": "2024",
+                "description": "Software Development ( Java - Microservices - Soap APIs - Rest APIs )\nWeb Development ( Node.js - Spring Boot - Express.js - JEE )\nDesktop Apps Development ( Java - JavaFX )\nMobile Apps Development ( Flutter )\nUI / UX Design\nDatabase ( PL/SQL - MySql )\nDevOps and Tools ( Git - Jenkins - Maven )\nCloud Computing ( Microsoft Azure )\nSoftware Development ( Java - Microservices - Soap APIs - Rest APIs ) Web Development ( Node.js - Spring Boot - Express.js - JEE ) Desktop Apps Development ( Java - JavaFX ) Mobile Apps Development ( Flutter ) UI / UX Design Database ( PL/SQL - MySql ) DevOps and Tools ( Git - Jenkins - Maven ) Cloud Computing ( Microsoft Azure )\nSkills: Microsoft Power BI · API REST\nMicrosoft Power BI · API REST\nAbout the School\nAbout the School"
+            }
+        ],
+        "interests": [],
+        "accomplishments": [],
+        "contacts": []
+    },
+    {
+        "url": "https://www.linkedin.com/in/sanae-el-adila-342731201",
+        "profile": {
+            "name": "Sanae El Adila",
+            "location": "Meknes, Fès-Meknès, Morocco",
+            "about": "A highly motivated and persevering computer engineering student actively seeking internship opportunities with the objective of both applying and further enhancing my technical skills.\nA highly motivated and persevering computer engineering student actively seeking internship opportunities with the objective of both applying and further enhancing my technical skills.",
+            "open_to_work": "N/A"
+        },
+        "experiences": [
+            {
+                "title": "Software Engineering Intern",
+                "company": "COLAINORD · Internship",
+                "from": "Feb 2025",
+                "to": "Jun 2025",
+                "description": "• Designed and developed a tailored Human Resources Information System (HRIS) for Colainord, aimed at digitalizing and centralizing administrative processes and leave management.\n• Analyzed existing manual processes and identified key inefficiencies, including lack of traceability, time loss, and high error rates in leave management procedures.\n• Implemented core features such as:\n - Online submission and validation workflow for leave requests\n - Real-time leave balance tracking with automated calculations\n - Secure centralized employee records and contract management\n - Digitalized intern and contract tracking with alert systems\n - Automated generation of reports and official documents (e.g., leave summaries, internship certificates)\n• Led full-cycle development, including requirement analysis, data modeling (MCD/MPD), UX/UI design, front-end and back-end implementation, testing, and deployment.\n• Enhanced operational efficiency by streamlining HR workflows, improving data accessibility, and reducing administrative workload.\n• Strengthened decision-making capabilities by enabling reliable, real-time access to employee data and HR metrics.\n• Contributed to Colainord’s digital transformation strategy, aligning HR operations with the organization's growth and modernization goals.\n• Designed and developed a tailored Human Resources Information System (HRIS) for Colainord, aimed at digitalizing and centralizing administrative processes and leave management. • Analyzed existing manual processes and identified key inefficiencies, including lack of traceability, time loss, and high error rates in leave management procedures. • Implemented core features such as: - Online submission and validation workflow for leave requests - Real-time leave balance tracking with automated calculations - Secure centralized employee records and contract management - Digitalized intern and contract tracking with alert systems - Automated generation of reports and official documents (e.g., leave summaries, internship certificates) • Led full-cycle development, including requirement analysis, data modeling (MCD/MPD), UX/UI design, front-end and back-end implementation, testing, and deployment. • Enhanced operational efficiency by streamlining HR workflows, improving data accessibility, and reducing administrative workload. • Strengthened decision-making capabilities by enabling reliable, real-time access to employee data and HR metrics. • Contributed to Colainord’s digital transformation strategy, aligning HR operations with the organization's growth and modernization goals.\nSkills: Data Analysis · Spring Boot · React.js · Microsoft SQL Server · REST APIs · Postman API · Unified Modeling Language (UML) · BPMN · Agile Methodologies · Jasper Reports · Docker · Git · UI/UX Design\nData Analysis · Spring Boot · React.js · Microsoft SQL Server · REST APIs · Postman API · Unified Modeling Language (UML) · BPMN · Agile Methodologies · Jasper Reports · Docker · Git · UI/UX Design"
+            },
+            {
+                "title": "Software Engineering Intern",
+                "company": "Veolia · Internship",
+                "from": "Jun 2024",
+                "to": "Jul 2024",
+                "description": "• Designed and developed a comprehensive IT asset management system to efficiently track and manage hardware and software assets throughout their lifecycle, from acquisition to decommissioning.\n• Implemented features for logging and monitoring IT incidents, enabling streamlined tracking, prioritization, and resolution of technical issues.\n• Enhanced operational efficiency by improving asset visibility and optimizing incident management processes.\n• Contributed to the company’s ability to address and resolve incidents more effectively, resulting in improved organizational productivity.\n• Designed and developed a comprehensive IT asset management system to efficiently track and manage hardware and software assets throughout their lifecycle, from acquisition to decommissioning. • Implemented features for logging and monitoring IT incidents, enabling streamlined tracking, prioritization, and resolution of technical issues. • Enhanced operational efficiency by improving asset visibility and optimizing incident management processes. • Contributed to the company’s ability to address and resolve incidents more effectively, resulting in improved organizational productivity.\nSkills: Laravel · Unified Modeling Language (UML) · GitHub · JavaScript · HTML · Feuilles de style en cascade (CSS) · Scrum\nLaravel · Unified Modeling Language (UML) · GitHub · JavaScript · HTML · Feuilles de style en cascade (CSS) · Scrum\nPFA.png\nPFA.png"
+            }
+        ],
+        "educations": [
+            {
+                "institution": "École nationale des sciences appliquées de Tétouan",
+                "degree": "Génie Informatique",
+                "from": "2020",
+                "to": "2025",
+                "description": "Skills: Teamwork · Project Management · Leadership · Problem Solving\nTeamwork · Project Management · Leadership · Problem Solving"
+            },
+            {
+                "institution": "École nationale des sciences appliquées de Tétouan",
+                "degree": "Génie Informatique",
+                "from": "2020",
+                "to": "2025",
+                "description": "Skills: Teamwork · Project Management · Leadership · Problem Solving\nTeamwork · Project Management · Leadership · Problem Solving"
+            }
+        ],
+        "interests": [],
+        "accomplishments": [],
+        "contacts": []
+    },
+    {
+        "url": "https://www.linkedin.com/in/ayoub-indjaren-78146a155",
+        "profile": {
+            "name": "AYOUB INDJAREN",
+            "location": "Casablanca, Casablanca-Settat, Morocco",
+            "about": "My name is Ayoub Indjaren and I have 26 years old, I'm a data scientist and a software developer with electronics background, I graduated from the National School of Electricity and Mechanics in Morocco.\n\nI am a dynamic person, passionate about computer science and new innovative technologies.\n\nFor any job offer or a mission that corresponds to my area of expertise, you can contact me on my personal email or via my WhatsApp number as follows:\n\nPhone: +212 678639551\nPersonal email: a.indjaren@gmail.com\nCity of residence: Casablanca\nCountry: Morocco\n…see more",
+            "open_to_work": "N/A"
+        },
+        "experiences": [
+            {
+                "title": "Freelencer",
+                "company": "Upwork · Freelance",
+                "from": "Oct 2023",
+                "to": "Present",
+                "description": "N/A"
+            },
+            {
+                "title": "ADAS software development engineer",
+                "company": "Confidential · Full-time",
+                "from": "May 2023",
+                "to": "Mar 2024",
+                "description": "✅ Develop in-house softwares to automatically analyze data from ADAS functions, specifically targeting Lane Positioning and Lane Keeping Assistance.\n✅ Utilize Python libraries including NumPy, Pandas, and SciPy to analyze critical signals such as inertial vehicle speed, yaw rate, and lateral acceleration.\n✅ Evaluation of different data protocols and file formats (e.g., .asc, .blf, .mdf4) for compatibility and effectiveness.\n✅ Enhance visualization techniques through adaptation and refinement of graphical representations using Python libraries such as Matplotlib and Seaborn.\n✅ Design and development of user-friendly graphical interfaces for front-end applications using Python libraries like Tkinter and PyQt5.\n✅ Develop in-house softwares to automatically analyze data from ADAS functions, specifically targeting Lane Positioning and Lane Keeping Assistance. ✅ Utilize Python libraries including NumPy, Pandas, and SciPy to analyze critical signals such as inertial vehicle speed, yaw rate, and lateral acceleration. ✅ Evaluation of different data protocols and file formats (e.g., .asc, .blf, .mdf4) for compatibility and effectiveness. ✅ Enhance visualization techniques through adaptation and refinement of graphical representations using Python libraries such as Matplotlib and Seaborn. ✅ Design and development of user-friendly graphical interfaces for front-end applications using Python libraries like Tkinter and PyQt5.\nSkills: Firebase · Python · Pandas · SQL · Cloud Computing · Science des données · Seaborn · Visualisation de données · NumPy · Matplotlib · Statistiques · Systèmes de contrôle · SQLite · Automation · Signal processing · Nympy · Logiciel en tant que Service (SaaS) · PyQt5 · Machine learning · Tkinter · SciPy\nFirebase · Python · Pandas · SQL · Cloud Computing · Science des données · Seaborn · Visualisation de données · NumPy · Matplotlib · Statistiques · Systèmes de contrôle · SQLite · Automation · Signal processing · Nympy · Logiciel en tant que Service (SaaS) · PyQt5 · Machine learning · Tkinter · SciPy"
+            },
+            {
+                "title": "Embedded Software Engineer",
+                "company": "ALTEN · Full-time",
+                "from": "Feb 2023",
+                "to": "May 2023",
+                "description": "✅ Unit Testing of embedded C software:\n✅ Analysis of software requirements;\n✅ Analyze and report software issues/Software components defects;\n✅ Development and implementation of test cases;\n✅ Running functional and non-functional testing;\n✅ Unit Testing of embedded C software: ✅ Analysis of software requirements; ✅ Analyze and report software issues/Software components defects; ✅ Development and implementation of test cases; ✅ Running functional and non-functional testing;\nSkills: MBSE · Embedded C · embedded systems · Software testing · Misra C\nMBSE · Embedded C · embedded systems · Software testing · Misra C"
+            },
+            {
+                "title": "Data scientist & Electronics engineer",
+                "company": "DEWEB TECHNOLOGY · Internship",
+                "from": "Mar 2022",
+                "to": "Jun 2022",
+                "description": "My end of studies's project subject mainly concerns the realization of a prototype of intelligent public lighting, aiming to optimize the consumption of electrical energy by ordering the streetlights to light up at 100% of their intensity. lighting only in the event of movement of specific objects by exploiting the techniques of Deep Learning and image recognition to detect and identify these objects circulating on the road during the night, and this of course is accomplished by using a control card, as well as by using the sensors of movements attached to each street lamp and a light sensor so that the system\nworks only at night.\n\n✅ Materials used:\n- Raspberry Pi 3 module B;\n- Camera Night vision;\n- PIR Infrared Motion Detectors;\n- Light sensor;\n- Streetlights.\n\n✅ The software environment used:\n- Raspberry Pi 32-bit operating system;\n- Python programming language;\n- The TensorFlow library for the development of a machine learning model;\n- The OpenCV library for the image processing part;\n- The Numpy library for matrix calculation.\nMy end of studies's project subject mainly concerns the realization of a prototype of intelligent public lighting, aiming to optimize the consumption of electrical energy by ordering the streetlights to light up at 100% of their intensity. lighting only in the event of movement of specific objects by exploiting the techniques of Deep Learning and image recognition to detect and identify these objects circulating on the road during the night, and this of course is accomplished by using a control card, as well as by using the sensors of movements attached to each street lamp and a light sensor so that the system works only at night. ✅ Materials used: - Raspberry Pi 3 module B; - Camera Night vision; - PIR Infrared Motion Detectors; - Light sensor; - Streetlights. ✅ The software environment used: - Raspberry Pi 32-bit operating system; - Python programming language; - The TensorFlow library for the development of a machine learning model; - The OpenCV library for the image processing part; - The Numpy library for matrix calculation.\nSkills: Python (langage de programmation) · Jupyter notebook · Scikit-learn · Image processing · Science des données · TensorFlow · Visualisation de données · NumPy · Statistiques · Google Cloud Platform (GCP) · Data analysis · Deep learning · Machine learning\nPython (langage de programmation) · Jupyter notebook · Scikit-learn · Image processing · Science des données · TensorFlow · Visualisation de données · NumPy · Statistiques · Google Cloud Platform (GCP) · Data analysis · Deep learning · Machine learning"
+            },
+            {
+                "title": "Electronics Engineer",
+                "company": "LafargeHolcim Maroc · Internship",
+                "from": "Jul 2021",
+                "to": "Aug 2021",
+                "description": "Study, design and simulation of an electronic panel for the presetting of three-phase meters:\nusing a forward-type DC-DC converter instead of electromechanical consoles (which are bulkier and lack precision) and for this we carry out a set of test benches using a standard meter of reference(which is already preset)\n\nThe objectives of the project is to :\n-Increase the accuracy of electrical energy measurement at the level of three-phase meters \n-Invest with the lowest possible cost.\n-reduce clutter and save space.\nStudy, design and simulation of an electronic panel for the presetting of three-phase meters: using a forward-type DC-DC converter instead of electromechanical consoles (which are bulkier and lack precision) and for this we carry out a set of test benches using a standard meter of reference(which is already preset) The objectives of the project is to : -Increase the accuracy of electrical energy measurement at the level of three-phase meters -Invest with the lowest possible cost. -reduce clutter and save space."
+            },
+            {
+                "title": "End of Year project",
+                "company": "Ecole Nationale Supérieure d’Electricité et de Mécanique / ENSEM Casablanca · Internship",
+                "from": "Mar 2021",
+                "to": "Jun 2021",
+                "description": "Theme : tracking a vehicle and its ambient environment using an IoT based plateform.\nBy equipping this vehicle with various electronic modules, namely a GPS module,\nmotion detectors, a WIFI node mcu module and a central microcontroller, we can remotely control the state of the vehicle using Blynk platform for IoT services.\nTheme : tracking a vehicle and its ambient environment using an IoT based plateform. By equipping this vehicle with various electronic modules, namely a GPS module, motion detectors, a WIFI node mcu module and a central microcontroller, we can remotely control the state of the vehicle using Blynk platform for IoT services."
+            },
+            {
+                "title": "Power Electronics Engineer",
+                "company": "Société Atlantique · Internship",
+                "from": "Sep 2020",
+                "to": "Sep 2020",
+                "description": "-Modeling and simulation of the electronic circuit of a variable speed drive using the PSIM software.\n-Sizing of an asynchronous motor.\n- Realization of the different types of starting of an asynchronous motor (star-delta starting, stator and rotor starting, starting the motor with a VFD).\n-Modeling and simulation of the electronic circuit of a variable speed drive using the PSIM software. -Sizing of an asynchronous motor. - Realization of the different types of starting of an asynchronous motor (star-delta starting, stator and rotor starting, starting the motor with a VFD)."
+            }
+        ],
+        "educations": [
+            {
+                "institution": "École nationale supérieure d'électricité et mécanique - Casablanca",
+                "degree": "2019 - 2022",
+                "from": "N/A",
+                "to": "N/A",
+                "description": "N/A"
+            },
+            {
+                "institution": "École nationale supérieure d'électricité et mécanique - Casablanca",
+                "degree": "2019 - 2022",
+                "from": "N/A",
+                "to": "N/A",
+                "description": "N/A"
+            },
+            {
+                "institution": "École nationale supérieure d'électricité et mécanique - Casablanca",
+                "degree": "2019 - 2022",
+                "from": "N/A",
+                "to": "N/A",
+                "description": "N/A"
+            }
+        ],
+        "interests": [],
+        "accomplishments": [],
+        "contacts": []
+    },
+    {
+        "url": "https://www.linkedin.com/in/ismail-ouahbi-ai",
+        "profile": {
+            "name": "Ismail Ouahbi",
+            "location": "Casablanca Metropolitan Area",
+            "about": "AI & Generative AI Engineer | Data Science\n\nWith over 3 years of experience in AI, Data Science, and Business Intelligence, I specialize in building and deploying scalable AI solutions that drive business impact. My expertise includes:\n\n🔹Machine Learning & AI: NLP, Computer Vision, and Predictive Analytics\n\n🔹MLOps & Deployment: Azure Databricks, and Cloud AI solutions\n\n🔹Business Intelligence: Power BI, SQL, and Tableau for Data Visualization\n\n🔹Automation & Optimization: Building robust ETL pipelines and AI-powered tools\n\nKey Achievements & Highlights\n\n🔹Improved decision-making at Ciments du Maroc through a real-time BI solution\n\n🔹Developed an AI-driven meal recognition app (86% accuracy) using CNN & MobileNetV2\n\n🔹Built AI-powered text summarization and OCR tools for document processing\n\nHosted and Presented:\n\n🔹“Generative AI & Data Science” webinar at FST Marrakech\n\n🔹“Explore the World of Data!” session for GDG Marrakech\n\n🔹2-Day Digital Training on Data Science and AI with the Youth Space Foundation\n\nI’m passionate about helping businesses leverage AI to innovate and grow. I also share my knowledge through workshops, blogs, and mentoring, aiming to expand AI literacy and best practices within the tech community.\n\nLet’s connect and discuss AI-driven solutions!",
+            "open_to_work": "N/A"
+        },
+        "experiences": [
+            {
+                "title": "SEGULA Technologies",
+                "company": "Full-time · 1 yr 5 mos",
+                "from": "Casablanca Metropolitan",
+                "to": "N/A",
+                "description": "AI, GenAI Engineer\nAI, GenAI Engineer\nJun 2024 - Present · 1 yr 3 mos\nJun 2024 to Present · 1 yr 3 mos\n- Led the adoption of generative AI solutions, empowering the AI team through hands-on training and best practices.\n- Deployed AI models at scale, following MLOps and LLMOps principles to ensure reliability and reproducibility.\n- Designed and implemented end-to-end development workflows (including automated monitoring, CI/CD, and versioning).\n- Streamlined documentation and onboarding processes to accelerate knowledge sharing and reduce ramp-up time for new team members.\n- Evaluated and integrated Mistral’s models, aligning generative AI solutions with business requirements and objectives.\n- Led the adoption of generative AI solutions, empowering the AI team through hands-on training and best practices. - Deployed AI models at scale, following MLOps and LLMOps principles to ensure reliability and reproducibility. - Designed and implemented end-to-end development workflows (including automated monitoring, CI/CD, and versioning). - Streamlined documentation and onboarding processes to accelerate knowledge sharing and reduce ramp-up time for new team members. - Evaluated and integrated Mistral’s models, aligning generative AI solutions with business requirements and objectives.\nSkills: Artificial Intelligence (AI) · Retrieval-Augmented Generation (RAG) · Agile Project Management · MLOps · Fine Tuning · Deep Learning · Data Analysis · Large Language Model Operations (LLMOps) · Project Planning · Data Science · Prompt Engineering\nArtificial Intelligence (AI) · Retrieval-Augmented Generation (RAG) · Agile Project Management · MLOps · Fine Tuning · Deep Learning · Data Analysis · Large Language Model Operations (LLMOps) · Project Planning · Data Science · Prompt Engineering\nData scientist & AI Engineer\nData scientist & AI Engineer\nApr 2024 - Jun 2024 · 3 mos\nApr 2024 to Jun 2024 · 3 mos\nHybrid\nHybrid\n- Built, refined, and deployed AI models to uncover insights, optimize processes, and support data-driven decision-making.\n- Developed clear, visual AI roadmaps (mindmaps, slide decks) to align stakeholders and streamline project communication.\n- Identified key opportunities for AI integration by partnering with cross-functional teams and translating business needs into technical solutions.\n- Built, refined, and deployed AI models to uncover insights, optimize processes, and support data-driven decision-making. - Developed clear, visual AI roadmaps (mindmaps, slide decks) to align stakeholders and streamline project communication. - Identified key opportunities for AI integration by partnering with cross-functional teams and translating business needs into technical solutions."
+            },
+            {
+                "title": "Co-Founder and Data Specialist",
+                "company": "Datamaroc · Self-employed",
+                "from": "Oct 2023",
+                "to": "Present",
+                "description": "We are creating an Ultimate Gateway To Data Science Careers in Morocco.\nData acquisition, transformation, and reporting using Python, GCP BigQuery, and PowerBI.\nWe analyze over 1000 jobs to extract insights and build concise dashboards and predictive analytics models.\nMaintaining and monitoring the data pipeline to ensure the availability of data for the production environment.\nDeveloping the platform using NextJs react framework.\nWe are working on GenerativeAI systems to introduce Llms within our data validation pipeline.\nWe are creating an Ultimate Gateway To Data Science Careers in Morocco. Data acquisition, transformation, and reporting using Python, GCP BigQuery, and PowerBI. We analyze over 1000 jobs to extract insights and build concise dashboards and predictive analytics models. Maintaining and monitoring the data pipeline to ensure the availability of data for the production environment. Developing the platform using NextJs react framework. We are working on GenerativeAI systems to introduce Llms within our data validation pipeline.\nSkills: Hadoop · Artificial Intelligence (AI) · Cloud Applications · Google Cloud Platform (GCP) · Agile Project Management · Software as a Service (SaaS) · Management · Team Management · Data Engineering · Data Science · Project Management\nHadoop · Artificial Intelligence (AI) · Cloud Applications · Google Cloud Platform (GCP) · Agile Project Management · Software as a Service (SaaS) · Management · Team Management · Data Engineering · Data Science · Project Management\nDataMaroc\nDataMaroc"
+            },
+            {
+                "title": "Co-Founder, Python & Data science instructor",
+                "company": "binatnadata · Self-employed",
+                "from": "Aug 2023",
+                "to": "Jul 2024",
+                "description": "- We help people understand data and data science the easy way (Using Moroccan Darija, English, and French).\n- We guide people through the right data science path via videos and events.\n- We do consulting to serve the community (CV and linkedIn profile reviews, career transition and more).\n- We help people understand data and data science the easy way (Using Moroccan Darija, English, and French). - We guide people through the right data science path via videos and events. - We do consulting to serve the community (CV and linkedIn profile reviews, career transition and more).\nSkills: Python (Programming Language) · Public Speaking · Event Planning · Project Management\nPython (Programming Language) · Public Speaking · Event Planning · Project Management\nBinatnaData\nBinatnaData\nAnswering questions\nAnswering questions\nexplaining what is data science\nexplaining what is data science\nShow all 4 media"
+            },
+            {
+                "title": "Technical Writer",
+                "company": "Medium · Part-time",
+                "from": "Jan 2022",
+                "to": "Dec 2023",
+                "description": "My journey in writing was before 2022 in fact,\nIn my childhood, I started writing stories and quotes in French and trying to expand my imagination.\nNow that I can write about Data Science and Machine Learning, I can help people understand complex topics easily.\nI write about:\n- How-to's\n- Tutorials\n- Data Science\n- Machine learning\n- Statistics\n- Data and AI engineering\n- Step-by-step guidance\n- Personal projects lifecycles\nMy journey in writing was before 2022 in fact, In my childhood, I started writing stories and quotes in French and trying to expand my imagination. Now that I can write about Data Science and Machine Learning, I can help people understand complex topics easily. I write about: - How-to's - Tutorials - Data Science - Machine learning - Statistics - Data and AI engineering - Step-by-step guidance - Personal projects lifecycles\nSkills: Blogging · Programming · Statistical Data Analysis · Communication · English · Machine Learning · Data Science · Project Management\nBlogging · Programming · Statistical Data Analysis · Communication · English · Machine Learning · Data Science · Project Management\nIsmailouahbi – Medium\nIsmailouahbi – Medium\nI love to write about my experiences in machine learning and data science & how these fields are changing the world\nI love to write about my experiences in machine learning and data science & how these fields are changing the world"
+            },
+            {
+                "title": "Data Scientist",
+                "company": "Freelance",
+                "from": "Jul 2023",
+                "to": "Oct 2023",
+                "description": "I have conducted several projects including:\n\n- Achieved an accuracy of 86% through a project aiming at searching for a convenient meal based on detected ingredients through your phone camera by building a smart mobile application using Flutter and TensorFlow Lite (Deep learning, CNN, MobileNetV2) using a training data set with over 49 items each one with over 1000 images.\n\n- Data analysis.\n-Exploratory Data Analysis (EDA): Conducted EDA to gain valuable insights\nfrom the dataset, revealing hidden patterns and informing subsequent data\nprocessing steps.\n\n- Data cleaning using Excel and Python\n- Manual and Automated Cleaning: Employed both manual and automated data\ncleaning techniques, initially using Excel to address inconsistencies and later\nperforming data type checks and conversions within a Python script.\n- Multivariate Imputation: Employed advanced imputation techniques such as the IterativeImputer to handle columns with significant missing values, enhancing the dataset's accuracy\nand integrity.\nI have conducted several projects including: - Achieved an accuracy of 86% through a project aiming at searching for a convenient meal based on detected ingredients through your phone camera by building a smart mobile application using Flutter and TensorFlow Lite (Deep learning, CNN, MobileNetV2) using a training data set with over 49 items each one with over 1000 images. - Data analysis. -Exploratory Data Analysis (EDA): Conducted EDA to gain valuable insights from the dataset, revealing hidden patterns and informing subsequent data processing steps. - Data cleaning using Excel and Python - Manual and Automated Cleaning: Employed both manual and automated data cleaning techniques, initially using Excel to address inconsistencies and later performing data type checks and conversions within a Python script. - Multivariate Imputation: Employed advanced imputation techniques such as the IterativeImputer to handle columns with significant missing values, enhancing the dataset's accuracy and integrity.\nSkills: Python (Programming Language) · SQL · Statistical Data Analysis · Machine Learning · Data Science\nPython (Programming Language) · SQL · Statistical Data Analysis · Machine Learning · Data Science"
+            },
+            {
+                "title": "Business Intelligence Data Warehouse Consultant",
+                "company": "Ciments du Maroc - HeidelbergCement Group · Internship",
+                "from": "Mar 2023",
+                "to": "Jul 2023",
+                "description": "Designing and implementing a robust decision-making solution for optimizing general management operations:\n\nMy precise work was to build a decision-making solution for the General Management of Ciments du Maroc, especially the sales and control department.\nI started with the analysis of the current state, followed by a self-training on the technologies I need to carry out the project well(Tableau software, Excel, Python Libraries, SQL Server DBMS, SSIS).\nThen I proceeded to implement the decision-making system which begins with data gathering and some demonstration dashboards followed by designing a robust ETL pipeline using SSIS powering a data warehouse represented by a SqlServerDB that feeds Tableau software for reporting. \nThe final step involves building dashboards using Tableau Software to better understand the company's data and make the right decisions after a set of analysis.\nDesigning and implementing a robust decision-making solution for optimizing general management operations: My precise work was to build a decision-making solution for the General Management of Ciments du Maroc, especially the sales and control department. I started with the analysis of the current state, followed by a self-training on the technologies I need to carry out the project well(Tableau software, Excel, Python Libraries, SQL Server DBMS, SSIS). Then I proceeded to implement the decision-making system which begins with data gathering and some demonstration dashboards followed by designing a robust ETL pipeline using SSIS powering a data warehouse represented by a SqlServerDB that feeds Tableau software for reporting. The final step involves building dashboards using Tableau Software to better understand the company's data and make the right decisions after a set of analysis.\nSkills: SQL Server Integration Services (SSIS) · Extract, Transform, Load (ETL) · SQL · SQL Server Analysis Services (SSAS) · Statistical Data Analysis · Databases · Machine Learning · Data Science\nSQL Server Integration Services (SSIS) · Extract, Transform, Load (ETL) · SQL · SQL Server Analysis Services (SSAS) · Statistical Data Analysis · Databases · Machine Learning · Data Science"
+            },
+            {
+                "title": "Data Specialist",
+                "company": "textsummarizer · Part-time",
+                "from": "Aug 2022",
+                "to": "Feb 2023",
+                "description": "- A SaaS product to help customers extract text from images using the latest OCR technology and summarize texts using an NLP-based text summarizer enhanced by Machine Learning and Deep Learning inventions.\n- Deployment using Kubernetes open-source management tool.\n- Web application using Python Flask framework.\n- Deployment to digital ocean cloud provider.\n- A SaaS product to help customers extract text from images using the latest OCR technology and summarize texts using an NLP-based text summarizer enhanced by Machine Learning and Deep Learning inventions. - Deployment using Kubernetes open-source management tool. - Web application using Python Flask framework. - Deployment to digital ocean cloud provider.\nSkills: JavaScript · Python (Programming Language) · text summarization · Back-End Web Development · Cloud Applications · Software Development · Optical Character Recognition (OCR) · Software as a Service (SaaS) · Servers · Statistical Data Analysis · gunicorn · Deep Learning · Entrepreneurship · Natural Language Processing (NLP) · Web Hosting · Web Development · Flask · Machine Learning · Data Science · DigitalOcean · Web Design\nJavaScript · Python (Programming Language) · text summarization · Back-End Web Development · Cloud Applications · Software Development · Optical Character Recognition (OCR) · Software as a Service (SaaS) · Servers · Statistical Data Analysis · gunicorn · Deep Learning · Entrepreneurship · Natural Language Processing (NLP) · Web Hosting · Web Development · Flask · Machine Learning · Data Science · DigitalOcean · Web Design\nWeb App interace\nWeb App interace\nMain features\nMain features\nThe story behind\nThe story behind"
+            },
+            {
+                "title": "Data Scientist",
+                "company": "Computer and Systems Engineering Laboratory (L2IS)-FSTM- · Internship",
+                "from": "Jul 2022",
+                "to": "Aug 2022",
+                "description": "Our project delivers high-quality statistics of companies` E-reputation in order to help them improve their business and quality of work because a company's reputation can bring a lot of opportunities and collaborations to it.\nWe've developed a web app backed by AI especially NLP applications for text mining.\nWe've scraped data from an online newspaper in order to analyze the sentences.\nOur main goal was to come up with a lot of information & data about each company presented within our website & thus making our platform more sophisticated.\nThis project was presented during the ceremony of projects within our faculty and we've been classed 3rd.\nOur project delivers high-quality statistics of companies` E-reputation in order to help them improve their business and quality of work because a company's reputation can bring a lot of opportunities and collaborations to it. We've developed a web app backed by AI especially NLP applications for text mining. We've scraped data from an online newspaper in order to analyze the sentences. Our main goal was to come up with a lot of information & data about each company presented within our website & thus making our platform more sophisticated. This project was presented during the ceremony of projects within our faculty and we've been classed 3rd.\nSkills: Python (Programming Language) · Analytical Skills · SQL · Statistical Data Analysis · Natural Language Processing (NLP) · English · Databases · Web Development · Machine Learning · Data Science · Web Design\nPython (Programming Language) · Analytical Skills · SQL · Statistical Data Analysis · Natural Language Processing (NLP) · English · Databases · Web Development · Machine Learning · Data Science · Web Design\nWeb capture_8-2-2023_165345_www.canva.com.jpeg\nWeb capture_8-2-2023_165345_www.canva.com.jpeg\nWeb capture_8-2-2023_165318_www.canva.com.jpeg\nWeb capture_8-2-2023_165318_www.canva.com.jpeg\nNatural Language Processing For Text Classification\nNatural Language Processing For Text Classification"
+            },
+            {
+                "title": "Full Stack Developer",
+                "company": "Atlas Web Solutions · Internship",
+                "from": "Jun 2021",
+                "to": "Aug 2021",
+                "description": "Developing a web app for client management (including profiles, meeting with the company, and registration) of a car wash company using:\n* Laravel\n* VueJS\n* AJAX\n* HTML5\n* CSS\n* BOOTSTRAP5\nDeveloping a web app for client management (including profiles, meeting with the company, and registration) of a car wash company using: * Laravel * VueJS * AJAX * HTML5 * CSS * BOOTSTRAP5\nSkills: JavaScript · AJAX · Software Development · Programming · Vue.js · HTML · Web Development · Bootstrap · Project Management · Cascading Style Sheets (CSS)\nJavaScript · AJAX · Software Development · Programming · Vue.js · HTML · Web Development · Bootstrap · Project Management · Cascading Style Sheets (CSS)"
+            }
+        ],
+        "educations": [
+            {
+                "institution": "Faculty of science & technologies Marrakech",
+                "degree": "Master's degree, Data science & Decision support",
+                "from": "2021",
+                "to": "2023",
+                "description": "N/A"
+            },
+            {
+                "institution": "Faculty of science & technologies Marrakech",
+                "degree": "Master's degree, Data science & Decision support",
+                "from": "2021",
+                "to": "2023",
+                "description": "N/A"
+            },
+            {
+                "institution": "Faculty of science & technologies Marrakech",
+                "degree": "Master's degree, Data science & Decision support",
+                "from": "2021",
+                "to": "2023",
+                "description": "N/A"
+            }
+        ],
+        "interests": [],
+        "accomplishments": [],
+        "contacts": []
+    }
+]

@@ -1,19 +1,16 @@
-import json
-import random
-
-from flask import Flask, jsonify
+from concurrent.futures import thread
+from linkedin_scraper import Person
+from MoroccoLinkedInProfileExtractor import MoroccoLinkedInProfileExtractor
+from dotenv import load_dotenv
+from flask import Config, Flask, jsonify, request
 import os
 import sys
 import logging
-from dotenv import load_dotenv
 import threading
 import time
+import json
+import random
 
-from linkedin_scraper import Person
-
-from MoroccoLinkedInProfileExtractor import MoroccoLinkedInProfileExtractor
-
-# Add the 'scripts' directory to Python path
 SCRIPTS_DIR = os.path.join(os.path.dirname(__file__), 'scripts')
 sys.path.append(SCRIPTS_DIR)
 
@@ -22,10 +19,8 @@ import config
 app = Flask(__name__)
 load_dotenv()
 
-# Setup logging
 logging.basicConfig(level=logging.INFO, format='%(levelname)s - %(message)s')
 
-# Global variables for tracking extraction status
 extraction_status = {
     'running': False,
     'progress': 0,
@@ -47,15 +42,11 @@ def home():
         'message': 'Morocco LinkedIn Profile Extractor API',
         'endpoints': {
             '/': 'This documentation',
-            '/extract': 'Start profile extraction (GET)',
-            '/status': 'Check extraction status',
-            '/profiles': 'Get extracted profiles',
-            '/config': 'Get current configuration',
-            '/health': 'Health check'
+            '/extract': 'Start profile extraction (POST)',
+            '/status': 'Check extraction status'
         },
         'version': '1.0.0'
     })
-
 
 @app.route('/status')
 def get_status():
@@ -63,29 +54,33 @@ def get_status():
     return jsonify(extraction_status)
 
 
-@app.route('/extract')
+@app.route('/extract', methods=['POST'])
 def start_extraction():
-    """Start the LinkedIn profile extraction process"""
     global extraction_status
-    
-    # Check if extraction is already running
+
     if extraction_status['running']:
         return jsonify({
             'error': 'Extraction already in progress',
             'status': extraction_status
         }), 400
-    
-    # Check LinkedIn credentials
+
     email = os.getenv("LINKEDIN_EMAIL")
     password = os.getenv("LINKEDIN_PASSWORD")
-    
+
     if not email or not password:
         return jsonify({
             'error': 'LinkedIn credentials not found in .env file',
             'message': 'Please set LINKEDIN_EMAIL and LINKEDIN_PASSWORD'
         }), 400
-    
-    # Reset status
+
+    data = request.get_json()
+    if not data or "description_project" not in data:
+        return jsonify({
+            "error": "Missing description_project in request body"
+        }), 400
+
+    description_project = data["description_project"]
+
     extraction_status.update({
         'running': True,
         'progress': 0,
@@ -97,31 +92,31 @@ def start_extraction():
         'error': None
     })
     
-    # Start extraction in a separate thread
-    thread = threading.Thread(target=run_extraction_process)
+    thread = threading.Thread(
+        target=run_extraction_process,
+        args=(description_project,)
+    )
     thread.daemon = True
     thread.start()
-    
+
     return jsonify({
         'message': 'Extraction started successfully',
         'status': extraction_status,
         'check_status_url': '/status'
     })
 
-
-def run_extraction_process():
+def run_extraction_process(description_project):
     """Run the full extraction process in background"""
     global extraction_status
     
     try:
-        # Phase 1: Extract Profiles
         extraction_status.update({
             'current_phase': 'extraction',
             'message': 'Extracting LinkedIn profiles...'
         })
         
         extractor = MoroccoLinkedInProfileExtractor()
-        success = extractor.run()
+        success = extractor.run(description_project)
         
         if not success:
             extraction_status.update({
@@ -244,7 +239,6 @@ def run_extraction_process():
             'current_phase': 'error'
         })
 
-
 # Error handlers
 @app.errorhandler(404)
 def not_found():
@@ -264,26 +258,20 @@ def internal_error():
         'message': 'Something went wrong on the server'
     }), 500
 
-
 if __name__ == '__main__':
     print("🇲🇦" + "=" * 60)
     print("   MOROCCO LINKEDIN PROFILE EXTRACTOR - FLASK API")
     print("=" * 63)
-    print(f"📋 Project: {config.PROJECT_DESCRIPTION}")
     print(f"🎯 Target: {config.MAX_PROFILES} profiles from Morocco")
     print(f"🌍 Geographic Focus: {', '.join(config.TARGET_LOCATIONS)}")
     print("=" * 63)
     print("🚀 Starting Flask server...")
     print("📡 API Endpoints:")
     print("   GET  /           - API documentation")
-    print("   GET  /extract    - Start extraction process")
+    print("   POST /extract    - Start extraction process")
     print("   GET  /status     - Check extraction status")
-    print("   GET  /profiles   - Get extracted profiles")
-    print("   GET  /config     - Get configuration")
-    print("   GET  /health     - Health check")
     print("=" * 63)
     
-    # Run the Flask app
     app.run(
         host='0.0.0.0',
         port=5000,

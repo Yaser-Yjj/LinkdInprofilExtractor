@@ -1,7 +1,6 @@
-import time
-import json
-import os
-from datetime import datetime
+from nltk.corpus import stopwords
+from nltk.tokenize import word_tokenize
+from nltk.stem import WordNetLemmatizer
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium import webdriver
@@ -9,18 +8,17 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from webdriver_manager.chrome import ChromeDriverManager
-from linkedin_scraper import actions
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
-import nltk
-from nltk.corpus import stopwords
-from nltk.tokenize import word_tokenize
-from nltk.stem import WordNetLemmatizer
-import re
+from linkedin_scraper import actions
 from dotenv import load_dotenv
+import nltk
+import time
+import json
+import os
+import re
 import config
 
 load_dotenv()
-
 
 class MoroccoLinkedInProfileExtractor:
     def __init__(self):
@@ -166,8 +164,8 @@ class MoroccoLinkedInProfileExtractor:
         except:
             return None
 
-    def run(self):
-        keywords = self.extract_keywords(config.PROJECT_DESCRIPTION)
+    def run(self, project_description):
+        keywords = self.extract_keywords(project_description)
         self.setup_driver()
         if not self.login_to_linkedin():
             return False
