@@ -1,7 +1,7 @@
 import json
 import random
 
-from flask import Flask, jsonify, send_file
+from flask import Flask, jsonify
 import os
 import sys
 import logging
@@ -12,7 +12,6 @@ import time
 from linkedin_scraper import Person
 
 from MoroccoLinkedInProfileExtractor import MoroccoLinkedInProfileExtractor
-from MoroccoLinkedInProfileExtractor import driver
 
 # Add the 'scripts' directory to Python path
 SCRIPTS_DIR = os.path.join(os.path.dirname(__file__), 'scripts')
@@ -157,7 +156,7 @@ def run_extraction_process():
         for url in linkedin_urls:
             print(f"[Scraping] {url}")
             try:
-                person = Person(url, driver=driver, scrape=True, close_on_complete=False)
+                person = Person(url, driver=extractor.driver, scrape=True, close_on_complete=False)
             except Exception as e:
                 print(f"[Scrape] Failed for {url}: {e}")
                 continue
@@ -237,7 +236,7 @@ def run_extraction_process():
 
 # Error handlers
 @app.errorhandler(404)
-def not_found(error):
+def not_found():
     return jsonify({
         'error': 'Endpoint not found',
         'message': 'Please check the URL and try again',
@@ -248,7 +247,7 @@ def not_found(error):
 
 
 @app.errorhandler(500)
-def internal_error(error):
+def internal_error():
     return jsonify({
         'error': 'Internal server error',
         'message': 'Something went wrong on the server'
