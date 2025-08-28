@@ -105,6 +105,21 @@ def start_extraction():
         'check_status_url': '/status'
     })
 
+@app.route('/profil', methods=['GET'])
+def last_json():
+    folder = "profilsExtractor"
+    files = [os.path.join(folder, f) for f in os.listdir(folder) if f.endswith(".json")]
+    
+    if not files:
+        return jsonify({"error": "No JSON files found"}), 404
+
+    latest_file = max(files, key=os.path.getmtime)
+    
+    with open(latest_file, "r") as f:
+        data = json.load(f)
+    
+    return jsonify(data)
+
 def run_extraction_process(description_project):
     """Run the full extraction process in background"""
     global extraction_status
