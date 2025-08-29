@@ -2,7 +2,7 @@ from concurrent.futures import thread
 from linkedin_scraper import Person
 from MoroccoLinkedInProfileExtractor import MoroccoLinkedInProfileExtractor
 from dotenv import load_dotenv
-from flask import Config, Flask, jsonify, request
+from flask import Flask, Response, jsonify, request
 import os
 import sys
 import logging
@@ -111,14 +111,14 @@ def last_json():
     files = [os.path.join(folder, f) for f in os.listdir(folder) if f.endswith(".json")]
     
     if not files:
-        return jsonify({"error": "No JSON files found"}), 404
+        return Response(json.dumps({"error": "No JSON files found"}), status=404, mimetype='application/json')
 
     latest_file = max(files, key=os.path.getmtime)
     
     with open(latest_file, "r") as f:
-        data = json.load(f)
+        raw_json = f.read()
     
-    return jsonify(data)
+    return Response(raw_json, mimetype='application/json')
 
 def run_extraction_process(description_project):
     """Run the full extraction process in background"""
