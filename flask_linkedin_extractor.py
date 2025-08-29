@@ -98,6 +98,26 @@ def run_extraction_process(description_project):
             except Exception:
                 continue
 
+            unique_educations = []
+            seen_edu = set()
+            for edu in person.educations:
+                edu_tuple = (
+                    safe_get(edu, "institution_name"),
+                    safe_get(edu, "degree"),
+                    safe_get(edu, "from_date"),
+                    safe_get(edu, "to_date"),
+                    safe_get(edu, "description")
+                )
+                if edu_tuple not in seen_edu:
+                    seen_edu.add(edu_tuple)
+                    unique_educations.append({
+                        "institution": edu_tuple[0],
+                        "degree": edu_tuple[1],
+                        "from": edu_tuple[2],
+                        "to": edu_tuple[3],
+                        "description": edu_tuple[4]
+                    })
+
             data = {
                 "url": url,
                 "profile": {
@@ -113,13 +133,7 @@ def run_extraction_process(description_project):
                     "to": safe_get(exp, "to_date"),
                     "description": safe_get(exp, "description")
                 } for exp in person.experiences],
-                "educations": [{
-                    "institution": safe_get(edu, "institution_name"),
-                    "degree": safe_get(edu, "degree"),
-                    "from": safe_get(edu, "from_date"),
-                    "to": safe_get(edu, "to_date"),
-                    "description": safe_get(edu, "description")
-                } for edu in person.educations],
+                "educations": unique_educations,
                 "interests": [safe_get(interest, "name") for interest in person.interests],
                 "accomplishments": [{
                     "category": safe_get(acc, "category"),
