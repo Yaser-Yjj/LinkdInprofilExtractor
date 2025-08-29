@@ -1,292 +1,34 @@
 [
     {
-        "url": "https://www.linkedin.com/in/ayoub-boulbaz",
+        "url": "https://www.linkedin.com/in/salihikhawla",
         "profile": {
-            "name": "Ayoub Boulbaz",
-            "location": "Casablanca-Settat, Morocco",
-            "about": "Hey there! I'm a Product & Software Engineer passionate about building scalable and impactful solutions that bridge technology and business. I thrive on solving complex problems, optimizing systems, and driving innovation to create seamless user experiences.\n\nLet’s chat. There are no bugs, just cool ideas! xD\n…see more",
-            "open_to_work": "N/A"
-        },
-        "experiences": [
-            {
-                "title": "Software Engineer",
-                "company": "Confidential · Freelance",
-                "from": "Nov 2019",
-                "to": "Present",
-                "description": "Skills: Software Development · Agile Development · Linux · Docker · MySQL · React Native · Node.js · Express.js · Git · NestJS · Extract, Transform, Load (ETL) · Commercetools · React.js · tRPC · Firebase · Agile Methodologies · Google Cloud Platform (GCP) · Next.js · PostgreSQL\nSoftware Development · Agile Development · Linux · Docker · MySQL · React Native · Node.js · Express.js · Git · NestJS · Extract, Transform, Load (ETL) · Commercetools · React.js · tRPC · Firebase · Agile Methodologies · Google Cloud Platform (GCP) · Next.js · PostgreSQL"
-            },
-            {
-                "title": "Lead Software Engineer",
-                "company": "Effixis, an Artefact Company · Contract",
-                "from": "Nov 2024",
-                "to": "Present",
-                "description": "Skills: tRPC · Next.js\ntRPC · Next.js"
-            },
-            {
-                "title": "Co-founder & Technical Lead",
-                "company": "Aion HealthTech",
-                "from": "Feb 2025",
-                "to": "Present",
-                "description": "N/A"
-            },
-            {
-                "title": "Senior Software Engineer",
-                "company": "LabelVie · Freelance",
-                "from": "Apr 2024",
-                "to": "Feb 2025",
-                "description": "Skills: React Native · Commercetools · NestJS · Nx\nReact Native · Commercetools · NestJS · Nx"
-            },
-            {
-                "title": "Software Consultant",
-                "company": "Artefact · Full-time",
-                "from": "May 2023",
-                "to": "Apr 2024",
-                "description": "Skills: Software Development · Agile Development · Linux · React Native · Extract, Transform, Load (ETL) · Agile Methodologies · Google Cloud Platform (GCP) · GraphQL · Next.js\nSoftware Development · Agile Development · Linux · React Native · Extract, Transform, Load (ETL) · Agile Methodologies · Google Cloud Platform (GCP) · GraphQL · Next.js"
-            },
-            {
-                "title": "Software Consultant",
-                "company": "Maltem Africa · Full-time",
-                "from": "Aug 2022",
-                "to": "May 2023",
-                "description": "Skills: Software Development · Agile Development · Javascript · Node.js · Git · React.js · JavaScript · Agile Methodologies · Java\nSoftware Development · Agile Development · Javascript · Node.js · Git · React.js · JavaScript · Agile Methodologies · Java"
-            },
-            {
-                "title": "Research Assistant",
-                "company": "Oracle · Internship",
-                "from": "Mar 2022",
-                "to": "Jul 2022",
-                "description": "Skills: Software Development · Agile Development · Linux · Agile Methodologies · Java\nSoftware Development · Agile Development · Linux · Agile Methodologies · Java"
-            },
-            {
-                "title": "Software Engineer",
-                "company": "Kezakoo · Full-time",
-                "from": "Feb 2021",
-                "to": "Mar 2022",
-                "description": "Skills: Software Development · Agile Development · Linux · Agile Methodologies\nSoftware Development · Agile Development · Linux · Agile Methodologies"
-            }
-        ],
-        "educations": [
-            {
-                "institution": "1337 Coding School",
-                "degree": "Computer Science Student, Computer Science",
-                "from": "N/A",
-                "to": "N/A",
-                "description": "Activities and societies: Chess\nActivities and societies: Chess\nSkills: GraphQL · Linux · Software Development\nGraphQL · Linux · Software Development"
-            },
-            {
-                "institution": "1337 Coding School",
-                "degree": "Computer Science Student, Computer Science",
-                "from": "N/A",
-                "to": "N/A",
-                "description": "Activities and societies: Chess\nActivities and societies: Chess\nSkills: GraphQL · Linux · Software Development\nGraphQL · Linux · Software Development"
-            }
-        ],
-        "interests": [],
-        "accomplishments": [],
-        "contacts": []
-    },
-    {
-        "url": "https://www.linkedin.com/in/fahd-elhaloui",
-        "profile": {
-            "name": "Fahd Elhaloui",
-            "location": "Rabat, Rabat-Salé-Kénitra, Morocco",
-            "about": "I'm infinite\nI'm infinite",
-            "open_to_work": "N/A"
-        },
-        "experiences": [
-            {
-                "title": "Software Engineer",
-                "company": "Caisse de Dépôt et de Gestion · Internship",
-                "from": "Jul 2025",
-                "to": "Present",
-                "description": "N/A"
-            },
-            {
-                "title": "DevOps Engineer",
-                "company": "Mossahamati · Internship",
-                "from": "Jul 2024",
-                "to": "Jul 2024",
-                "description": "I'm excited to share that I've embarked on a DevOps internship at Mossahamati. In this role, I am honing my skills with Docker, Selenium for testing, and Jenkins for continuous integration.\n\nThis opportunity allows me to dive deep into containerization, ensure robust and automated testing, and streamline our integration processes. I'm looking forward to applying these skills in real-world scenarios and contributing to our projects at Mossahamati.\n\nStay tuned for updates on this exciting journey!\nI'm excited to share that I've embarked on a DevOps internship at Mossahamati. In this role, I am honing my skills with Docker, Selenium for testing, and Jenkins for continuous integration. This opportunity allows me to dive deep into containerization, ensure robust and automated testing, and streamline our integration processes. I'm looking forward to applying these skills in real-world scenarios and contributing to our projects at Mossahamati. Stay tuned for updates on this exciting journey!\nSkills: docker · Selenium · Python (Programming Language) · Docker Swarm · Jenkins\ndocker · Selenium · Python (Programming Language) · Docker Swarm · Jenkins"
-            }
-        ],
-        "educations": [
-            {
-                "institution": "Université Internationale de Rabat",
-                "degree": "Bachelor of Engineering - BE, Cloud computing and Virtualization ",
-                "from": "2022",
-                "to": "2026",
-                "description": "Grade: 3rd year\nGrade: 3rd year"
-            },
-            {
-                "institution": "Université Internationale de Rabat",
-                "degree": "Bachelor of Engineering - BE, Cloud computing and Virtualization ",
-                "from": "2022",
-                "to": "2026",
-                "description": "Grade: 3rd year\nGrade: 3rd year"
-            }
-        ],
-        "interests": [],
-        "accomplishments": [],
-        "contacts": []
-    },
-    {
-        "url": "https://www.linkedin.com/in/anas-aatef-a41627153",
-        "profile": {
-            "name": "Anas AATEF",
-            "location": "Morocco",
+            "name": "Khawla Salihi",
+            "location": "Agadir, Souss-Massa, Maroc",
             "about": "N/A",
             "open_to_work": "N/A"
         },
         "experiences": [
             {
-                "title": "Engineer",
-                "company": "LABORATOIRE PUBLIC D'ESSAIS ET D'ETUDES (LPEE)",
-                "from": "Dec 2018",
-                "to": "Present",
-                "description": "Hydraulic Modeling Engineer in Public Laboratory for Trials and Studies (LPEE):\n\n+) Hydraulic Physical Modeling of Toudgha Dam.\n+) Statistical flood frequency analysis of Toudgha district.\n+) Developing a routing study application by Python for dams flood studies.\nHydraulic Modeling Engineer in Public Laboratory for Trials and Studies (LPEE): +) Hydraulic Physical Modeling of Toudgha Dam. +) Statistical flood frequency analysis of Toudgha district. +) Developing a routing study application by Python for dams flood studies."
-            },
-            {
-                "title": "Engineer",
-                "company": "MDC INGÉNIERIE · Full-time",
-                "from": "Sep 2018",
-                "to": "Oct 2018",
-                "description": "Design office Engineer in MDC Ingénierie:\n+) Developing BRAAN 4.0: EDF application for determining incident waves significant heights\non coastal breakwaters.\nDesign office Engineer in MDC Ingénierie: +) Developing BRAAN 4.0: EDF application for determining incident waves significant heights on coastal breakwaters."
-            },
-            {
-                "title": "Graduation Internship",
-                "company": "MDC INGÉNIERIE · Internship",
-                "from": "Feb 2018",
-                "to": "May 2018",
-                "description": "Graduation Senior Project in MDC Ingénierie « New Jorf Lasfar Harbour »:\n\n+) Developing BRAAN 7: Harbour Resonance Simulator for coastal modeling applications.\n+) New Jorf Lasfar harbour resonance study using MIKE 21 and BRAAN 7: Harbour Resonance Simulator.\n+) Design of rubble mound breakwater and stability geotechnical study.\nGraduation Senior Project in MDC Ingénierie « New Jorf Lasfar Harbour »: +) Developing BRAAN 7: Harbour Resonance Simulator for coastal modeling applications. +) New Jorf Lasfar harbour resonance study using MIKE 21 and BRAAN 7: Harbour Resonance Simulator. +) Design of rubble mound breakwater and stability geotechnical study."
-            },
-            {
-                "title": "Intern",
-                "company": "GERAB · Internship",
-                "from": "Oct 2017",
-                "to": "Nov 2017",
-                "description": "Supervision of water supply project in Demenate and Azilal rural areas from Hassan 1 st dam.\nSupervision of water supply project in Demenate and Azilal rural areas from Hassan 1 st dam."
-            },
-            {
-                "title": "Intern",
-                "company": "ABAQUE Design Office · Internship",
-                "from": "Aug 2017",
-                "to": "Sep 2017",
-                "description": "+) Design and dimensioning of 2, 3 and 4-floors buildings.\n+) Design of formwork plan of 2, 3 and 4-floors buildings.\n+) Design and dimensioning of 2, 3 and 4-floors buildings. +) Design of formwork plan of 2, 3 and 4-floors buildings.\nAbaque BET.png\nAbaque BET.png"
-            },
-            {
-                "title": "Student Leader",
-                "company": "US-Middle East Partnership Initiative (MEPI)",
-                "from": "Jun 2017",
-                "to": "Aug 2017",
-                "description": "MEPI 2017 Student Leader Alumnus\nThe Student Leaders Program (SLP) is a rigorous leadership and civic engagement program for up to 60 competitively selected undergraduate and graduate students between the ages of 20 and 24 from the Middle East and North Africa (MENA) region.\nMEPI 2017 Student Leader Alumnus The Student Leaders Program (SLP) is a rigorous leadership and civic engagement program for up to 60 competitively selected undergraduate and graduate students between the ages of 20 and 24 from the Middle East and North Africa (MENA) region."
-            },
-            {
-                "title": "Intern",
-                "company": "TRansafric, Etudes, Contrôle et Qualité (TR.E.C.Q.) laboratory · Internship",
-                "from": "Jul 2016",
-                "to": "Jul 2016",
-                "description": "+) Roads and buildings experiments and standardization.\n+) ISO 17025 general requirements for the competence of testing and calibration laboratories.\n+) Repayment terms and conditions of laboratory services in construction fields.\n+) Roads and buildings experiments and standardization. +) ISO 17025 general requirements for the competence of testing and calibration laboratories. +) Repayment terms and conditions of laboratory services in construction fields.\nTRECQ 2.png\nTRECQ 2.png"
+                "title": "Full-Stack Developer – DevOpsCrowd ",
+                "company": "DevOpsCrowd",
+                "from": "mai 2024",
+                "to": "juil. 2024",
+                "description": "N/A"
             }
         ],
         "educations": [
             {
-                "institution": "African Leadership Experience",
-                "degree": "Computer Software Engineering",
-                "from": "2023",
-                "to": "2025",
-                "description": "The ALX Software Engineering Program, in partnership with Holberton School and funded by Mastercard Foundation, is an intense 12-month program provided me with essential skills and knowledge for the tech industry through hands-on learning and real-world applications.\n\nIn this program, I learned about Programming, Algorithms and Data Structures, Web Development, DovOps and System Engineering .\n\nThe program's hands-on, project-based approach emphasized my problem-solving and critical thinking.\nThe ALX Software Engineering Program, in partnership with Holberton School and funded by Mastercard Foundation, is an intense 12-month program provided me with essential skills and knowledge for the tech industry through hands-on learning and real-world applications. In this program, I learned about Programming, Algorithms and Data Structures, Web Development, DovOps and System Engineering . The program's hands-on, project-based approach emphasized my problem-solving and critical thinking.\nSkills: Web Development · DevOps · JavaScript · Python · Git · Bash · Algorithms · Data Structures · Linux · Problem Solving · Critical Thinking · Flask · C (Programming Language) · jQuery · SQL · HTML CSS\nWeb Development · DevOps · JavaScript · Python · Git · Bash · Algorithms · Data Structures · Linux · Problem Solving · Critical Thinking · Flask · C (Programming Language) · jQuery · SQL · HTML CSS"
-            },
-            {
-                "institution": "African Leadership Experience",
-                "degree": "Computer Software Engineering",
-                "from": "2023",
-                "to": "2025",
-                "description": "The ALX Software Engineering Program, in partnership with Holberton School and funded by Mastercard Foundation, is an intense 12-month program provided me with essential skills and knowledge for the tech industry through hands-on learning and real-world applications.\n\nIn this program, I learned about Programming, Algorithms and Data Structures, Web Development, DovOps and System Engineering .\n\nThe program's hands-on, project-based approach emphasized my problem-solving and critical thinking.\nThe ALX Software Engineering Program, in partnership with Holberton School and funded by Mastercard Foundation, is an intense 12-month program provided me with essential skills and knowledge for the tech industry through hands-on learning and real-world applications. In this program, I learned about Programming, Algorithms and Data Structures, Web Development, DovOps and System Engineering . The program's hands-on, project-based approach emphasized my problem-solving and critical thinking.\nSkills: Web Development · DevOps · JavaScript · Python · Git · Bash · Algorithms · Data Structures · Linux · Problem Solving · Critical Thinking · Flask · C (Programming Language) · jQuery · SQL · HTML CSS\nWeb Development · DevOps · JavaScript · Python · Git · Bash · Algorithms · Data Structures · Linux · Problem Solving · Critical Thinking · Flask · C (Programming Language) · jQuery · SQL · HTML CSS"
-            },
-            {
-                "institution": "African Leadership Experience",
-                "degree": "Computer Software Engineering",
-                "from": "2023",
-                "to": "2025",
-                "description": "The ALX Software Engineering Program, in partnership with Holberton School and funded by Mastercard Foundation, is an intense 12-month program provided me with essential skills and knowledge for the tech industry through hands-on learning and real-world applications.\n\nIn this program, I learned about Programming, Algorithms and Data Structures, Web Development, DovOps and System Engineering .\n\nThe program's hands-on, project-based approach emphasized my problem-solving and critical thinking.\nThe ALX Software Engineering Program, in partnership with Holberton School and funded by Mastercard Foundation, is an intense 12-month program provided me with essential skills and knowledge for the tech industry through hands-on learning and real-world applications. In this program, I learned about Programming, Algorithms and Data Structures, Web Development, DovOps and System Engineering . The program's hands-on, project-based approach emphasized my problem-solving and critical thinking.\nSkills: Web Development · DevOps · JavaScript · Python · Git · Bash · Algorithms · Data Structures · Linux · Problem Solving · Critical Thinking · Flask · C (Programming Language) · jQuery · SQL · HTML CSS\nWeb Development · DevOps · JavaScript · Python · Git · Bash · Algorithms · Data Structures · Linux · Problem Solving · Critical Thinking · Flask · C (Programming Language) · jQuery · SQL · HTML CSS"
-            },
-            {
-                "institution": "African Leadership Experience",
-                "degree": "Computer Software Engineering",
-                "from": "2023",
-                "to": "2025",
-                "description": "The ALX Software Engineering Program, in partnership with Holberton School and funded by Mastercard Foundation, is an intense 12-month program provided me with essential skills and knowledge for the tech industry through hands-on learning and real-world applications.\n\nIn this program, I learned about Programming, Algorithms and Data Structures, Web Development, DovOps and System Engineering .\n\nThe program's hands-on, project-based approach emphasized my problem-solving and critical thinking.\nThe ALX Software Engineering Program, in partnership with Holberton School and funded by Mastercard Foundation, is an intense 12-month program provided me with essential skills and knowledge for the tech industry through hands-on learning and real-world applications. In this program, I learned about Programming, Algorithms and Data Structures, Web Development, DovOps and System Engineering . The program's hands-on, project-based approach emphasized my problem-solving and critical thinking.\nSkills: Web Development · DevOps · JavaScript · Python · Git · Bash · Algorithms · Data Structures · Linux · Problem Solving · Critical Thinking · Flask · C (Programming Language) · jQuery · SQL · HTML CSS\nWeb Development · DevOps · JavaScript · Python · Git · Bash · Algorithms · Data Structures · Linux · Problem Solving · Critical Thinking · Flask · C (Programming Language) · jQuery · SQL · HTML CSS"
-            },
-            {
-                "institution": "African Leadership Experience",
-                "degree": "Computer Software Engineering",
-                "from": "2023",
-                "to": "2025",
-                "description": "The ALX Software Engineering Program, in partnership with Holberton School and funded by Mastercard Foundation, is an intense 12-month program provided me with essential skills and knowledge for the tech industry through hands-on learning and real-world applications.\n\nIn this program, I learned about Programming, Algorithms and Data Structures, Web Development, DovOps and System Engineering .\n\nThe program's hands-on, project-based approach emphasized my problem-solving and critical thinking.\nThe ALX Software Engineering Program, in partnership with Holberton School and funded by Mastercard Foundation, is an intense 12-month program provided me with essential skills and knowledge for the tech industry through hands-on learning and real-world applications. In this program, I learned about Programming, Algorithms and Data Structures, Web Development, DovOps and System Engineering . The program's hands-on, project-based approach emphasized my problem-solving and critical thinking.\nSkills: Web Development · DevOps · JavaScript · Python · Git · Bash · Algorithms · Data Structures · Linux · Problem Solving · Critical Thinking · Flask · C (Programming Language) · jQuery · SQL · HTML CSS\nWeb Development · DevOps · JavaScript · Python · Git · Bash · Algorithms · Data Structures · Linux · Problem Solving · Critical Thinking · Flask · C (Programming Language) · jQuery · SQL · HTML CSS"
-            }
-        ],
-        "interests": [],
-        "accomplishments": [],
-        "contacts": []
-    },
-    {
-        "url": "https://www.linkedin.com/in/aymane-ouahmane",
-        "profile": {
-            "name": "Aymane Ouahmane",
-            "location": "Morocco",
-            "about": "Top skills\nTop skills\nJava • Spring Boot • Object-Oriented Design • Backend Web Development\nJava • Spring Boot • Object-Oriented Design • Backend Web Development",
-            "open_to_work": "N/A"
-        },
-        "experiences": [
-            {
-                "title": "Software Engineer",
-                "company": "Brink's Morocco · Contract",
-                "from": "Mar 2025",
-                "to": "Present",
+                "institution": "École Polytechnique d'Agadir",
+                "degree": "Engineer's degree, Computer Software Engineering",
+                "from": "2024",
+                "to": "2026",
                 "description": "N/A"
             },
             {
-                "title": "Software Engineer",
-                "company": "Brink's Morocco · Internship",
-                "from": "Feb 2024",
-                "to": "Aug 2024",
-                "description": "Skills: Java · Spring Boot · Apache Camel · Apache Daffodil · Microsoft SQL Server\nJava · Spring Boot · Apache Camel · Apache Daffodil · Microsoft SQL Server"
-            },
-            {
-                "title": "Software Engineer",
-                "company": "PortNet: \"National Single Window of Foreign Trade\" · Internship",
-                "from": "Jul 2023",
-                "to": "Aug 2023",
-                "description": "Skills: Java · Spring Integration · Docker · Smooks · JUnit\nJava · Spring Integration · Docker · Smooks · JUnit"
-            },
-            {
-                "title": "Backend Developer",
-                "company": "Innovstream · Internship",
-                "from": "Aug 2022",
-                "to": "Aug 2022",
-                "description": "Skills: Java · Spring Boot · RESTful Web Services · Spring Security · Neo4j\nJava · Spring Boot · RESTful Web Services · Spring Security · Neo4j"
-            },
-            {
-                "title": "Fullstack Developer",
-                "company": "E.T.I.S. Maroc · Internship",
-                "from": "Jun 2021",
-                "to": "Jun 2021",
-                "description": "Skills: PHP · Laravel · MySQL · HTML · Cascading Style Sheets (CSS) · Bootstrap\nPHP · Laravel · MySQL · HTML · Cascading Style Sheets (CSS) · Bootstrap"
-            }
-        ],
-        "educations": [
-            {
-                "institution": "ENSET Mohammedia",
-                "degree": "Engineer's degree, Software Engineering",
-                "from": "2021",
-                "to": "2024",
-                "description": "N/A"
-            },
-            {
-                "institution": "ENSET Mohammedia",
-                "degree": "Engineer's degree, Software Engineering",
-                "from": "2021",
-                "to": "2024",
+                "institution": "École Polytechnique d'Agadir",
+                "degree": "Engineer's degree, Computer Software Engineering",
+                "from": "2024",
+                "to": "2026",
                 "description": "N/A"
             }
         ],

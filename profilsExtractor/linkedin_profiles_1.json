@@ -1,200 +1,63 @@
 [
     {
-        "url": "https://www.linkedin.com/in/itsachrafmansari",
+        "url": "https://www.linkedin.com/in/rida-lagnaoui-834570238",
         "profile": {
-            "name": "Achraf Mansari",
-            "location": "Casablanca, Casablanca-Settat, Morocco",
-            "about": "I’m a 2nd year Master’s student in Data Science at ENSA Khouribga, actively seeking an end-of-studies internship (Stage PFE) starting from February 2026 in projects related to AI & ML, Data Science or software engineering.\n\nI develop and deploy full-stack applications, integrate machine learning models, and work with structured/unstructured data to create practical, maintainable solutions.\n\nMy skills include :\n- AI & Data Science: Python (Pandas, NumPy, Scikit-learn, Matplotlib), Data Cleaning, Statistical Analysis, Predictive Modeling, Dashboards.\n- Web Development: ReactJS, Django, Flask, REST APIs, API optimization.\n- Deployment & Cloud: Docker, AWS, Heroku, Railway, Vercel.\n- Databases: PostgreSQL, MySQL.\n\nIf your team is working on innovative AI or ML projects and needs a motivated, adaptable intern ready to contribute from day one, let’s talk!",
+            "name": "Rida Lagnaoui",
+            "location": "Maroc",
+            "about": "Actuellement Ingénieur Mobile Dev chez The White Camel Camps, je conçois des applications mobiles innovantes et performantes en utilisant Flutter et des architectures modernes comme MVC. J'intègre des solutions avancées telles que Firebase pour la gestion des utilisateurs et des réservations, ainsi que des API sécurisées comme Payzone pour les paiements. \n\nDiplômé en cours de l'Ecole Marocaine des Sciences de l'ingénieur en Ingénierie Informatique et Réseaux MIAGE, je suis également consultant SEO et développeur web freelance. Mon travail se concentre sur l'optimisation des performances des sites, le référencement technique et la création d'expériences utilisateur fluides. Je suis motivé par la collaboration sur des projets ambitieux et orientés utilisateur.\n…voir plus",
             "open_to_work": "N/A"
         },
         "experiences": [
             {
-                "title": "Intern",
-                "company": "EXPERIO · Internship",
-                "from": "Jul 2025",
-                "to": "Present",
-                "description": "Automated LinkedIn lead generation with AI and WhatsApp integration\n\n\nDeveloped a full-stack (Django + React) chatbot-like platform for LinkedIn lead generation with an automated pipeline (Apache Airflow) to transform prompts into filters (via Gemini), run profile searches (SerpAPI), enrich results (ScrapingDog), and store them in a database, and currently working on WhatsApp Business integration for automated outreach and replies.\nAutomated LinkedIn lead generation with AI and WhatsApp integration Developed a full-stack (Django + React) chatbot-like platform for LinkedIn lead generation with an automated pipeline (Apache Airflow) to transform prompts into filters (via Gemini), run profile searches (SerpAPI), enrich results (ScrapingDog), and store them in a database, and currently working on WhatsApp Business integration for automated outreach and replies.\nSkills: Apache Airflow · Agent-based Modeling · Multi-agent Systems · Artificial Intelligence (AI) · docker · Google Gemini · Web Scraping · REST APIs\nApache Airflow · Agent-based Modeling · Multi-agent Systems · Artificial Intelligence (AI) · docker · Google Gemini · Web Scraping · REST APIs"
+                "title": "Ingénieur Mobile Dev",
+                "company": "The White Camel Camps · Temps plein",
+                "from": "sept. 2024",
+                "to": "aujourd’hui",
+                "description": "Interaction régulière avec les clients pour analyse des besoins et validation des fonctionnalités.\nDéveloppement d’une application mobile de gestion de réservations en Flutter (architecture MVC).\nIntégration Firebase (authentification + Firestore) & paiement sécurisé via Payzone API.\nUI responsive, notifications push, et audits techniques de sites web.\nOptimisation SEO avec Yoast SEO, Ahrefs, PageSpeed Insights.\nInteraction régulière avec les clients pour analyse des besoins et validation des fonctionnalités. Développement d’une application mobile de gestion de réservations en Flutter (architecture MVC). Intégration Firebase (authentification + Firestore) & paiement sécurisé via Payzone API. UI responsive, notifications push, et audits techniques de sites web. Optimisation SEO avec Yoast SEO, Ahrefs, PageSpeed Insights.\nCompétences : Référencement on-page · Marketing digital · Référencement · Recherche par mot-clé · Applications mobiles · Flutter · Applications web · WordPress\nRéférencement on-page · Marketing digital · Référencement · Recherche par mot-clé · Applications mobiles · Flutter · Applications web · WordPress"
             },
             {
-                "title": "Software Development Intern",
-                "company": "OCP Group · Internship",
-                "from": "Jul 2024",
-                "to": "Jul 2024",
-                "description": "Built a Django/ReactJS website to track the process of requesting and distributing retirees' badges.\nBuilt a Django/ReactJS website to track the process of requesting and distributing retirees' badges.\nSkills: Python (Programming Language) · Django · React.js\nPython (Programming Language) · Django · React.js"
+                "title": "📌 Consultant SEO & Développeur Web Freelance | Optimisation, Création & Testing de Sites Web",
+                "company": "Fiverr · Freelance",
+                "from": "janv. 2022",
+                "to": "aujourd’hui",
+                "description": "💼 Services proposés :\n🔹 Audit SEO & Stratégie : Analyse de mots-clés, optimisation on-page et technique.\n🔹 Optimisation SEO On-Page : Structuration des balises HN, optimisation des images, maillage interne, rédaction optimisée.\n🔹 SEO Technique & Expérience Utilisateur : Amélioration de la vitesse, responsive design, sécurité et navigation fluide.\n🔹 SEO Off-Page & Netlinking : Acquisition de backlinks de qualité, suivi des stratégies de netlinking.\n🔹 Suivi & Analyse des KPI SEO : Suivi du trafic, positions Google, performances des backlinks.\n🔹 Création de sites web : Développement de sites vitrines & e-commerce (WordPress, WooCommerce, CMS divers).\n🔹 Testing & Optimisation de sites web : Tests de performance, UX/UI, compatibilité mobile et sécurité.\n\n📊 Outils maîtrisés :\n🔸 Seanking, Ahrefs, Mongools, Dokey.io, Google Search Console, GTmetrix, Monitorank, Semjuice, Yoast SEO, Screaming Frog, WordPress, WooCommerce.\n\n✅ Objectif : Améliorer la visibilité des sites (coachs, e-commerce, génération de leads, blogs), optimiser leur référencement et garantir une expérience utilisateur optimale.\n\n📩 Contactez-moi pour optimiser ou créer votre site web et améliorer votre classement sur Google !🚀\n💼 Services proposés : 🔹 Audit SEO & Stratégie : Analyse de mots-clés, optimisation on-page et technique. 🔹 Optimisation SEO On-Page : Structuration des balises HN, optimisation des images, maillage interne, rédaction optimisée. 🔹 SEO Technique & Expérience Utilisateur : Amélioration de la vitesse, responsive design, sécurité et navigation fluide. 🔹 SEO Off-Page & Netlinking : Acquisition de backlinks de qualité, suivi des stratégies de netlinking. 🔹 Suivi & Analyse des KPI SEO : Suivi du trafic, positions Google, performances des backlinks. 🔹 Création de sites web : Développement de sites vitrines & e-commerce (WordPress, WooCommerce, CMS divers). 🔹 Testing & Optimisation de sites web : Tests de performance, UX/UI, compatibilité mobile et sécurité. 📊 Outils maîtrisés : 🔸 Seanking, Ahrefs, Mongools, Dokey.io, Google Search Console, GTmetrix, Monitorank, Semjuice, Yoast SEO, Screaming Frog, WordPress, WooCommerce. ✅ Objectif : Améliorer la visibilité des sites (coachs, e-commerce, génération de leads, blogs), optimiser leur référencement et garantir une expérience utilisateur optimale. 📩 Contactez-moi pour optimiser ou créer votre site web et améliorer votre classement sur Google !🚀\nCompétences : Spring Boot · node js · Développement Android · SEO off-page · Java · flutter · ASP.NET · WordPress · Angular\nSpring Boot · node js · Développement Android · SEO off-page · Java · flutter · ASP.NET · WordPress · Angular"
             },
             {
-                "title": "Web Development Intern",
-                "company": "1337 Coding School · Internship",
-                "from": "Jun 2024",
-                "to": "Jun 2024",
-                "description": "Developed a Django and ReactJS powered website for 1337 School to automate the internship application and management process, aiming to reduce in-person document submissions.\nDeveloped a Django and ReactJS powered website for 1337 School to automate the internship application and management process, aiming to reduce in-person document submissions.\nSkills: Python (Programming Language) · Django · Django REST Framework · Node.js · React.js · Back-End Web Development · Front-End Development · Web Development · Python\nPython (Programming Language) · Django · Django REST Framework · Node.js · React.js · Back-End Web Development · Front-End Development · Web Development · Python"
+                "title": "Développeur web and Mobile",
+                "company": "VNB-IT · Temps plein",
+                "from": "oct. 2024",
+                "to": "déc. 2024",
+                "description": "Participation active à la maintenance et à l’évolution d’applications mobiles de location immobilière (React Native).\nCollaboration avec plusieurs équipes projet sur le développement de nouvelles fonctionnalités (authentification, paiements, cartographie).\nIntégration de services tiers : Google Maps, Stripe (paiement), authentification via JWT.\nContribution à la synchronisation en temps réel et à la gestion des notifications via Firebase.\nApprofondissement de mes compétences en architecture mobile MVC, UI/UX et bonnes pratiques de développement.\nParticipation active à la maintenance et à l’évolution d’applications mobiles de location immobilière (React Native). Collaboration avec plusieurs équipes projet sur le développement de nouvelles fonctionnalités (authentification, paiements, cartographie). Intégration de services tiers : Google Maps, Stripe (paiement), authentification via JWT. Contribution à la synchronisation en temps réel et à la gestion des notifications via Firebase. Approfondissement de mes compétences en architecture mobile MVC, UI/UX et bonnes pratiques de développement."
             },
             {
-                "title": "Technical Support Intern",
-                "company": "Commune of Oued Zem · Internship",
-                "from": "Jul 2023",
-                "to": "Sep 2023",
-                "description": "Developed a PHP/MySQL powered, user-friendly local website for the 1er annexe of the city commune, eliminating the reliance on thousands of Excel files to manage and print provisional birth certificates.\nDeveloped a PHP/MySQL powered, user-friendly local website for the 1er annexe of the city commune, eliminating the reliance on thousands of Excel files to manage and print provisional birth certificates.\nSkills: Server Side · HTML · Tailwind CSS · Cascading Style Sheets (CSS) · MySQL · PHP\nServer Side · HTML · Tailwind CSS · Cascading Style Sheets (CSS) · MySQL · PHP"
-            }
-        ],
-        "educations": [
-            {
-                "institution": "Ecole Nationale des Sciences Appliquées de Khouribga",
-                "degree": "Master's degree, Computer Science and Mathematics for Data Science",
-                "from": "2024",
-                "to": "2026",
-                "description": "N/A"
+                "title": "Ingénieur en développement full-stack mobile et web",
+                "company": "Xceed · Stage",
+                "from": "févr. 2024",
+                "to": "sept. 2024",
+                "description": "Développement complet d'une application mobile de restauration depuis zéro avec Flutter (frontend), Node.js et MongoDB (backend), et API RESTful sécurisée.\n\nAnalyse fonctionnelle : gestion des utilisateurs, restaurants, foods, categories, carts, orders, ratings, addresses, et tunnel de commande optimisé.\n\nConception de l’architecture logicielle et modélisation avec diagrammes UML (cas d’utilisation, classes, séquences).\n\nIntégration de Stripe (paiements en ligne), Google Maps API (géolocalisation) et Firebase Cloud Messaging (notifications push en temps réel).\n\nRéalisation d’une UI/UX mobile-first, fluide et responsive, pour Android & iOS.\n\nMise en œuvre de tests unitaires, tests d’intégration et validation utilisateur.\n\nRédaction de la documentation technique (API, schémas, guide de déploiement) pour assurer la maintenabilité du projet.\nDéveloppement complet d'une application mobile de restauration depuis zéro avec Flutter (frontend), Node.js et MongoDB (backend), et API RESTful sécurisée. Analyse fonctionnelle : gestion des utilisateurs, restaurants, foods, categories, carts, orders, ratings, addresses, et tunnel de commande optimisé. Conception de l’architecture logicielle et modélisation avec diagrammes UML (cas d’utilisation, classes, séquences). Intégration de Stripe (paiements en ligne), Google Maps API (géolocalisation) et Firebase Cloud Messaging (notifications push en temps réel). Réalisation d’une UI/UX mobile-first, fluide et responsive, pour Android & iOS. Mise en œuvre de tests unitaires, tests d’intégration et validation utilisateur. Rédaction de la documentation technique (API, schémas, guide de déploiement) pour assurer la maintenabilité du projet.\nCompétences : MySQL · Agile Development · stripe · React.js · Logiciel Stripe · Hooks React · mongo db · HTML5 · studio 3t · node js · MongoDB · JSON Web Token (JWT) · back end · Développement Android · Applications mobiles · Java · Flutter · Firebase · Applications web · Langage de modélisation unifié (UML) · Node.js\nMySQL · Agile Development · stripe · React.js · Logiciel Stripe · Hooks React · mongo db · HTML5 · studio 3t · node js · MongoDB · JSON Web Token (JWT) · back end · Développement Android · Applications mobiles · Java · Flutter · Firebase · Applications web · Langage de modélisation unifié (UML) · Node.js"
             },
             {
-                "institution": "Ecole Nationale des Sciences Appliquées de Khouribga",
-                "degree": "Master's degree, Computer Science and Mathematics for Data Science",
-                "from": "2024",
-                "to": "2026",
-                "description": "N/A"
-            }
-        ],
-        "interests": [],
-        "accomplishments": [],
-        "contacts": []
-    },
-    {
-        "url": "https://www.linkedin.com/in/salah-eddine-diouri-a67402277",
-        "profile": {
-            "name": "SALAH EDDINE DIOURI",
-            "location": "Fez, Fès-Meknès, Morocco",
-            "about": "Hi there 🖐! I'm Salah Eddine , \nPassionate about designing and building high-performance applications, I specialize in full-stack development using JavaScript, TypeScript, and modern frameworks like React, Vue, and NestJS. My expertise extends across backend architecture, database optimization, and DevOps, ensuring scalable, efficient, and maintainable solutions.\n\nWith a methodical approach to software engineering, I emphasize clean code, structured logging, microservices design, and SOLID principles. Whether refining UI/UX experiences, optimizing queries for PostgreSQL and MongoDB, or mentoring developers, I thrive in dynamic environments that push technical boundaries.\n\n💡 Dedicated to advancing technology through SaaS platforms, AI-driven applications, and cloud-native solutions. Let’s connect and discuss building scalable systems, mastering TypeScript, and creating impactful software!\n…see more",
-            "open_to_work": "N/A"
-        },
-        "experiences": [
-            {
-                "title": "Technical Instructor – Full-Stack Development",
-                "company": " HEITC · Freelance",
-                "from": "Jun 2025",
-                "to": "Aug 2025",
-                "description": "- Delivered comprehensive training in front-end and back-end development, covering HTML, CSS, JavaScript, TypeScript, and Python.\n\n- Taught modern frameworks and libraries including React.js, Angular, and PHP, preparing students for real-world full-stack roles.\n\n- Instructed on backend development with SQL and NoSQL databases (MySQL, MongoDB), and guided students through RESTful API design.\n\n- Led sessions on algorithms, data structures, and software engineering principles such as TDD, SOLID, and clean code practices.\n\n- Mentored aspiring developers through hands-on projects, code reviews, and technical challenges, fostering job-ready skills.\n- Delivered comprehensive training in front-end and back-end development, covering HTML, CSS, JavaScript, TypeScript, and Python. - Taught modern frameworks and libraries including React.js, Angular, and PHP, preparing students for real-world full-stack roles. - Instructed on backend development with SQL and NoSQL databases (MySQL, MongoDB), and guided students through RESTful API design. - Led sessions on algorithms, data structures, and software engineering principles such as TDD, SOLID, and clean code practices. - Mentored aspiring developers through hands-on projects, code reviews, and technical challenges, fostering job-ready skills.\nSkills: Développement full-stack · JavaScript · Python · Node.js · API REST\nDéveloppement full-stack · JavaScript · Python · Node.js · API REST"
+                "title": "Développeur Java",
+                "company": "Training edge consulting · Stage",
+                "from": "juin 2023",
+                "to": "sept. 2023",
+                "description": "Developed a car rental web application using Python and Django (MVT architecture) with a\n clean and responsive UI.\n Implemented user authentication, car listing with filtering, and a complete reservation system\n including availability check and total price calculation.\n Built admin dashboard for car management (CRUD), booking tracking, and data export.\n Integrated email notifications and used SQLite (or PostgreSQL) for data storage.\nDeveloped a car rental web application using Python and Django (MVT architecture) with a clean and responsive UI. Implemented user authentication, car listing with filtering, and a complete reservation system including availability check and total price calculation. Built admin dashboard for car management (CRUD), booking tracking, and data export. Integrated email notifications and used SQLite (or PostgreSQL) for data storage.\nCompétences : MySQL · SQL · Agile Development · React.js · Logiciel Stripe · CSS · Hooks React · HTML5 · studio 3t · JSON Web Token (JWT) · back end · Java · Flutter · AngularJS · Travail d’équipe · Firebase · Spring Data · Conception visuelle · Langage de modélisation unifié (UML) · Node.js\nMySQL · SQL · Agile Development · React.js · Logiciel Stripe · CSS · Hooks React · HTML5 · studio 3t · JSON Web Token (JWT) · back end · Java · Flutter · AngularJS · Travail d’équipe · Firebase · Spring Data · Conception visuelle · Langage de modélisation unifié (UML) · Node.js"
             },
             {
-                "title": "Senior Full-Stack Developer MERN & PERN ",
-                "company": "LIADTech · Full-time",
-                "from": "May 2025",
-                "to": "Jul 2025",
-                "description": "Passionate about building scalable and modular applications, I specialize in full-stack development using the MERN (MongoDB, Express.js, React, Node.js) and PERN (PostgreSQL, Express.js, React, Node.js) stacks. With a strong foundation in TypeScript, I craft robust, maintainable solutions that enhance application performance and developer experience.\n- 🏗 Architecting scalable backend systems with structured logging, modular services, and optimized database schemas.\n- 🚀 Developing dynamic frontend experiences with React, fine-tuning CSS and PostCSS configurations for efficient styling.\n- 🔍 Debugging and refining production systems, from resolving architecture compatibility issues to optimizing API performance.\n- 🎯 Driving best practices in backend development, ensuring consistency with abstract classes, controllers, and efficient Prisma/MongoDB integration.\nCommitted to iterative refinement and problem-solving, I thrive in delivering high-quality, maintainable software that scales with business needs. Let's build something great together! 🚀\nPassionate about building scalable and modular applications, I specialize in full-stack development using the MERN (MongoDB, Express.js, React, Node.js) and PERN (PostgreSQL, Express.js, React, Node.js) stacks. With a strong foundation in TypeScript, I craft robust, maintainable solutions that enhance application performance and developer experience. - 🏗 Architecting scalable backend systems with structured logging, modular services, and optimized database schemas. - 🚀 Developing dynamic frontend experiences with React, fine-tuning CSS and PostCSS configurations for efficient styling. - 🔍 Debugging and refining production systems, from resolving architecture compatibility issues to optimizing API performance. - 🎯 Driving best practices in backend development, ensuring consistency with abstract classes, controllers, and efficient Prisma/MongoDB integration. Committed to iterative refinement and problem-solving, I thrive in delivering high-quality, maintainable software that scales with business needs. Let's build something great together! 🚀\nSkills: JavaScript · TypeScript · API REST · React.js · Express.js · NestJS · MongoDB · Prisma · PostgreSQL · Méthodologies Agile et Waterfall · Tailwind CSS · Principes SOLID · Testing · Git · Tdd · Node.js\nJavaScript · TypeScript · API REST · React.js · Express.js · NestJS · MongoDB · Prisma · PostgreSQL · Méthodologies Agile et Waterfall · Tailwind CSS · Principes SOLID · Testing · Git · Tdd · Node.js"
-            },
-            {
-                "title": "Lead Instructor - Full-Stack Software Development",
-                "company": "Institut des Techniques Economiques et Informatiques Privé (ITEIP) · Part-time",
-                "from": "Sep 2024",
-                "to": "Mar 2025",
-                "description": "Skills: Développement de logiciels · Développement web · Développement full-stack · Python · API REST · NoSQL · React.js · Bootstrap · HTML5 · Feuilles de style en cascade (CSS) · Angular · Git · GitHub · Laravel\nDéveloppement de logiciels · Développement web · Développement full-stack · Python · API REST · NoSQL · React.js · Bootstrap · HTML5 · Feuilles de style en cascade (CSS) · Angular · Git · GitHub · Laravel"
-            },
-            {
-                "title": "Software Developer",
-                "company": "Alkhawarizmi Services · Freelance",
-                "from": "Nov 2024",
-                "to": "Dec 2024",
-                "description": " helped me get this job\nLinkedIn helped me get this job\nSkills: Développement front-end · Tdd · Angular · JavaScript · TypeScript · Docker · Méthodes agiles\nDéveloppement front-end · Tdd · Angular · JavaScript · TypeScript · Docker · Méthodes agiles"
-            },
-            {
-                "title": "Software Developer",
-                "company": "Business Partners SAS · Full-time",
-                "from": "Jul 2023",
-                "to": "Jun 2024",
-                "description": "Skills: Test Driven Development · GitLab · Scrum · Méthodologies Agile et Waterfall · Automatisation des tests · Spring Boot · API REST · JIRA · API Swagger · PostgreSQL · Amazon Web Services · Ci/CD · Docker · TypeScript · React.js · NestJS\nTest Driven Development · GitLab · Scrum · Méthodologies Agile et Waterfall · Automatisation des tests · Spring Boot · API REST · JIRA · API Swagger · PostgreSQL · Amazon Web Services · Ci/CD · Docker · TypeScript · React.js · NestJS"
-            },
-            {
-                "title": "Full-stack Developer",
-                "company": "Le Carré Digital · Part-time",
-                "from": "Apr 2023",
-                "to": "Jun 2023",
-                "description": "WordPress theme creator\n•Frontend web development\n•Backend API management\nWordPress theme creator •Frontend web development •Backend API management\nSkills: React.js · WordPress · Vue.js\nReact.js · WordPress · Vue.js"
-            },
-            {
-                "title": "Full-stack Developer",
-                "company": "Technopek - Agence Marketing Digital à Agadir · Full-time",
-                "from": "Sep 2022",
-                "to": "Mar 2023",
-                "description": "•Front-end template creator\n•Theme website designer\n•Shopify application developer\n•React & Laravel application developer\n•Front-end template creator •Theme website designer •Shopify application developer •React & Laravel application developer\nSkills: PHP · Shopify · Tailwind CSS · Figma (logiciel) · React.js · Laravel · HTML\nPHP · Shopify · Tailwind CSS · Figma (logiciel) · React.js · Laravel · HTML"
-            },
-            {
-                "title": "Developer",
-                "company": "SmartFlouss! · Full-time",
-                "from": "Feb 2019",
-                "to": "Nov 2021",
-                "description": "• Manage the administrative aspect of the activity\n• Developing a management desktop application.\n• Automate day tasks\n• Manage the administrative aspect of the activity • Developing a management desktop application. • Automate day tasks\nSkills: Import-export · Tkinter · NumPy · CSV · pandas · Python\nImport-export · Tkinter · NumPy · CSV · pandas · Python"
-            }
-        ],
-        "educations": [
-            {
-                "institution": "Faculté des Sciences de Fès",
-                "degree": "Licence, Mathématiques et informatique",
-                "from": "2021",
-                "to": "2022",
-                "description": "Skills: Programmation orientée objet (POO) · C++ · PHP · Java · PL/SQL\nProgrammation orientée objet (POO) · C++ · PHP · Java · PL/SQL"
-            }
-        ],
-        "interests": [],
-        "accomplishments": [],
-        "contacts": []
-    },
-    {
-        "url": "https://www.linkedin.com/in/hamza-oukhouya-b20b361b3",
-        "profile": {
-            "name": "Hamza OUKHOUYA",
-            "location": "Rabat, Rabat-Salé-Kénitra, Morocco",
-            "about": "N/A",
-            "open_to_work": "N/A"
-        },
-        "experiences": [
-            {
-                "title": "Full Stack Engineer",
-                "company": "2CA BUSINESS · Internship",
-                "from": "Jun 2025",
-                "to": "Jul 2025",
-                "description": "laravel vueJS/ReactJs developper\nlaravel vueJS/ReactJs developper\nSkills: API Development · Laravel · PHP · MySQL · PHP Frameworks · React.js · Vue.js · Docker\nAPI Development · Laravel · PHP · MySQL · PHP Frameworks · React.js · Vue.js · Docker"
-            },
-            {
-                "title": "Full Stack Engineer",
-                "company": "SKYLARK SERVICES · Internship",
-                "from": "Oct 2024",
-                "to": "Mar 2025",
-                "description": "Skills: React.js · Spring Boot · Docker · REST APIs · Web Services API · API Development\nReact.js · Spring Boot · Docker · REST APIs · Web Services API · API Development"
-            },
-            {
-                "title": "Microsoft Intune Support Engineer ( B2B )",
-                "company": "Microsoft · Full-time",
-                "from": "Jul 2024",
-                "to": "Oct 2024",
-                "description": "Skills: Cloud Computing · Microsoft Azure · Azure DevOps Server · Azure DevOps Services · Azure Cosmos DB · Amazon Web Services (AWS) · Docker Products · Infrastructure · VMware Infrastructure · Infrastructure as a Service (IaaS) · Platform as a Service (PAAS) · Software as a Service (SaaS) · Microsoft Intune · Active Directory · Microsoft Entra ID\nCloud Computing · Microsoft Azure · Azure DevOps Server · Azure DevOps Services · Azure Cosmos DB · Amazon Web Services (AWS) · Docker Products · Infrastructure · VMware Infrastructure · Infrastructure as a Service (IaaS) · Platform as a Service (PAAS) · Software as a Service (SaaS) · Microsoft Intune · Active Directory · Microsoft Entra ID"
-            },
-            {
-                "title": "Full-stack Developer",
-                "company": "DXC Technology Morocco · Internship",
-                "from": "Feb 2024",
-                "to": "Jul 2024",
-                "description": "Skills: Angular · Scrum · SQL · Bootstrap (Framework) · Spring Boot · Tomcat 5\nAngular · Scrum · SQL · Bootstrap (Framework) · Spring Boot · Tomcat 5"
-            },
-            {
-                "title": "Project Development Manager",
-                "company": "Modcod · Internship",
-                "from": "Aug 2023",
-                "to": "Oct 2023",
-                "description": "Skills: SQL · Redmine\nSQL · Redmine"
+                "title": "Développeur Full-Stack",
+                "company": "MANDITECH SARL · Stage",
+                "from": "juin 2022",
+                "to": "sept. 2022",
+                "description": "Conception et développement : Création d'une plateforme en ligne de réservation de voitures utilisant Java Spring Boot pour le back-end et Vue.js/Angular pour le front-end, offrant une interface fluide et intuitive.\n\nGestion des disponibilités des véhicules : Développement d'un système de gestion des véhicules, permettant aux utilisateurs de consulter en temps réel les véhicules disponibles pour la location selon les dates et lieux choisis.\n\nNotifications automatiques : Implémentation d'un système de notifications automatiques pour informer les utilisateurs des confirmations, modifications ou annulations de réservation.\n\nAuthentification des utilisateurs et contrôle d'accès : Mise en place d'un système sécurisé d'authentification, avec gestion des rôles (administrateur, utilisateur), pour un accès contrôlé aux différentes fonctionnalités de la plateforme.\n\nSuivi et gestion des réservations : Intégration d'un tableau de bord pour les administrateurs, permettant de suivre l’historique des réservations et de générer des rapports statistiques.\n\nTechnologies utilisées : Java, Spring Boot, MySQL, Vue.js/Angular\nConception et développement : Création d'une plateforme en ligne de réservation de voitures utilisant Java Spring Boot pour le back-end et Vue.js/Angular pour le front-end, offrant une interface fluide et intuitive. Gestion des disponibilités des véhicules : Développement d'un système de gestion des véhicules, permettant aux utilisateurs de consulter en temps réel les véhicules disponibles pour la location selon les dates et lieux choisis. Notifications automatiques : Implémentation d'un système de notifications automatiques pour informer les utilisateurs des confirmations, modifications ou annulations de réservation. Authentification des utilisateurs et contrôle d'accès : Mise en place d'un système sécurisé d'authentification, avec gestion des rôles (administrateur, utilisateur), pour un accès contrôlé aux différentes fonctionnalités de la plateforme. Suivi et gestion des réservations : Intégration d'un tableau de bord pour les administrateurs, permettant de suivre l’historique des réservations et de générer des rapports statistiques. Technologies utilisées : Java, Spring Boot, MySQL, Vue.js/Angular\nCompétences : PHP · Agile Development · Logiciel Stripe · .NET framework · CSS · HTML5 · back end · Java · AngularJS · Shopify · Firebase · Langage de modélisation unifié (UML)\nPHP · Agile Development · Logiciel Stripe · .NET framework · CSS · HTML5 · back end · Java · AngularJS · Shopify · Firebase · Langage de modélisation unifié (UML)"
             }
         ],
         "educations": [
             {
                 "institution": "Ecole Marocaine des Sciences de l'ingénieur",
-                "degree": "2019 - 2023",
-                "from": "N/A",
-                "to": "N/A",
-                "description": "Skills: Big Data · C (Programming Language) · PL/SQL · DevOps · Oracle Database · Java · C++ · SQL · Data Analysis\nBig Data · C (Programming Language) · PL/SQL · DevOps · Oracle Database · Java · C++ · SQL · Data Analysis"
-            },
-            {
-                "institution": "Ecole Marocaine des Sciences de l'ingénieur",
-                "degree": "2019 - 2023",
-                "from": "N/A",
-                "to": "N/A",
-                "description": "Skills: Big Data · C (Programming Language) · PL/SQL · DevOps · Oracle Database · Java · C++ · SQL · Data Analysis\nBig Data · C (Programming Language) · PL/SQL · DevOps · Oracle Database · Java · C++ · SQL · Data Analysis"
+                "degree": "Ingénierie Informatique et Réseaux MIAGE",
+                "from": "2019",
+                "to": "2024",
+                "description": "Compétences : Rust · Langage de modélisation unifié (UML) · Node.js · Ensemble de compétences techniques · MySQL · PHP · Esprit · .NET framework · Leadership technique · CSS · Tests d’acceptation · C++ · Next.js · Conception web · Débogage · Kotlin · Agile Development · Odoo · Firebase · Compatibilité multinavigateur · Applications web · ai · Pandas (logiciel) · Machine Learning Operations (MLOps) · AngularJS · MongoDB · OpenID · Développement Android · SOAP · back end · Analyse client · Lingo · ASP.NET · JSON Web Token (JWT) · Ingénierie · Spring Data · Côté serveur · Science informatique · Java · Terraform · Design pour Android · Flutter · Hooks React · Bus de service Azure · Développement front-end · HTML5\nRust · Langage de modélisation unifié (UML) · Node.js · Ensemble de compétences techniques · MySQL · PHP · Esprit · .NET framework · Leadership technique · CSS · Tests d’acceptation · C++ · Next.js · Conception web · Débogage · Kotlin · Agile Development · Odoo · Firebase · Compatibilité multinavigateur · Applications web · ai · Pandas (logiciel) · Machine Learning Operations (MLOps) · AngularJS · MongoDB · OpenID · Développement Android · SOAP · back end · Analyse client · Lingo · ASP.NET · JSON Web Token (JWT) · Ingénierie · Spring Data · Côté serveur · Science informatique · Java · Terraform · Design pour Android · Flutter · Hooks React · Bus de service Azure · Développement front-end · HTML5"
             }
         ],
         "interests": [],
@@ -202,57 +65,29 @@
         "contacts": []
     },
     {
-        "url": "https://www.linkedin.com/in/mtouaamourad",
+        "url": "https://www.linkedin.com/in/ahmedbentabet",
         "profile": {
-            "name": "Mourad MTOUAA",
-            "location": "Casablanca, Casablanca-Settat, Morocco",
-            "about": "As a passionate DevOps Engineer, I specialize in bridging development and operations to deliver efficient, reliable solutions. With hands-on experience in cloud-native architectures, CI/CD pipelines, and infrastructure-as-code, I thrive on optimizing workflows and empowering teams to achieve technical excellence.\nAs a passionate DevOps Engineer, I specialize in bridging development and operations to deliver efficient, reliable solutions. With hands-on experience in cloud-native architectures, CI/CD pipelines, and infrastructure-as-code, I thrive on optimizing workflows and empowering teams to achieve technical excellence.",
+            "name": "Ahmed BENTABET",
+            "location": "Maroc",
+            "about": "I specialize in building high-performance, secure backend systems with a focus on optimization and efficiency. With hands-on experience in Python, C, SQL, and low-level programming, I tackle complex technical challenges head-on to deliver robust solutions.\n\nAt ALX Africa, I worked on real-world projects that sharpened my skills in performance tuning, security, and system architecture. These experiences have given me a deep understanding of backend development, from optimizing code to securing large-scale applications.\n\nI approach every project with a focus on solving problems through clean, efficient code. My goal is to collaborate on projects where I can apply my expertise in backend systems and continue to grow as a developer.\n\nIf you have an interesting project in mind, feel free to contact me at contact.bentabet@gmail.com or on Telegram: @ahmedbentabet.\n…voir plus",
             "open_to_work": "N/A"
         },
         "experiences": [
             {
                 "title": "N/A",
-                "company": "Oracle",
-                "from": "N/A",
+                "company": "alx_africa ",
+                "from": "Contrat en",
                 "to": "N/A",
-                "description": "Member of Technical Staff\nMember of Technical Staff\nFull-time\nFull-time\nSep 2022 - Mar 2025 · 2 yrs 7 mos\nSep 2022 to Mar 2025 · 2 yrs 7 mos\nAt Oracle Labs, I’ve led end-to-end DevOps and SRE efforts across critical products like Data Studio, AutoMLx, and Compass, driving innovation in build systems, test automation, and infrastructure reliability.\n\n🚀 Build, Release & CI/CD Excellence\n\nOrchestrated fast, reliable, and fully automated build & release pipelines using Jenkins, Docker, and Bitbucket—cutting deployment time from hours to minutes.\n\nLed architecture-agnostic builds (ARM & x86), and enforced structured release processes across cloud-native environments.\n\nStreamlined legacy test frameworks to run natively in Kubernetes using dynamic pod provisioning—cutting flaky test rates by 40% and boosting reliability.\n\n☁️ Kubernetes & Cloud Operations\n\nManaged multiple zero-downtime upgrades of Oracle Kubernetes Engine (OKE) clusters.\n\nFully migrated the CI/test/staging platform to a hardened OKE setup—boosting performance and aligning with internal security standards.\n\nEnabled observability and performance tracking through custom dashboards, SonarQube, and monitoring hooks.\n\n🔐 Security-First Automation\n\nIntegrated tools like Grype and Anchore in CI workflows for early CVE detection and container scanning.\n\nEnforced DevSecOps practices across pipelines, improving system hardening and policy compliance.\n\n🤝 Team Enablement & Collaboration\n\nMentored junior engineers and interns, providing onboarding, code reviews, and knowledge-sharing sessions.\n\nActively collaborated with developers, architects, and QA engineers to ship scalable, secure, and production-ready features on Oracle Cloud Infrastructure (OCI).\nAt Oracle Labs, I’ve led end-to-end DevOps and SRE efforts across critical products like Data Studio, AutoMLx, and Compass, driving innovation in build systems, test automation, and infrastructure reliability. 🚀 Build, Release & CI/CD Excellence Orchestrated fast, reliable, and fully automated build & release pipelines using Jenkins, Docker, and Bitbucket—cutting deployment time from hours to minutes. Led architecture-agnostic builds (ARM & x86), and enforced structured release processes across cloud-native environments. Streamlined legacy test frameworks to run natively in Kubernetes using dynamic pod provisioning—cutting flaky test rates by 40% and boosting reliability. ☁️ Kubernetes & Cloud Operations Managed multiple zero-downtime upgrades of Oracle Kubernetes Engine (OKE) clusters. Fully migrated the CI/test/staging platform to a hardened OKE setup—boosting performance and aligning with internal security standards. Enabled observability and performance tracking through custom dashboards, SonarQube, and monitoring hooks. 🔐 Security-First Automation Integrated tools like Grype and Anchore in CI workflows for early CVE detection and container scanning. Enforced DevSecOps practices across pipelines, improving system hardening and policy compliance. 🤝 Team Enablement & Collaboration Mentored junior engineers and interns, providing onboarding, code reviews, and knowledge-sharing sessions. Actively collaborated with developers, architects, and QA engineers to ship scalable, secure, and production-ready features on Oracle Cloud Infrastructure (OCI).\nSkills: Programming · Git · JUnit · Jenkins · Software Development · Kubernetes · Release Management · Automation · CI · DevOps · Spring Framework · Maven · Java · Gradle · Docker Products · Continuous Integration and Continuous Delivery (CI/CD) · Groovy · Test Automation · Oracle Database · Engineering · Agile Methodologies · Oracle Cloud · Continuous Integration (CI) · Spring Boot\nProgramming · Git · JUnit · Jenkins · Software Development · Kubernetes · Release Management · Automation · CI · DevOps · Spring Framework · Maven · Java · Gradle · Docker Products · Continuous Integration and Continuous Delivery (CI/CD) · Groovy · Test Automation · Oracle Database · Engineering · Agile Methodologies · Oracle Cloud · Continuous Integration (CI) · Spring Boot\nJunior Member Of Technical Staff\nJunior Member Of Technical Staff\nFull-time\nFull-time\nAug 2021 - Sep 2022 · 1 yr 2 mos\nAug 2021 to Sep 2022 · 1 yr 2 mos\nSkills: Programming · Git · JUnit · Jenkins · Software Development · Kubernetes · Release Management · Automation · CI · DevOps · Spring Framework · Maven · Gradle · Docker Products · Continuous Integration and Continuous Delivery (CI/CD) · Groovy · Test Automation · Engineering · Agile Methodologies · Oracle Cloud · Continuous Integration (CI) · Spring Boot\nProgramming · Git · JUnit · Jenkins · Software Development · Kubernetes · Release Management · Automation · CI · DevOps · Spring Framework · Maven · Gradle · Docker Products · Continuous Integration and Continuous Delivery (CI/CD) · Groovy · Test Automation · Engineering · Agile Methodologies · Oracle Cloud · Continuous Integration (CI) · Spring Boot\nResearch Assistant\nResearch Assistant\nInternship\nInternship\nFeb 2021 - Aug 2021 · 7 mos\nFeb 2021 to Aug 2021 · 7 mos\nSkills: Programming · Git · Jenkins · Kubernetes · Automation · Spring Framework · Maven · Gradle · Docker Products · Test Automation · Agile Methodologies · Oracle Cloud · Continuous Integration (CI) · Spring Boot\nProgramming · Git · Jenkins · Kubernetes · Automation · Spring Framework · Maven · Gradle · Docker Products · Test Automation · Agile Methodologies · Oracle Cloud · Continuous Integration (CI) · Spring Boot"
-            },
-            {
-                "title": "Full Stack Developer",
-                "company": "RifTech · Internship",
-                "from": "Jul 2020",
-                "to": "Oct 2020",
-                "description": "Building a cloud-based healthcare management system to centralize Moroccan medical data and provide easy access to all parties including doctors, pharmacists, and patients.\nBuilding a cloud-based healthcare management system to centralize Moroccan medical data and provide easy access to all parties including doctors, pharmacists, and patients.\nSkills: Programming · Git · Django · Software Development · Docker Products · Python (Programming Language)\nProgramming · Git · Django · Software Development · Docker Products · Python (Programming Language)"
-            },
-            {
-                "title": "Summer Intern",
-                "company": "Novelis Co · Internship",
-                "from": "Jul 2020",
-                "to": "Aug 2020",
-                "description": "Realization of a REST API microservice of interceptions of emails, forwarding to the corresponding receivers, and logging using Spring Boot & ReactJS - Mailing System\n» Spring Boot , Spring JPA , Spring Data , Spring Security , Hibernate , Maven , JWT Athentication\nRealization of a REST API microservice of interceptions of emails, forwarding to the corresponding receivers, and logging using Spring Boot & ReactJS - Mailing System » Spring Boot , Spring JPA , Spring Data , Spring Security , Hibernate , Maven , JWT Athentication\nSkills: Programming · Git · Software Development · Spring Framework · Spring Boot\nProgramming · Git · Software Development · Spring Framework · Spring Boot"
-            },
-            {
-                "title": "Summer Intern",
-                "company": "Centre Hospitalier Universitaire Hassan II · Internship",
-                "from": "Jul 2019",
-                "to": "Aug 2019",
-                "description": "Conception and development of Medical Consultation web platform using PHP, MYSQL, AJAX, Bootstrap, and a micro MVC framework to handle routing,\nConception and development of Medical Consultation web platform using PHP, MYSQL, AJAX, Bootstrap, and a micro MVC framework to handle routing,\nSkills: Git · Software Development\nGit · Software Development"
+                "description": "Specialization : Back-end Development\nSpecialization : Back-end Development\naoût 2024 - févr. 2025 · 7 mois\nDu août 2024 au févr. 2025 · 7 mois\nIn the Back-end Development specialization, I gained in-depth knowledge of:\n\n- Advanced JavaScript (ES6, TypeScript) and backend frameworks (Node.js, Flask).\n- Database management with SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, Redis).\n- Authentication & Security, including encryption, token-based authentication, and data protection.\n- Scalability techniques such as caching, pagination, and background job processing (queues).\n- RESTful API development, third-party service integration, and best practices for API security and performance.\n- Performance optimization, load balancing, and system reliability strategies.\n\nPortfolio Project – Foodify\n\n- Developed Foodify, a full-stack application showcasing database design, API development, and system architecture.\n- Implemented user authentication, data caching, and asynchronous task processing for a seamless experience.\n- Designed an optimized, scalable backend with SQLAlchemy, Flask, and RESTful APIs.\n- Integrated third-party services to enhance functionality and user experience.\nIn the Back-end Development specialization, I gained in-depth knowledge of: - Advanced JavaScript (ES6, TypeScript) and backend frameworks (Node.js, Flask). - Database management with SQL (MySQL, PostgreSQL) and NoSQL (MongoDB, Redis). - Authentication & Security, including encryption, token-based authentication, and data protection. - Scalability techniques such as caching, pagination, and background job processing (queues). - RESTful API development, third-party service integration, and best practices for API security and performance. - Performance optimization, load balancing, and system reliability strategies. Portfolio Project – Foodify - Developed Foodify, a full-stack application showcasing database design, API development, and system architecture. - Implemented user authentication, data caching, and asynchronous task processing for a seamless experience. - Designed an optimized, scalable backend with SQLAlchemy, Flask, and RESTful APIs. - Integrated third-party services to enhance functionality and user experience.\nSoftware Engineering Foundations\nSoftware Engineering Foundations\nfévr. 2023 - juil. 2024 · 1 an 6 mois\nDu févr. 2023 au juil. 2024 · 1 an 6 mois\nALX Software Engineering Program is an intensive, project-based curriculum designed to cultivate problem-solving skills and real-world technical expertise. The program emphasizes hands-on learning, collaboration, and industry best practices in system programming, full-stack development, and DevOps, preparing engineers to tackle complex challenges at scale.\n\n - Proficient in C programming, with expertise in memory management, data structures, algorithms, and shell scripting.\n - Strong Linux and Git foundation, including file systems, permissions, networking, and automation.\n - Hands-on experience in Python, SQL, APIs, DevOps, and system architecture, applying best practices for scalable and maintainable software.\n - Built and contributed to large-scale projects, including Simple Shell, printf implementation, and an Airbnb Clone, demonstrating problem-solving, low-level programming, and software design skills.\nALX Software Engineering Program is an intensive, project-based curriculum designed to cultivate problem-solving skills and real-world technical expertise. The program emphasizes hands-on learning, collaboration, and industry best practices in system programming, full-stack development, and DevOps, preparing engineers to tackle complex challenges at scale. - Proficient in C programming, with expertise in memory management, data structures, algorithms, and shell scripting. - Strong Linux and Git foundation, including file systems, permissions, networking, and automation. - Hands-on experience in Python, SQL, APIs, DevOps, and system architecture, applying best practices for scalable and maintainable software. - Built and contributed to large-scale projects, including Simple Shell, printf implementation, and an Airbnb Clone, demonstrating problem-solving, low-level programming, and software design skills.\nCompétences : Linux · C · Python · MySQL · JavaScript · Data Structures · Algorithms · DevOps\nLinux · C · Python · MySQL · JavaScript · Data Structures · Algorithms · DevOps"
             }
         ],
         "educations": [
             {
-                "institution": "National School of Applied Sciences of Fez",
-                "degree": "Engineer's degree, Computer Engineering",
-                "from": "2016",
-                "to": "2021",
-                "description": "Skills: Django\nDjango"
-            },
-            {
-                "institution": "National School of Applied Sciences of Fez",
-                "degree": "Engineer's degree, Computer Engineering",
-                "from": "2016",
-                "to": "2021",
-                "description": "Skills: Django\nDjango"
+                "institution": "CPGE - Classes préparatoires aux grandes écoles",
+                "degree": "MP/MPSI, Mathematics, Physics, and Engineering Sciences",
+                "from": "2014",
+                "to": "2022",
+                "description": "Completed an intensive undergraduate program in Mathematics, Physics, and Engineering Sciences, a highly demanding curriculum designed to prepare students for France’s top engineering schools. This experience strengthened my problem-solving, logical reasoning, and analytical skills—essential for tackling complex challenges in engineering and technology.\n\nBeyond three years of formal education, I spent five additional years rigorously self-studying the CPGE curriculum, striving for admission to the most elite institutions. While I ultimately did not meet their exceptionally high standards, this journey reinforced my ability to learn independently, persevere through challenges, and manage time effectively—skills that now drive my success in software engineering and beyond.\nCompleted an intensive undergraduate program in Mathematics, Physics, and Engineering Sciences, a highly demanding curriculum designed to prepare students for France’s top engineering schools. This experience strengthened my problem-solving, logical reasoning, and analytical skills—essential for tackling complex challenges in engineering and technology. Beyond three years of formal education, I spent five additional years rigorously self-studying the CPGE curriculum, striving for admission to the most elite institutions. While I ultimately did not meet their exceptionally high standards, this journey reinforced my ability to learn independently, persevere through challenges, and manage time effectively—skills that now drive my success in software engineering and beyond.\nCompétences : Time Management · Problem Solving · Self Learning\nTime Management · Problem Solving · Self Learning"
             }
         ],
         "interests": [],

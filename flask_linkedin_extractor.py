@@ -1,4 +1,4 @@
-from concurrent.futures import thread
+from flask_cors import CORS
 from linkedin_scraper import Person
 from MoroccoLinkedInProfileExtractor import MoroccoLinkedInProfileExtractor
 from dotenv import load_dotenv
@@ -10,13 +10,13 @@ import threading
 import time
 import json
 import random
+import config
 
 SCRIPTS_DIR = os.path.join(os.path.dirname(__file__), 'scripts')
 sys.path.append(SCRIPTS_DIR)
 
-import config
-
 app = Flask(__name__)
+CORS(app)
 load_dotenv()
 
 logging.basicConfig(level=logging.INFO, format='%(levelname)s - %(message)s')
@@ -52,7 +52,6 @@ def home():
 def get_status():
     """Get current extraction status"""
     return jsonify(extraction_status)
-
 
 def run_extraction_process(description_project):
     global extraction_status
@@ -201,7 +200,6 @@ def start_extraction():
         'error': None
     })
 
-    # Run scraping in thread and wait for it
     thread = threading.Thread(target=run_extraction_process, args=(description_project,))
     thread.start()
     thread.join()
@@ -216,6 +214,27 @@ def start_extraction():
             'error': 'Scraping finished but no JSON file was created',
             'status': extraction_status
         })
+
+@app.route('/profiles', methods=['GET'])
+def get_last_profiles():
+    """Return the last saved profiles JSON file"""
+    latest_file = extraction_status.get('latest_file')
+
+    if not latest_file or not os.path.exists(latest_file):
+        folder = "profilsExtractor"
+        if not os.path.exists(folder):
+            return jsonify({"error": "No profiles folder found"}), 404
+
+        files = [os.path.join(folder, f) for f in os.listdir(folder) if f.endswith(".json")]
+        if not files:
+            return jsonify({"error": "No profiles JSON file found"}), 404
+
+        latest_file = max(files, key=os.path.getmtime)
+
+    with open(latest_file, "r", encoding="utf-8") as f:
+        raw_json = f.read()
+
+    return Response(raw_json, mimetype="application/json")
 
 # Error handlers
 @app.errorhandler(404)
@@ -248,6 +267,7 @@ if __name__ == '__main__':
     print("   GET  /           - API documentation")
     print("   POST /extract    - Start extraction process")
     print("   GET  /status     - Check extraction status")
+    print("   GET  /profiles   - display last extracted profiles")
     print("=" * 63)
     
     app.run(
