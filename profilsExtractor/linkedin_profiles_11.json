@@ -1,0 +1,67 @@
+[
+    {
+        "url": "https://www.linkedin.com/in/nada-ayoujil",
+        "profile": {
+            "name": "Nada Ayoujil",
+            "location": "Casablanca, Casablanca-Settat, Maroc",
+            "about": "I am a hardworking and ambitious individual with a passion for Computer Science. I did build a good track as a Full Stack Developer and now, I am in the process of building a good track as a Big Data Engineer. I have good technical skills as well as good interpersonal skills. I am eager to be challenged in order to grow and further improve my programming skills.\nI am a hardworking and ambitious individual with a passion for Computer Science. I did build a good track as a Full Stack Developer and now, I am in the process of building a good track as a Big Data Engineer. I have good technical skills as well as good interpersonal skills. I am eager to be challenged in order to grow and further improve my programming skills.",
+            "open_to_work": "N/A"
+        },
+        "experiences": [
+            {
+                "title": "Big Data Engineer",
+                "company": "Cloud Invest · Temps plein",
+                "from": "janv. 2024",
+                "to": "aujourd’hui",
+                "description": "N/A"
+            },
+            {
+                "title": "Fullstack Developer",
+                "company": "ntonDIGITAL · Stage",
+                "from": "mars 2023",
+                "to": "août 2023",
+                "description": "Design and Development of a Real Estate Management App.\nDesign and Development of a Real Estate Management App.\nCompétences : Node.js · Ionic Framework · HTML · CSS Frameworks · Angular · MySQL · Firebase\nNode.js · Ionic Framework · HTML · CSS Frameworks · Angular · MySQL · Firebase"
+            },
+            {
+                "title": "UX Designer",
+                "company": "PayxPos Tech Ltd · Stage",
+                "from": "sept. 2022",
+                "to": "oct. 2022",
+                "description": "Design and prototyping of users journey.\nDesign and prototyping of users journey.\nCompétences : User Experience (UX) · Adobe XD\nUser Experience (UX) · Adobe XD"
+            },
+            {
+                "title": "Frontend Developer",
+                "company": "Brainnest · Stage",
+                "from": "juin 2022",
+                "to": "juil. 2022",
+                "description": "Frontend Development Industry Training.\nFrontend Development Industry Training.\nCompétences : JavaScript · HTML · Feuilles de style en cascade (CSS)\nJavaScript · HTML · Feuilles de style en cascade (CSS)"
+            },
+            {
+                "title": "Frontend Developer",
+                "company": "Cloud Invest · Stage",
+                "from": "juil. 2021",
+                "to": "août 2021",
+                "description": "Development, deployment and documentation of a messaging API.\nDevelopment, deployment and documentation of a messaging API.\nCompétences : Node.js · Cloud QA · Google Cloud Platform (GCP) · Twilio\nNode.js · Cloud QA · Google Cloud Platform (GCP) · Twilio"
+            }
+        ],
+        "educations": [
+            {
+                "institution": "HEM - Business & Engineering School",
+                "degree": "Master's degree, Big Data Engineering",
+                "from": "2023",
+                "to": "2025",
+                "description": "N/A"
+            },
+            {
+                "institution": "HEM - Business & Engineering School",
+                "degree": "Master's degree, Big Data Engineering",
+                "from": "2023",
+                "to": "2025",
+                "description": "N/A"
+            }
+        ],
+        "interests": [],
+        "accomplishments": [],
+        "contacts": []
+    }
+]
